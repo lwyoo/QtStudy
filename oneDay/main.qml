@@ -7,57 +7,24 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    //자식 qml type 의 좌표 정보는 부모의 좌표에서 상대 좌표로 표시됨
+    //각각의 qml type 간 상대 위치 조정
 
 
-    Item {
-        x: 0
-        y: 0
-        width: parent.width
-        height: parent.height
-
-        Rectangle {
-            width: 100
-            height: 100
-            color: "red"
-            Text {
-                text: "부모 좌표  x: 0 , y: 0
-자식의 좌표 x: 0 , y: 0 "
-            }
-        }
+    Rectangle {
+        id: rec1
+        width: 100
+        height: 100
+        color: "red"
     }
 
-    Item {
-        x: 0
-        y: 300
-        width: parent.width
-        height: parent.height
+    Rectangle {
+        id: rec2
+        width: 100
+        height: 100
+        color: "green"
+        x: rec1.x + rec1.width + 100
 
-        Rectangle {
-            width: 100
-            height: 100
-            color: "green"
-            Text {
-                text: "부모 좌표  x: 0 , y: 300\n자식의 좌표 x: 300 , y: 0 "
-            }
-        }
+
     }
 
-
-    Item {
-        x: 0
-        y: 300
-        width: parent.width
-        height: parent.height
-
-        Rectangle {
-            x: 300
-            width: 100
-            height: 100
-            color: "yellow"
-            Text {
-                text: "부모 좌표  x: 0 , y: 300\n자식의 좌표 x: 0 , y: 0 "
-            }
-        }
-    }
 }
