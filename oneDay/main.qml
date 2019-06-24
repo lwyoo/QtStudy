@@ -7,25 +7,57 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // 동일한 레벨에서  각 화면에 대한 order 값은 선언된 순서대로 표출됨
-    // 각 qml type 의 z 값을 설정 하여 변경 가능
-    // z default value : 0
+    //자식 qml type 의 좌표 정보는 부모의 좌표에서 상대 좌표로 표시됨
 
-    Rectangle {
-        width: 300
-        height: 300
-        color: "red"
+
+    Item {
+        x: 0
+        y: 0
+        width: parent.width
+        height: parent.height
+
+        Rectangle {
+            width: 100
+            height: 100
+            color: "red"
+            Text {
+                text: "부모 좌표  x: 0 , y: 0
+자식의 좌표 x: 0 , y: 0 "
+            }
+        }
     }
 
-    Rectangle {
-        width: 200
-        height: 200
-        color: "blue"
+    Item {
+        x: 0
+        y: 300
+        width: parent.width
+        height: parent.height
+
+        Rectangle {
+            width: 100
+            height: 100
+            color: "green"
+            Text {
+                text: "부모 좌표  x: 0 , y: 300\n자식의 좌표 x: 300 , y: 0 "
+            }
+        }
     }
 
-    Rectangle {
-        width: 100
-        height: 100
-        color: "yellow"
+
+    Item {
+        x: 0
+        y: 300
+        width: parent.width
+        height: parent.height
+
+        Rectangle {
+            x: 300
+            width: 100
+            height: 100
+            color: "yellow"
+            Text {
+                text: "부모 좌표  x: 0 , y: 300\n자식의 좌표 x: 0 , y: 0 "
+            }
+        }
     }
 }
