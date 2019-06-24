@@ -9,7 +9,6 @@ Window {
 
     //각각의 qml type 간 상대 위치 조정
 
-
     Rectangle {
         id: rec1
         width: 100
@@ -22,8 +21,8 @@ Window {
         width: 100
         height: 100
         color: "green"
-        x: rec1.x + rec1.width + 100
-
+        anchors.left: rec1.right
+        anchors.leftMargin: 100
 
     }
 
