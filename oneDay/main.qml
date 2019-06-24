@@ -7,13 +7,26 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    //각각의 qml type 간 상대 위치 조정
+    //qml signal & slot
+
+    signal mySignal
+
+    signal mySignal2(int arg)
+
+    onMySignal: {
+        console.log("onMySignal")
+    }
+
+    onMySignal2: {
+        console.log("onMySignal2", arg)
+    }
 
     Rectangle {
         id: rec1
         width: 100
         height: 100
         color: "red"
+        anchors.centerIn: parent
     }
 
     Rectangle {
@@ -24,6 +37,15 @@ Window {
         anchors.left: rec1.right
         anchors.leftMargin: 100
 
+        MouseArea {
+            anchors.fill: parent
+            onClicked: {
+                mySignal()
+                mySignal2(100)
+            }
+        }
+
     }
+
 
 }
