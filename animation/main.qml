@@ -7,7 +7,7 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // SequentialAnimation - 애니메이션을 순차적으로 실행할 수 있습니다
+    // PauseAnimation - Provides a pause for an animation
 
     Rectangle {
         id: rect
@@ -17,7 +17,13 @@ Window {
         SequentialAnimation {
             running: true
             NumberAnimation { target: rect; property: "x"; to: 50; duration: 1000 }
+
+            PauseAnimation {
+                duration: 2000
+            }
             NumberAnimation { target: rect; property: "y"; to: 50; duration: 1000 }
         }
     }
+
+
 }
