@@ -3,49 +3,47 @@ import QtQuick.Window 2.11
 
 Window {
     visible: true
-    width: 640
-    height: 480
+    width: 100
+    height: 170
     title: qsTr("Hello World")
 
-    //qml signal & slot
-
-    signal mySignal
-
-    signal mySignal2(int arg)
-
-    onMySignal: {
-        console.log("onMySignal")
-    }
-
-    onMySignal2: {
-        console.log("onMySignal2", arg)
-    }
+    property bool isFront: true
 
     Rectangle {
-        id: rec1
-        width: 100
-        height: 100
-        color: "red"
-        anchors.centerIn: parent
-    }
+        width: parent.width
+        height: parent.height
+        border.color: "black"
+        border.width: 3
+        radius: 10
 
-    Rectangle {
-        id: rec2
-        width: 100
-        height: 100
-        color: "green"
-        anchors.left: rec1.right
-        anchors.leftMargin: 100
+        Rectangle {
+            anchors.left: parent.left
+            anchors.leftMargin: 10
+            anchors.right: parent.right
+            anchors.rightMargin: 10
+            anchors.top: parent.top
+            anchors.topMargin: 10
+            anchors.bottom: parent.bottom
+            anchors.bottomMargin: 10
+
+            color: "blue"
+
+            radius: 10
+            visible: isFront
+        }
+        Text {
+            text: "1"
+            anchors.centerIn: parent
+            font.pixelSize: 30
+            visible: !isFront
+        }
 
         MouseArea {
             anchors.fill: parent
-            onClicked: {
-                mySignal()
-                mySignal2(100)
+            onClicked:  {
+                isFront = !isFront
             }
         }
 
     }
-
-
 }
