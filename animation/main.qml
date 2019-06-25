@@ -7,41 +7,44 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // SmoothedAnimation - 속성이 값을 매끄럽게 추적 할 수있게합니다.
+    // PropertyAction 은 애니메이션 중에 즉각적인 속성 변경을 지정하는 데 사용
+
+    //    Item {
+    //        width: 400; height: 400
+
+    //        Rectangle {
+    //            id: rect
+    //            width: 200; height: 100
+    //            color: "red"
+
+    //            states: State {
+    //                name: "rotated"
+    //                PropertyChanges { target: rect; rotation: 180; transformOrigin: Item.BottomRight }
+    //            }
+
+    //            transitions: Transition {
+    //                SequentialAnimation {
+    //                       PropertyAction { target: rect; property: "transformOrigin" }
+    //                       RotationAnimation { duration: 1000; direction: RotationAnimation.Counterclockwise }
+    //                   }
+    //            }
+
+    //            MouseArea {
+    //                anchors.fill: parent
+    //                onClicked: rect.state = "rotated"
+    //            }
+    //        }
+    //    }
 
     Rectangle {
-        width: 800; height: 600
-        color: "blue"
-
-        Rectangle {
-            width: 60; height: 60
-            x: rect1.x - 5; y: rect1.y - 5
-            color: "green"
-
-            Behavior on x { SmoothedAnimation { velocity: 200 } }
-            Behavior on y { SmoothedAnimation { velocity: 200 } }
-        }
-
-        Rectangle {
-            id: rect1
-            width: 50; height: 50
-            color: "red"
-        }
-
-        focus: true
-        Keys.onRightPressed: rect1.x = rect1.x + 100
-        Keys.onLeftPressed: rect1.x = rect1.x - 100
-        Keys.onUpPressed: rect1.y = rect1.y - 100
-        Keys.onDownPressed: rect1.y = rect1.y + 100
-
-        MouseArea {
-            id: myMA
-            anchors.fill: parent
-            onClicked:  {
-                rect1.x = myMA.mouseX
-                rect1.y = myMA.mouseY
-            }
+        id: img
+        width: 200; height: 100
+        color: "red"
+        SequentialAnimation {
+            running: true
+            PropertyAction { target: img; property: "opacity"; value: .1 }
+            NumberAnimation { target: img; property: "width"; to: 300; duration: 3000 }
+            PropertyAction { target: img; property: "opacity"; value: 1 }
         }
     }
-
 }
