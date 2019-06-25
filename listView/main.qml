@@ -59,6 +59,9 @@ Window {
         displaced: Transition {
             NumberAnimation { properties: "x,y"; duration: 400; easing.type: Easing.OutBounce }
         }
+        populate: Transition {
+                NumberAnimation { properties: "x,y"; duration: 1000 }
+            }
 
         focus: true
         Keys.onSpacePressed: model.insert(0, { "name": "Item " + model.count })
