@@ -20,6 +20,8 @@ Window {
 
         delegate:contactDelegate
 
+        highlight: Rectangle { color: "lightsteelblue"; radius: 5 }
+
     }
 
     Component {
