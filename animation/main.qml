@@ -7,19 +7,17 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // RotationAnimation - 회전 값의 변화를 애니메이션화합니다.
+    // SequentialAnimation - 애니메이션을 순차적으로 실행할 수 있습니다
 
     Rectangle {
-        id: rec1
+        id: rect
         width: 100; height: 100
         color: "red"
 
-        RotationAnimation {
-            target: rec1
-            from: 0
-            to: 360
+        SequentialAnimation {
             running: true
-            duration: 1000
+            NumberAnimation { target: rect; property: "x"; to: 50; duration: 1000 }
+            NumberAnimation { target: rect; property: "y"; to: 50; duration: 1000 }
         }
     }
 }
