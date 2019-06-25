@@ -7,21 +7,15 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // PropertyAnimation - 속성 값의 변경 사항을 애니메이션화합니다.
+    // NumberAnimation - Animates changes in qreal-type values
 
-    Rectangle{
-        id: theObject
-        width: 50
-        height: 50
+    Rectangle {
+        width: 100; height: 100
         color: "red"
-    }
 
-    MouseArea {
-        anchors.fill: theObject
-        onClicked: PropertyAnimation {
-            target: theObject;
-            property: "opacity";
-            to: 0
+        NumberAnimation on x {
+            to: 500;
+            duration: 1000
         }
     }
 }
