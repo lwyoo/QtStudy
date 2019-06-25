@@ -8,75 +8,30 @@ Window {
     title: qsTr("Hello World")
 
 
-
-        ListView {
-            id: myListView
-
-            width: 100
-
-            height: 400
-
-            model: MyListModel{}
-
-            delegate:contactDelegate
-
-            highlight: Rectangle { color: "lightsteelblue"; radius: 5 }
-
-            focus: true
-
-            highlightMoveDuration: 1000
-            highlightMoveVelocity: -1
+    Component {
+        id: highlight
+        Rectangle {
+            width: 180; height: 40
+            color: "lightsteelblue"; radius: 5
+            y: list.currentItem.y
+            Behavior on y {
+                SpringAnimation {
+                    spring: 3
+                    damping: 0.2
+                }
+            }
         }
+    }
 
-        Component {
-               id: contactDelegate
-               Item {
-                   width: 180; height: 40
-                   Column {
-                       Text { text: '<b>Name:</b> ' + name }
-                       Text { text: '<b>Number:</b> ' + note }
-                   }
-               }
-           }
-//    ListView {
-//        width: 240; height: 320
-//        model: MyListModel {}
+    ListView {
+        id: list
+        width: 180; height: 200
+        model: MyListModel{}
+        delegate: Text { text: name + "\n" + note }
 
-//        delegate: Rectangle {
-//            width: 100; height: 30
-//            border.width: 1
-//            color: "lightsteelblue"
-//            Text {
-//                anchors.centerIn: parent
-//                text: name
-//            }
-//        }
-
-//        add: Transition {
-//            NumberAnimation { property: "opacity"; from: 0; to: 1.0; duration: 400 }
-//            NumberAnimation { property: "scale"; from: 0; to: 1.0; duration: 400 }
-//        }
-
-//        //화면이 바운드 되는 효과
-//        displaced: Transition {
-//            NumberAnimation { properties: "x,y"; duration: 400; easing.type: Easing.OutBounce }
-//        }
-//        populate: Transition {
-//            NumberAnimation { properties: "x,y"; duration: 1000 }
-//        }
-//        remove: Transition {
-//            ParallelAnimation {
-//                NumberAnimation { property: "opacity"; to: 0; duration: 1000 }
-//                NumberAnimation { properties: "x,y"; to: 100; duration: 1000 }
-//            }
-//        }
-
-//        focus: true
-////        Keys.onSpacePressed: model.insert(0, { "name": "Item " + model.count })
-
-//        Keys.onBacktabPressed:   model.insert(0, { "name": "Item " + model.count })
-//        highlightMoveDuration: 1000
-//        highlightMoveVelocity: -1
-//    }
+        highlight: highlight
+        highlightFollowsCurrentItem: false
+        focus: true
+    }
 
 }
