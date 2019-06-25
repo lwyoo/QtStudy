@@ -7,20 +7,17 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // PauseAnimation - Provides a pause for an animation
+    // ParallelAnimation - Allows animations to be run in parallel
 
     Rectangle {
         id: rect
         width: 100; height: 100
         color: "red"
 
-        SequentialAnimation {
+        ParallelAnimation  {
             running: true
             NumberAnimation { target: rect; property: "x"; to: 50; duration: 1000 }
 
-            PauseAnimation {
-                duration: 2000
-            }
             NumberAnimation { target: rect; property: "y"; to: 50; duration: 1000 }
         }
     }
