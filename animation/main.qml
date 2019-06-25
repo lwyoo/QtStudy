@@ -7,20 +7,29 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // ParallelAnimation - Allows animations to be run in parallel
+    // ParallelAnimation - 애니메이션을 병렬로 실행할 수 있습니다.
 
-    Rectangle {
-        id: rect
-        width: 100; height: 100
-        color: "red"
+    Item {
+        id: container
+        width: 200; height: 200
 
-        ParallelAnimation  {
-            running: true
-            NumberAnimation { target: rect; property: "x"; to: 50; duration: 1000 }
-
-            NumberAnimation { target: rect; property: "y"; to: 50; duration: 1000 }
+        Rectangle {
+            id: myRect
+            width: 100; height: 100
+            color: "red"
         }
-    }
 
+        states: State {
+            name: "reanchored"
+            AnchorChanges { target: myRect; anchors.right: container.right }
+        }
+
+        transitions: Transition {
+            // smoothly reanchor myRect and move into new position
+            AnchorAnimation { duration: 1000 }
+        }
+
+        Component.onCompleted: container.state = "reanchored"
+    }
 
 }
