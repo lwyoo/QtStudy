@@ -35,33 +35,31 @@ Window {
 //               }
 //           }
 //       }
-
-
-
-
-
     ListView {
-        width: 180; height: 200
+        width: 240; height: 320
+        model: MyListModel {}
 
-        Component {
-            id: contactsDelegate
-            Rectangle {
-                id: wrapper
-                width: 180
-                height: contactInfo.height
-                color: ListView.isCurrentItem ? "black" : "red"
-                Text {
-                    id: contactInfo
-                    text: name + ": " + note
-                    color: wrapper.ListView.isCurrentItem ? "red" : "black"
-                }
+        delegate: Rectangle {
+            width: 100; height: 30
+            border.width: 1
+            color: "lightsteelblue"
+            Text {
+                anchors.centerIn: parent
+                text: name
             }
         }
 
-        model: MyListModel {}
-        delegate: contactsDelegate
-        focus: true
-    }
+        add: Transition {
+            NumberAnimation { property: "opacity"; from: 0; to: 1.0; duration: 400 }
+            NumberAnimation { property: "scale"; from: 0; to: 1.0; duration: 400 }
+        }
 
+//        displaced: Transition {
+//            NumberAnimation { properties: "x,y"; duration: 400; easing.type: Easing.OutBounce }
+//        }
+
+        focus: true
+        Keys.onSpacePressed: model.insert(0, { "name": "Item " + model.count })
+    }
 
 }
