@@ -7,14 +7,14 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // NumberAnimation - Animates changes in qreal-type values
+    // ColorAnimation - Animates changes in color values
 
     Rectangle {
         width: 100; height: 100
         color: "red"
 
-        NumberAnimation on x {
-            to: 500;
+        ColorAnimation on color {
+            to: "yellow"
             duration: 1000
         }
     }
