@@ -7,29 +7,41 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-    // ParallelAnimation - 애니메이션을 병렬로 실행할 수 있습니다.
+    // SmoothedAnimation - 속성이 값을 매끄럽게 추적 할 수있게합니다.
 
-    Item {
-        id: container
-        width: 200; height: 200
+    Rectangle {
+        width: 800; height: 600
+        color: "blue"
 
         Rectangle {
-            id: myRect
-            width: 100; height: 100
+            width: 60; height: 60
+            x: rect1.x - 5; y: rect1.y - 5
+            color: "green"
+
+            Behavior on x { SmoothedAnimation { velocity: 200 } }
+            Behavior on y { SmoothedAnimation { velocity: 200 } }
+        }
+
+        Rectangle {
+            id: rect1
+            width: 50; height: 50
             color: "red"
         }
 
-        states: State {
-            name: "reanchored"
-            AnchorChanges { target: myRect; anchors.right: container.right }
-        }
+        focus: true
+        Keys.onRightPressed: rect1.x = rect1.x + 100
+        Keys.onLeftPressed: rect1.x = rect1.x - 100
+        Keys.onUpPressed: rect1.y = rect1.y - 100
+        Keys.onDownPressed: rect1.y = rect1.y + 100
 
-        transitions: Transition {
-            // smoothly reanchor myRect and move into new position
-            AnchorAnimation { duration: 1000 }
+        MouseArea {
+            id: myMA
+            anchors.fill: parent
+            onClicked:  {
+                rect1.x = myMA.mouseX
+                rect1.y = myMA.mouseY
+            }
         }
-
-        Component.onCompleted: container.state = "reanchored"
     }
 
 }
