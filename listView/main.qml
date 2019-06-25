@@ -48,15 +48,17 @@ Window {
                 text: name
             }
         }
+        orientation: ListView.Horizontal
 
         add: Transition {
             NumberAnimation { property: "opacity"; from: 0; to: 1.0; duration: 400 }
             NumberAnimation { property: "scale"; from: 0; to: 1.0; duration: 400 }
         }
 
-//        displaced: Transition {
-//            NumberAnimation { properties: "x,y"; duration: 400; easing.type: Easing.OutBounce }
-//        }
+        //화면이 바운드 되는 효과
+        displaced: Transition {
+            NumberAnimation { properties: "x,y"; duration: 400; easing.type: Easing.OutBounce }
+        }
 
         focus: true
         Keys.onSpacePressed: model.insert(0, { "name": "Item " + model.count })
