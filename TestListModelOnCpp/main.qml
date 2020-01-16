@@ -7,4 +7,14 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
+    Rectangle{
+        width: 600
+        height: 300
+        color: "skyblue"
+        ListView {
+            anchors.fill: parent
+            model:TestListModel
+            delegate: Text { text: "id : " + id + "\tlabel : " + label + "\tisEnable : " + isEnable}
+        }
+    }
 }
