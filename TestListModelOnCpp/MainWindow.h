@@ -1,6 +1,8 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
+#include "TestListModel.h"
+#include "TestListModelElement.h"
 #include <QQmlContext>
 #include <QQuickView>
 
@@ -13,6 +15,7 @@ public:
 
 private:
     QUrl mUrl;
+    TestListModel mTestListModel;
 };
 
 #endif // MAINWINDOW_H
