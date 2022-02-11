@@ -1,0 +1,8166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="ja_JP" sourcelanguage="ja_JP">
+	<context>
+		<name>main</name>
+		<message>
+			<source>LID_</source>
+			<translation>ja_JP_L</translation>
+		</message>
+		<message>
+			<source>LID_0002</source>
+			<translation>走行可能距離</translation>
+		</message>
+		<message>
+			<source>LID_0004</source>
+			<translation>平均電費</translation>
+		</message>
+		<message>
+			<source>LID_0011</source>
+			<translation>累積時間</translation>
+		</message>
+		<message>
+			<source>LID_0014</source>
+			<translation>シフトをPにしてください</translation>
+		</message>
+		<message>
+			<source>LID_0015</source>
+			<translation>スマートキーの電池残量が
+少なくなっています</translation>
+		</message>
+		<message>
+			<source>LID_0016</source>
+			<translation>ハンドルを回しながら
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_0017</source>
+			<translation>ハンドルが
+ロックされていません</translation>
+		</message>
+		<message>
+			<source>LID_0018</source>
+			<translation>ハンドルのロックシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0019</source>
+			<translation>ブレーキペダルを踏んで
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0020</source>
+			<translation>スマートキーを
+認識できません</translation>
+		</message>
+		<message>
+			<source>LID_0022</source>
+			<translation>スマートキーが
+車室内にありません</translation>
+		</message>
+		<message>
+			<source>LID_0023</source>
+			<translation>始動ボタンを
+もう一度押してください</translation>
+		</message>
+		<message>
+			<source>LID_0025</source>
+			<translation>スマートキーで始動ボタンを
+直接押してください</translation>
+		</message>
+		<message>
+			<source>LID_0026</source>
+			<translation>ブレーキスイッチのヒューズを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0027</source>
+			<translation>シフトをPまたはNで
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0028</source>
+			<translation>クラッチペダルを踏んで
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0031</source>
+			<translation>クルーズコントロールが
+選択されました</translation>
+		</message>
+		<message>
+			<source>LID_0033</source>
+			<translation>前方車両発進時
+スイッチ/ペダルを操作してください</translation>
+		</message>
+		<message>
+			<source>LID_0034</source>
+			<translation>スマートクルーズコントロールの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_0035</source>
+			<translation>クルーズコントロールの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_0036</source>
+			<translation>スマートクルーズコントロールが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_0037</source>
+			<translation>クルーズコントロールが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_0038</source>
+			<translation>システムオフ</translation>
+		</message>
+		<message>
+			<source>LID_0040</source>
+			<translation>スマートクルーズコントロールを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0045</source>
+			<translation>前方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_0047</source>
+			<translation>ハンドルを持ってください</translation>
+		</message>
+		<message>
+			<source>LID_0056</source>
+			<translation>後退駐車</translation>
+		</message>
+		<message>
+			<source>LID_0057</source>
+			<translation>縦列駐車</translation>
+		</message>
+		<message>
+			<source>LID_0058</source>
+			<translation>駐車スペース探索中です</translation>
+		</message>
+		<message>
+			<source>LID_0060</source>
+			<translation>駐車スペース探索完了</translation>
+		</message>
+		<message>
+			<source>LID_0061</source>
+			<translation>シフトポジションを
+Dにしてください</translation>
+		</message>
+		<message>
+			<source>LID_0062</source>
+			<translation>シフトポジションを
+Dにしてください</translation>
+		</message>
+		<message>
+			<source>LID_0063</source>
+			<translation>シフトポジションを
+Rにしてください</translation>
+		</message>
+		<message>
+			<source>LID_0065</source>
+			<translation>ハンドルを直接操作して
+駐車を完了してください</translation>
+		</message>
+		<message>
+			<source>LID_0066</source>
+			<translation>ハンドルを持って
+手動で操作してください</translation>
+		</message>
+		<message>
+			<source>LID_0068</source>
+			<translation>速度が速いです
+減速してください</translation>
+		</message>
+		<message>
+			<source>LID_0071</source>
+			<translation>縦列出車モード</translation>
+		</message>
+		<message>
+			<source>LID_0072</source>
+			<translation>出庫スペース探索中です</translation>
+		</message>
+		<message>
+			<source>LID_0074</source>
+			<translation>ハンドルを持って
+安全運転をしてください</translation>
+		</message>
+		<message>
+			<source>LID_0075</source>
+			<translation>障害物に注意しながら
+速度を調節してください</translation>
+		</message>
+		<message>
+			<source>LID_0076</source>
+			<translation>周辺の障害物にご注意ください</translation>
+		</message>
+		<message>
+			<source>LID_0077</source>
+			<translation>探索を完了するまで
+前進してください</translation>
+		</message>
+		<message>
+			<source>LID_0078</source>
+			<translation>ハンドル自動操作中です</translation>
+		</message>
+		<message>
+			<source>LID_0085</source>
+			<translation>AUTO HOLD作動中です</translation>
+		</message>
+		<message>
+			<source>LID_0086</source>
+			<translation>速度調節にご注意ください</translation>
+		</message>
+		<message>
+			<source>LID_0088</source>
+			<translation>パーキングブレーキが
+自動で作動しました</translation>
+		</message>
+		<message>
+			<source>LID_0089</source>
+			<translation>リアブレーキパッド
+交換モードです</translation>
+		</message>
+		<message>
+			<source>LID_0090</source>
+			<translation>AUTO HOLDが解除されます
+ブレーキを踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_0093</source>
+			<translation>ブレーキを踏んでAUTO HOLD
+を解除してください</translation>
+		</message>
+		<message>
+			<source>LID_0096</source>
+			<translation>トラクションコントロールが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_0097</source>
+			<translation>車体姿勢制御機能が
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_0103</source>
+			<translation>AUTO STOPが解除されました
+クラッチペダルを踏んで始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0104</source>
+			<translation>始動するには
+ブレーキを踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_0105</source>
+			<translation>始動するには
+クラッチを踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_0107</source>
+			<translation>始動完了後
+出発してください</translation>
+		</message>
+		<message>
+			<source>LID_0109</source>
+			<translation>シフトレバーを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0110</source>
+			<translation>ブレーキを踏んで
+変速してください</translation>
+		</message>
+		<message>
+			<source>LID_0111</source>
+			<translation>停車後シフトを
+Pにしてください</translation>
+		</message>
+		<message>
+			<source>LID_0113</source>
+			<translation>自動でシフトを
+Pにしました</translation>
+		</message>
+		<message>
+			<source>LID_0114</source>
+			<translation>ブレーキを踏んでP RELEASE
+ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_0116</source>
+			<translation>P RELEASEボタンを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0117</source>
+			<translation>変速条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_0118</source>
+			<translation>UNLOCKボタンを押して
+変速してください</translation>
+		</message>
+		<message>
+			<source>LID_0128</source>
+			<translation>システム点検</translation>
+		</message>
+		<message>
+			<source>LID_0130</source>
+			<translation>ハンドルを回して
+タイヤの位置を合わせてください</translation>
+		</message>
+		<message>
+			<source>LID_0132</source>
+			<translation>照明の明るさ調節</translation>
+		</message>
+		<message>
+			<source>LID_0133</source>
+			<translation>最大</translation>
+		</message>
+		<message>
+			<source>LID_0134</source>
+			<translation>最小</translation>
+		</message>
+		<message>
+			<source>LID_0136</source>
+			<translation>オン</translation>
+		</message>
+		<message>
+			<source>LID_0137</source>
+			<translation>オフ</translation>
+		</message>
+		<message>
+			<source>LID_0141</source>
+			<translation>設定１に変更します</translation>
+		</message>
+		<message>
+			<source>LID_0142</source>
+			<translation>設定１に保存されました</translation>
+		</message>
+		<message>
+			<source>LID_0143</source>
+			<translation>運転位置記憶装置の作動が
+一時停止しました</translation>
+		</message>
+		<message>
+			<source>LID_0148</source>
+			<translation>タイヤ空気圧が低いです</translation>
+		</message>
+		<message>
+			<source>LID_0150</source>
+			<translation>アクティブエアフラップを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0154</source>
+			<translation>ウォッシャー液を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0155</source>
+			<translation>車室内ヒューズボックスの
+スイッチを切替えてください</translation>
+		</message>
+		<message>
+			<source>LID_0157</source>
+			<translation>燃料が不足しています</translation>
+		</message>
+		<message>
+			<source>LID_0159</source>
+			<translation>エンジンオイルが
+不足しています</translation>
+		</message>
+		<message>
+			<source>LID_0162</source>
+			<translation>バッテリーを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0163</source>
+			<translation>水分フィルタを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0169</source>
+			<translation>ヘッドライトが
+反対走行車線に
+合うように設定されています</translation>
+		</message>
+		<message>
+			<source>LID_0171</source>
+			<translation>ヘッドライト冷却ファンを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0172</source>
+			<translation>ヘッドライトLEDを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0173</source>
+			<translation>アクティブフードシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0174</source>
+			<translation>プリアクティブシートベルトを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0176</source>
+			<translation>エンジンが過熱しています</translation>
+		</message>
+		<message>
+			<source>LID_0177</source>
+			<translation>エンジン保護のため
+パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_0186</source>
+			<translation>ハイマウントブレーキランプを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0199</source>
+			<translation>ナンバープレートのランプを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0201</source>
+			<translation>ユーザー設定</translation>
+		</message>
+		<message>
+			<source>LID_0202</source>
+			<translation>ドア</translation>
+		</message>
+		<message>
+			<source>LID_0203</source>
+			<translation>ライト</translation>
+		</message>
+		<message>
+			<source>LID_0204</source>
+			<translation>サウンド</translation>
+		</message>
+		<message>
+			<source>LID_0207</source>
+			<translation>その他の機能</translation>
+		</message>
+		<message>
+			<source>LID_0208</source>
+			<translation>設定</translation>
+		</message>
+		<message>
+			<source>LID_0212</source>
+			<translation>終了</translation>
+		</message>
+		<message>
+			<source>LID_0213</source>
+			<translation>戻る</translation>
+		</message>
+		<message>
+			<source>LID_0214</source>
+			<translation>ドア自動施錠</translation>
+		</message>
+		<message>
+			<source>LID_0215</source>
+			<translation>ドア自動解錠</translation>
+		</message>
+		<message>
+			<source>LID_0216</source>
+			<translation>2回押して全ドア解錠</translation>
+		</message>
+		<message>
+			<source>LID_0218</source>
+			<translation>施錠/解錠通知音</translation>
+		</message>
+		<message>
+			<source>LID_0219</source>
+			<translation>施錠確認音</translation>
+		</message>
+		<message>
+			<source>LID_0221</source>
+			<translation>ヘッドライトエスコート</translation>
+		</message>
+		<message>
+			<source>LID_0222</source>
+			<translation>ウェルカムライト</translation>
+		</message>
+		<message>
+			<source>LID_0224</source>
+			<translation>ワンタッチ方向指示器</translation>
+		</message>
+		<message>
+			<source>LID_0225</source>
+			<translation>３回点滅</translation>
+		</message>
+		<message>
+			<source>LID_0226</source>
+			<translation>５回点滅</translation>
+		</message>
+		<message>
+			<source>LID_0227</source>
+			<translation>７回点滅</translation>
+		</message>
+		<message>
+			<source>LID_0229</source>
+			<translation>言語/Language</translation>
+		</message>
+		<message>
+			<source>LID_0230</source>
+			<translation>温度単位</translation>
+		</message>
+		<message>
+			<source>LID_0231</source>
+			<translation>ウェルカムサウンド</translation>
+		</message>
+		<message>
+			<source>LID_0233</source>
+			<translation>乗降時シート移動</translation>
+		</message>
+		<message>
+			<source>LID_0234</source>
+			<translation>乗降時ハンドル移動</translation>
+		</message>
+		<message>
+			<source>LID_0235</source>
+			<translation>ECOドライブ案内</translation>
+		</message>
+		<message>
+			<source>LID_0237</source>
+			<translation>平均電費自動初期化</translation>
+		</message>
+		<message>
+			<source>LID_0238</source>
+			<translation>オフ</translation>
+		</message>
+		<message>
+			<source>LID_0239</source>
+			<translation>走行時</translation>
+		</message>
+		<message>
+			<source>LID_0240</source>
+			<translation>走行時</translation>
+		</message>
+		<message>
+			<source>LID_0241</source>
+			<translation>シフトポジションをR/N/Dに移動時</translation>
+		</message>
+		<message>
+			<source>LID_0242</source>
+			<translation>シフトをＰに移動時</translation>
+		</message>
+		<message>
+			<source>LID_0243</source>
+			<translation>キーを抜く時</translation>
+		</message>
+		<message>
+			<source>LID_0244</source>
+			<translation>車両電源停止時</translation>
+		</message>
+		<message>
+			<source>LID_0245</source>
+			<translation>運転席ドア解錠時</translation>
+		</message>
+		<message>
+			<source>LID_0253</source>
+			<translation>日本語</translation>
+		</message>
+		<message>
+			<source>LID_0259</source>
+			<translation>車室内ムード照明</translation>
+		</message>
+		<message>
+			<source>LID_0262</source>
+			<translation>設定初期化</translation>
+		</message>
+		<message>
+			<source>LID_0263</source>
+			<translation>初期化</translation>
+		</message>
+		<message>
+			<source>LID_0265</source>
+			<translation>長押し</translation>
+		</message>
+		<message>
+			<source>LID_0272</source>
+			<translation>反対方向走行用照明</translation>
+		</message>
+		<message>
+			<source>LID_0273</source>
+			<translation>HUD使用</translation>
+		</message>
+		<message>
+			<source>LID_0274</source>
+			<translation>画面の高さ</translation>
+		</message>
+		<message>
+			<source>LID_0275</source>
+			<translation>速度メーターの色</translation>
+		</message>
+		<message>
+			<source>LID_0277</source>
+			<translation>画面の明るさ</translation>
+		</message>
+		<message>
+			<source>LID_0278</source>
+			<translation>表示情報</translation>
+		</message>
+		<message>
+			<source>LID_0279</source>
+			<translation>走行経路案内</translation>
+		</message>
+		<message>
+			<source>LID_0285</source>
+			<translation>速度メーターの単位</translation>
+		</message>
+		<message>
+			<source>LID_0288</source>
+			<translation>速度メーターの数字サイズ</translation>
+		</message>
+		<message>
+			<source>LID_0292</source>
+			<translation>HUD</translation>
+		</message>
+		<message>
+			<source>LID_0295</source>
+			<translation>サービス時期通知</translation>
+		</message>
+		<message>
+			<source>LID_0296</source>
+			<translation>ヶ月</translation>
+		</message>
+		<message>
+			<source>LID_0297</source>
+			<translation>サービス時期の
+通知設定が
+保存されていません</translation>
+		</message>
+		<message>
+			<source>LID_0298</source>
+			<translation>サービス時期の
+通知設定が
+保存されました</translation>
+		</message>
+		<message>
+			<source>LID_0299</source>
+			<translation>サービス時期通知オン</translation>
+		</message>
+		<message>
+			<source>LID_0302</source>
+			<translation>White</translation>
+		</message>
+		<message>
+			<source>LID_0303</source>
+			<translation>Orange</translation>
+		</message>
+		<message>
+			<source>LID_0304</source>
+			<translation>Green</translation>
+		</message>
+		<message>
+			<source>LID_0309</source>
+			<translation>道路標識案内</translation>
+		</message>
+		<message>
+			<source>LID_0311</source>
+			<translation>移動なし</translation>
+		</message>
+		<message>
+			<source>LID_0312</source>
+			<translation>移動量　小</translation>
+		</message>
+		<message>
+			<source>LID_0313</source>
+			<translation>移動量　大</translation>
+		</message>
+		<message>
+			<source>LID_0314</source>
+			<translation>パワートランク</translation>
+		</message>
+		<message>
+			<source>LID_0315</source>
+			<translation>パワーテールゲート</translation>
+		</message>
+		<message>
+			<source>LID_0318</source>
+			<translation>便利機能</translation>
+		</message>
+		<message>
+			<source>LID_0323</source>
+			<translation>電費の単位</translation>
+		</message>
+		<message>
+			<source>LID_0331</source>
+			<translation>遅い</translation>
+		</message>
+		<message>
+			<source>LID_0332</source>
+			<translation>速い</translation>
+		</message>
+		<message>
+			<source>LID_0337</source>
+			<translation>メーター音声案内の音量</translation>
+		</message>
+		<message>
+			<source>LID_0339</source>
+			<translation>小</translation>
+		</message>
+		<message>
+			<source>LID_0340</source>
+			<translation>中</translation>
+		</message>
+		<message>
+			<source>LID_0341</source>
+			<translation>大</translation>
+		</message>
+		<message>
+			<source>LID_0343</source>
+			<translation>スマートトランク</translation>
+		</message>
+		<message>
+			<source>LID_0348</source>
+			<translation>サービス時期になりました</translation>
+		</message>
+		<message>
+			<source>LID_0351</source>
+			<translation>サービス時期通知</translation>
+		</message>
+		<message>
+			<source>LID_0353</source>
+			<translation>日</translation>
+		</message>
+		<message>
+			<source>LID_0358</source>
+			<translation>エネルギーの流れ</translation>
+		</message>
+		<message>
+			<source>LID_0359</source>
+			<translation>充電完了までの時間</translation>
+		</message>
+		<message>
+			<source>LID_0362</source>
+			<translation>走行情報</translation>
+		</message>
+		<message>
+			<source>LID_0365</source>
+			<translation>バッテリーの放電防止のため
+燃料を入れてください</translation>
+		</message>
+		<message>
+			<source>LID_0366</source>
+			<translation>ハイブリッドシステム点検！
+安全に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0367</source>
+			<translation>バッテリー充電のために
+停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0368</source>
+			<translation>ハイブリッドシステム点検！
+始動しないでください</translation>
+		</message>
+		<message>
+			<source>LID_0370</source>
+			<translation>ブレーキを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0372</source>
+			<translation>インバーター冷却水を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0373</source>
+			<translation>認証モードです</translation>
+		</message>
+		<message>
+			<source>LID_0374</source>
+			<translation>シフトをPで始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0375</source>
+			<translation>給油口が開くまで
+お待ちください</translation>
+		</message>
+		<message>
+			<source>LID_0377</source>
+			<translation>給油口を点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0384</source>
+			<translation>USB音楽</translation>
+		</message>
+		<message>
+			<source>LID_0385</source>
+			<translation>USB動画</translation>
+		</message>
+		<message>
+			<source>LID_0393</source>
+			<translation>Bluetoothオーディオ</translation>
+		</message>
+		<message>
+			<source>LID_0395</source>
+			<translation>iPod</translation>
+		</message>
+		<message>
+			<source>LID_0396</source>
+			<translation>FM</translation>
+		</message>
+		<message>
+			<source>LID_0397</source>
+			<translation>AM</translation>
+		</message>
+		<message>
+			<source>LID_0400</source>
+			<translation>DMB</translation>
+		</message>
+		<message>
+			<source>LID_0402</source>
+			<translation>チャプター</translation>
+		</message>
+		<message>
+			<source>LID_0405</source>
+			<translation>DVD</translation>
+		</message>
+		<message>
+			<source>LID_0406</source>
+			<translation>CD</translation>
+		</message>
+		<message>
+			<source>LID_0407</source>
+			<translation>USB</translation>
+		</message>
+		<message>
+			<source>LID_0408</source>
+			<translation>AUX</translation>
+		</message>
+		<message>
+			<source>LID_0419</source>
+			<translation>アプリ</translation>
+		</message>
+		<message>
+			<source>LID_0427</source>
+			<translation>経路探索中です</translation>
+		</message>
+		<message>
+			<source>LID_0433</source>
+			<translation>ブレーキランプを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0434</source>
+			<translation>コーナリングランプを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0435</source>
+			<translation>デイタイムランニングライトを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0436</source>
+			<translation>排気ガス装置を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0437</source>
+			<translation>フォグランプを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0438</source>
+			<translation>ヘッドライト&#40;High&#41;を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0439</source>
+			<translation>ヘッドライト&#40;Low&#41;を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0442</source>
+			<translation>車幅灯を点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0445</source>
+			<translation>テールライトを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0446</source>
+			<translation>方向指示器を点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0447</source>
+			<translation>コーディングエラー</translation>
+		</message>
+		<message>
+			<source>LID_0448</source>
+			<translation>設定を保存する番号を
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_0450</source>
+			<translation>パワーが制限されます
+充電してください</translation>
+		</message>
+		<message>
+			<source>LID_0451</source>
+			<translation>EVシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0453</source>
+			<translation>バッテリー充電量が
+不足しています</translation>
+		</message>
+		<message>
+			<source>LID_0454</source>
+			<translation>バッテリー温度が低いため
+パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_0456</source>
+			<translation>パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_0458</source>
+			<translation>ハイブリッドシステム点検！
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0459</source>
+			<translation>充電コネクタを外して
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0461</source>
+			<translation>電気</translation>
+		</message>
+		<message>
+			<source>LID_0462</source>
+			<translation>ガソリン</translation>
+		</message>
+		<message>
+			<source>LID_0463</source>
+			<translation>アクセルペダルから
+足を離してください</translation>
+		</message>
+		<message>
+			<source>LID_0464</source>
+			<translation>保存しますか？</translation>
+		</message>
+		<message>
+			<source>LID_0469</source>
+			<translation>ヘルプ</translation>
+		</message>
+		<message>
+			<source>LID_0470</source>
+			<translation>高い</translation>
+		</message>
+		<message>
+			<source>LID_0471</source>
+			<translation>大きい</translation>
+		</message>
+		<message>
+			<source>LID_0472</source>
+			<translation>低い</translation>
+		</message>
+		<message>
+			<source>LID_0474</source>
+			<translation>スマートテールゲート</translation>
+		</message>
+		<message>
+			<source>LID_0475</source>
+			<translation>小さい</translation>
+		</message>
+		<message>
+			<source>LID_0476</source>
+			<translation>タイヤ空気圧単位</translation>
+		</message>
+		<message>
+			<source>LID_0477</source>
+			<translation>はい</translation>
+		</message>
+		<message>
+			<source>LID_0478</source>
+			<translation>いいえ</translation>
+		</message>
+		<message>
+			<source>LID_0479</source>
+			<translation>MP３ Disc</translation>
+		</message>
+		<message>
+			<source>LID_0488</source>
+			<translation>タイヤ空気圧</translation>
+		</message>
+		<message>
+			<source>LID_0493</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、トランクを
+閉めてシートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_0494</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フード、トランクを
+閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_0495</source>
+			<translation>ワイパー/ライトモード表示</translation>
+		</message>
+		<message>
+			<source>LID_0500</source>
+			<translation>ハンドル振動警告機能を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0501</source>
+			<translation>タイヤ空気圧監視システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0502</source>
+			<translation>走行中に表示されます</translation>
+		</message>
+		<message>
+			<source>LID_0503</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フード、トランクを
+閉めてシートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_0504</source>
+			<translation>HUDをオンにして
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_0505</source>
+			<translation>ハイブリッドシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0506</source>
+			<translation>ブレーキシステム点検！
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0508</source>
+			<translation>DAB</translation>
+		</message>
+		<message>
+			<source>LID_0512</source>
+			<translation>Jukebox音楽</translation>
+		</message>
+		<message>
+			<source>LID_0513</source>
+			<translation>Jukeboxビデオ</translation>
+		</message>
+		<message>
+			<source>LID_0515</source>
+			<translation>経路再探索中です</translation>
+		</message>
+		<message>
+			<source>LID_0517</source>
+			<translation>電子制御サスペンションを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0518</source>
+			<translation>仮想エンジンサウンド
+システムを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0519</source>
+			<translation>運転スタイル</translation>
+		</message>
+		<message>
+			<source>LID_0520</source>
+			<translation>高効率</translation>
+		</message>
+		<message>
+			<source>LID_0521</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_0522</source>
+			<translation>低効率</translation>
+		</message>
+		<message>
+			<source>LID_0524</source>
+			<translation>トラック</translation>
+		</message>
+		<message>
+			<source>LID_0525</source>
+			<translation>標準</translation>
+		</message>
+		<message>
+			<source>LID_0528</source>
+			<translation>FM１</translation>
+		</message>
+		<message>
+			<source>LID_0529</source>
+			<translation>FM２</translation>
+		</message>
+		<message>
+			<source>LID_0535</source>
+			<translation>AUTO STOP</translation>
+		</message>
+		<message>
+			<source>LID_0537</source>
+			<translation>早い</translation>
+		</message>
+		<message>
+			<source>LID_0538</source>
+			<translation>遅い</translation>
+		</message>
+		<message>
+			<source>LID_0539</source>
+			<translation>フロントワイパーモード</translation>
+		</message>
+		<message>
+			<source>LID_0540</source>
+			<translation>リアワイパーモード</translation>
+		</message>
+		<message>
+			<source>LID_0541</source>
+			<translation>ライトモード</translation>
+		</message>
+		<message>
+			<source>LID_0542</source>
+			<translation>POWER DOOR OFFボタンを
+解除してから設定してください</translation>
+		</message>
+		<message>
+			<source>LID_0543</source>
+			<translation>パワーテールゲートを
+オンにしてから、設定してください</translation>
+		</message>
+		<message>
+			<source>LID_0544</source>
+			<translation>目的地情報</translation>
+		</message>
+		<message>
+			<source>LID_0546</source>
+			<translation>トランスミッション高温！
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0547</source>
+			<translation>急な坂道です！
+ブレーキを踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_0548</source>
+			<translation>バッテリー過熱！
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0549</source>
+			<translation>充電口が開いています</translation>
+		</message>
+		<message>
+			<source>LID_0550</source>
+			<translation>平均電費</translation>
+		</message>
+		<message>
+			<source>LID_0551</source>
+			<translation>ブレーキペダルを踏んで
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0552</source>
+			<translation>シフトをPで
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0553</source>
+			<translation>後退時リアワイパー作動</translation>
+		</message>
+		<message>
+			<source>LID_0555</source>
+			<translation>シフトチェンジ通知</translation>
+		</message>
+		<message>
+			<source>LID_0559</source>
+			<translation>尿素水が不足しています</translation>
+		</message>
+		<message>
+			<source>LID_0560</source>
+			<translation>尿素水を補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0561</source>
+			<translation>尿素水が無いため
+再始動できません</translation>
+		</message>
+		<message>
+			<source>LID_0562</source>
+			<translation>適切な尿素水ではありません</translation>
+		</message>
+		<message>
+			<source>LID_0563</source>
+			<translation>尿素水システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0564</source>
+			<translation>尿素水システムが
+停止しました</translation>
+		</message>
+		<message>
+			<source>LID_0565</source>
+			<translation>ヘッドライトを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0566</source>
+			<translation>ハンドルを回しながら
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_0567</source>
+			<translation>始動ボタンを
+もう一度押してください</translation>
+		</message>
+		<message>
+			<source>LID_0568</source>
+			<translation>スマートキーで始動ボタンを
+直接押してください</translation>
+		</message>
+		<message>
+			<source>LID_0571</source>
+			<translation>FMA</translation>
+		</message>
+		<message>
+			<source>LID_0572</source>
+			<translation>AMA</translation>
+		</message>
+		<message>
+			<source>LID_0573</source>
+			<translation>０００km走行すると
+再始動できなくなります！
+尿素水を補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0574</source>
+			<translation>０００km走行すると
+再始動できなくなります！
+適切な尿素水を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0575</source>
+			<translation>０００km走行すると
+再始動できなくなります！
+尿素水システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0577</source>
+			<translation>走行ごと</translation>
+		</message>
+		<message>
+			<source>LID_0578</source>
+			<translation>給油ごと</translation>
+		</message>
+		<message>
+			<source>LID_0580</source>
+			<translation>補助速度メーター</translation>
+		</message>
+		<message>
+			<source>LID_0581</source>
+			<translation>冷却水温度</translation>
+		</message>
+		<message>
+			<source>LID_0583</source>
+			<translation>良好</translation>
+		</message>
+		<message>
+			<source>LID_0584</source>
+			<translation>不良</translation>
+		</message>
+		<message>
+			<source>LID_0586</source>
+			<translation>しばらく休憩してください</translation>
+		</message>
+		<message>
+			<source>LID_0587</source>
+			<translation>トランスミッション保護機能作動中！
+減速してください</translation>
+		</message>
+		<message>
+			<source>LID_0588</source>
+			<translation>ドアミラー自動格納</translation>
+		</message>
+		<message>
+			<source>LID_0589</source>
+			<translation>ヶ月</translation>
+		</message>
+		<message>
+			<source>LID_0590</source>
+			<translation>日</translation>
+		</message>
+		<message>
+			<source>LID_0591</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、トランクを
+閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_0592</source>
+			<translation>平均電費自動初期化</translation>
+		</message>
+		<message>
+			<source>LID_0593</source>
+			<translation>表示回転</translation>
+		</message>
+		<message>
+			<source>LID_0594</source>
+			<translation>シフトをPにして
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_0595</source>
+			<translation>パーキングブレーキをかけて
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_0601</source>
+			<translation>CD</translation>
+		</message>
+		<message>
+			<source>LID_0603</source>
+			<translation>Apple CarPlay</translation>
+		</message>
+		<message>
+			<source>LID_0604</source>
+			<translation>Android Auto</translation>
+		</message>
+		<message>
+			<source>LID_0605</source>
+			<translation>ハイブリッドモード</translation>
+		</message>
+		<message>
+			<source>LID_0608</source>
+			<translation>電気モード</translation>
+		</message>
+		<message>
+			<source>LID_0610</source>
+			<translation>バッテリー充電量不足のため
+HEVモードを維持します</translation>
+		</message>
+		<message>
+			<source>LID_0613</source>
+			<translation>充電のためシフトを
+Pにしてください</translation>
+		</message>
+		<message>
+			<source>LID_0614</source>
+			<translation>マイルド</translation>
+		</message>
+		<message>
+			<source>LID_0615</source>
+			<translation>ダイナミック</translation>
+		</message>
+		<message>
+			<source>LID_0616</source>
+			<translation>スマートフォンが
+ワイヤレス充電器にあります</translation>
+		</message>
+		<message>
+			<source>LID_0617</source>
+			<translation>モバイル機器向けワイヤレス充電システム</translation>
+		</message>
+		<message>
+			<source>LID_0618</source>
+			<translation>前席</translation>
+		</message>
+		<message>
+			<source>LID_0619</source>
+			<translation>後席</translation>
+		</message>
+		<message>
+			<source>LID_0623</source>
+			<translation>パワートランクを
+オンにしてから
+設定してください</translation>
+		</message>
+		<message>
+			<source>LID_0624</source>
+			<translation>惰性走行</translation>
+		</message>
+		<message>
+			<source>LID_0625</source>
+			<translation>惰性走行案内</translation>
+		</message>
+		<message>
+			<source>LID_0631</source>
+			<translation>ユーザー設定を
+初期化しますか？</translation>
+		</message>
+		<message>
+			<source>LID_0632</source>
+			<translation>ユーザー設定が
+初期化されました</translation>
+		</message>
+		<message>
+			<source>LID_0633</source>
+			<translation>ユーザー設定が
+初期化されませんでした</translation>
+		</message>
+		<message>
+			<source>LID_0634</source>
+			<translation>トランスミッション過熱！
+始動した状態で停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0635</source>
+			<translation>トランスミッション冷却中
+００分間停車してください</translation>
+		</message>
+		<message>
+			<source>LID_0636</source>
+			<translation>トランスミッション冷却完了
+走行できます</translation>
+		</message>
+		<message>
+			<source>LID_0637</source>
+			<translation>惰性走行ガイド使用</translation>
+		</message>
+		<message>
+			<source>LID_0638</source>
+			<translation>低圧</translation>
+		</message>
+		<message>
+			<source>LID_0642</source>
+			<translation>外部充電器異常のため
+充電できませんでした</translation>
+		</message>
+		<message>
+			<source>LID_0643</source>
+			<translation>外部急速充電器異常のため
+充電できませんでした</translation>
+		</message>
+		<message>
+			<source>LID_0644</source>
+			<translation>システムを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0645</source>
+			<translation>尿素水レベル</translation>
+		</message>
+		<message>
+			<source>LID_0646</source>
+			<translation>停車するにはPボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_0647</source>
+			<translation>クルーズ走行中です</translation>
+		</message>
+		<message>
+			<source>LID_0652</source>
+			<translation>システムが低温のため
+HEVモードを維持します</translation>
+		</message>
+		<message>
+			<source>LID_0653</source>
+			<translation>システムが低温のため
+HEVモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_0654</source>
+			<translation>システムが高温のため
+HEVモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_0655</source>
+			<translation>システムが高温のため
+HEVモードを維持します</translation>
+		</message>
+		<message>
+			<source>LID_0656</source>
+			<translation>傾斜路低速走行システム</translation>
+		</message>
+		<message>
+			<source>LID_0659</source>
+			<translation>充電終了後
+給油口を開けてください</translation>
+		</message>
+		<message>
+			<source>LID_0676</source>
+			<translation>初期化</translation>
+		</message>
+		<message>
+			<source>LID_0678</source>
+			<translation>残りの距離/期間を
+初期化しますか？</translation>
+		</message>
+		<message>
+			<source>LID_0679</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フードを閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_0680</source>
+			<translation>４WD固定モード</translation>
+		</message>
+		<message>
+			<source>LID_0689</source>
+			<translation>Pボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_0694</source>
+			<translation>ステアリングヒーターが
+オフになりました</translation>
+		</message>
+		<message>
+			<source>LID_0695</source>
+			<translation>車両電源がオンの状態です</translation>
+		</message>
+		<message>
+			<source>LID_0696</source>
+			<translation>安全のために
+車両電源を停止します</translation>
+		</message>
+		<message>
+			<source>LID_0698</source>
+			<translation>Dボタンを点検してください
+走行中に変速したり、電源
+を停止しないでください</translation>
+		</message>
+		<message>
+			<source>LID_0699</source>
+			<translation>すでに選択されているシフトです</translation>
+		</message>
+		<message>
+			<source>LID_0700</source>
+			<translation>変速ボタンを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0701</source>
+			<translation>AUTO HOLDの
+自動解除条件ではありません
+ドアを閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_0703</source>
+			<translation>目的地到着</translation>
+		</message>
+		<message>
+			<source>LID_0704</source>
+			<translation>惰性走行</translation>
+		</message>
+		<message>
+			<source>LID_0708</source>
+			<translation>Violet</translation>
+		</message>
+		<message>
+			<source>LID_0709</source>
+			<translation>Blue</translation>
+		</message>
+		<message>
+			<source>LID_0710</source>
+			<translation>Blue Green</translation>
+		</message>
+		<message>
+			<source>LID_0711</source>
+			<translation>Red</translation>
+		</message>
+		<message>
+			<source>LID_0712</source>
+			<translation>Yellow</translation>
+		</message>
+		<message>
+			<source>LID_0713</source>
+			<translation>累積情報</translation>
+		</message>
+		<message>
+			<source>LID_0720</source>
+			<translation>距離</translation>
+		</message>
+		<message>
+			<source>LID_0721</source>
+			<translation>電費</translation>
+		</message>
+		<message>
+			<source>LID_0722</source>
+			<translation>時間</translation>
+		</message>
+		<message>
+			<source>LID_0723</source>
+			<translation>DRIVE MODE</translation>
+		</message>
+		<message>
+			<source>LID_0729</source>
+			<translation>休憩後の走行時間</translation>
+		</message>
+		<message>
+			<source>LID_0730</source>
+			<translation>作動待機中</translation>
+		</message>
+		<message>
+			<source>LID_0733</source>
+			<translation>ムード照明の色</translation>
+		</message>
+		<message>
+			<source>LID_0734</source>
+			<translation>ムード照明の明るさ</translation>
+		</message>
+		<message>
+			<source>LID_0735</source>
+			<translation>レベル１</translation>
+		</message>
+		<message>
+			<source>LID_0736</source>
+			<translation>レベル２</translation>
+		</message>
+		<message>
+			<source>LID_0737</source>
+			<translation>レベル３</translation>
+		</message>
+		<message>
+			<source>LID_0738</source>
+			<translation>レベル４</translation>
+		</message>
+		<message>
+			<source>LID_0739</source>
+			<translation>通知距離/期間設定</translation>
+		</message>
+		<message>
+			<source>LID_0741</source>
+			<translation>シフトがPになりました</translation>
+		</message>
+		<message>
+			<source>LID_0742</source>
+			<translation>シフトがNになりました</translation>
+		</message>
+		<message>
+			<source>LID_0746</source>
+			<translation>給油口が開きました</translation>
+		</message>
+		<message>
+			<source>LID_0747</source>
+			<translation>給油口が開いています</translation>
+		</message>
+		<message>
+			<source>LID_0748</source>
+			<translation>シフトをPにできません！
+駐車時はパーキングブレーキを
+かけてください</translation>
+		</message>
+		<message>
+			<source>LID_0749</source>
+			<translation>充電ごと</translation>
+		</message>
+		<message>
+			<source>LID_0753</source>
+			<translation>惰性走行ガイドタイミング</translation>
+		</message>
+		<message>
+			<source>LID_0754</source>
+			<translation>充電のため
+Pボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_0755</source>
+			<translation>１２Vバッテリー放電警告！
+充電のために始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0759</source>
+			<translation>電子式変速システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0760</source>
+			<translation>変速ボタンが
+押されています</translation>
+		</message>
+		<message>
+			<source>LID_0763</source>
+			<translation>前方に注意してください</translation>
+		</message>
+		<message>
+			<source>LID_0764</source>
+			<translation>Polar White</translation>
+		</message>
+		<message>
+			<source>LID_0765</source>
+			<translation>Ocean Blue</translation>
+		</message>
+		<message>
+			<source>LID_0766</source>
+			<translation>Lake Blue Green</translation>
+		</message>
+		<message>
+			<source>LID_0767</source>
+			<translation>Orchid Green</translation>
+		</message>
+		<message>
+			<source>LID_0768</source>
+			<translation>Freesia Yellow</translation>
+		</message>
+		<message>
+			<source>LID_0769</source>
+			<translation>Sunrise Red</translation>
+		</message>
+		<message>
+			<source>LID_0770</source>
+			<translation>Aurora Purple</translation>
+		</message>
+		<message>
+			<source>LID_0772</source>
+			<translation>設定</translation>
+		</message>
+		<message>
+			<source>LID_0787</source>
+			<translation>Pボタンを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0789</source>
+			<translation>SDカードが無いため
+ナビゲーションを
+実行できません</translation>
+		</message>
+		<message>
+			<source>LID_0795</source>
+			<translation>システムオフ</translation>
+		</message>
+		<message>
+			<source>LID_0796</source>
+			<translation>HUDを
+フロントガラスに
+表示します</translation>
+		</message>
+		<message>
+			<source>LID_0797</source>
+			<translation>ステアリングスイッチを操作
+して画面の高さを調節します</translation>
+		</message>
+		<message>
+			<source>LID_0798</source>
+			<translation>ステアリングスイッチを操作
+して画面の明るさを調節します</translation>
+		</message>
+		<message>
+			<source>LID_0799</source>
+			<translation>HUDに表示する情報を
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_0800</source>
+			<translation>HUDに表示される
+速度メーターの数字サイズを
+調節します</translation>
+		</message>
+		<message>
+			<source>LID_0801</source>
+			<translation>HUDに表示される
+速度メーターの色を
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_0802</source>
+			<translation>滑りやすい路面での
+タイヤ空転を防止します</translation>
+		</message>
+		<message>
+			<source>LID_0817</source>
+			<translation>すべてのドアが自動で施錠される
+タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_0818</source>
+			<translation>すべてのドアが自動で解錠される
+タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_0819</source>
+			<translation>キーのドア解錠ボタンを２回押して
+すべてのドアを解錠します</translation>
+		</message>
+		<message>
+			<source>LID_0824</source>
+			<translation>方向指示レバーを
+少し動かしたときの
+点滅回数を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0826</source>
+			<translation>車室内ムード照明の
+作動方式を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0828</source>
+			<translation>車両電源を停止して降車後
+ドアを閉めると
+テールライトおよびヘッドライトが
+約１５秒間点灯します</translation>
+		</message>
+		<message>
+			<source>LID_0829</source>
+			<translation>スマートキーを所持して
+車両に近づくと
+ドアハンドルランプが
+約１５秒間点灯します</translation>
+		</message>
+		<message>
+			<source>LID_0830</source>
+			<translation>走行方向が反対の国で
+ヘッドライトの照射範囲を変更して
+対向車線の運転者のまぶしさを防止します</translation>
+		</message>
+		<message>
+			<source>LID_0831</source>
+			<translation>音声案内の音量を調節します</translation>
+		</message>
+		<message>
+			<source>LID_0834</source>
+			<translation>メーターの画面が
+オン/オフするとき
+サウンドを出力します</translation>
+		</message>
+		<message>
+			<source>LID_0837</source>
+			<translation>バンプ、制限速度など
+道路標識を表示します</translation>
+		</message>
+		<message>
+			<source>LID_0838</source>
+			<translation>メーターに表示される
+速度メーターの数字サイズを調節します</translation>
+		</message>
+		<message>
+			<source>LID_0839</source>
+			<translation>乗降車時にシートが
+自動で移動する距離を
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_0840</source>
+			<translation>乗降車時にハンドルが移動します</translation>
+		</message>
+		<message>
+			<source>LID_0844</source>
+			<translation>サービス点検の周期を設定し
+その条件に到達すると通知します</translation>
+		</message>
+		<message>
+			<source>LID_0845</source>
+			<translation>０～９９９００の範囲で設定できます</translation>
+		</message>
+		<message>
+			<source>LID_0846</source>
+			<translation>０～９９の範囲で設定できます</translation>
+		</message>
+		<message>
+			<source>LID_0849</source>
+			<translation>電費の単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0850</source>
+			<translation>温度の単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0851</source>
+			<translation>タイヤ空気圧の単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0853</source>
+			<translation>ワイパー/ライトレバー操作時
+作動モードを表示します</translation>
+		</message>
+		<message>
+			<source>LID_0854</source>
+			<translation>シフトチェンジ時
+シフトポジションを
+ポップアップで通知します</translation>
+		</message>
+		<message>
+			<source>LID_0856</source>
+			<translation>ドア施錠/解錠時に
+音で通知します</translation>
+		</message>
+		<message>
+			<source>LID_0857</source>
+			<translation>ドアを施錠してから
+４秒以内に再度施錠すると
+クラクションで通知します</translation>
+		</message>
+		<message>
+			<source>LID_0859</source>
+			<translation>スマートキーを所持して
+トランクに近づくと
+自動でトランクが開きます</translation>
+		</message>
+		<message>
+			<source>LID_0860</source>
+			<translation>スマートキーを所持して
+テールゲートに近づくと
+自動でテールゲートが
+開きます</translation>
+		</message>
+		<message>
+			<source>LID_0861</source>
+			<translation>パワーテールゲートボタンを使用すると
+テールゲートを自動で開閉できます</translation>
+		</message>
+		<message>
+			<source>LID_0862</source>
+			<translation>フロントワイパー作動中に後退すると
+自動でリアワイパーが作動します</translation>
+		</message>
+		<message>
+			<source>LID_0863</source>
+			<translation>速度メーターの単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0864</source>
+			<translation>平均電費が自動で初期化される
+タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_0865</source>
+			<translation>補助速度メーターを表示します</translation>
+		</message>
+		<message>
+			<source>LID_0866</source>
+			<translation>スマートキーで
+ドアを施錠/解錠する時
+またはスマートキーを所持して
+車両に近づいたり離れたりすると
+自動でサイドミラーが開閉します</translation>
+		</message>
+		<message>
+			<source>LID_0867</source>
+			<translation>ステアリングスイッチを
+操作して画面を回転します</translation>
+		</message>
+		<message>
+			<source>LID_0868</source>
+			<translation>電力消費抑制のために
+アクセルペダルから
+足を離すタイミングを
+通知します</translation>
+		</message>
+		<message>
+			<source>LID_0869</source>
+			<translation>ワイヤレス充電対応の
+スマートフォンを
+ケーブルなしで充電できます</translation>
+		</message>
+		<message>
+			<source>LID_0870</source>
+			<translation>補助速度メーターを表示します</translation>
+		</message>
+		<message>
+			<source>LID_0874</source>
+			<translation>室内ムード照明の
+色を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0875</source>
+			<translation>室内ムード照明の
+明るさを調節します</translation>
+		</message>
+		<message>
+			<source>LID_0877</source>
+			<translation>サービス点検周期
+&#40;距離/期間&#41;
+を初期化します</translation>
+		</message>
+		<message>
+			<source>LID_0878</source>
+			<translation>サービス点検周期
+&#40;距離/期間&#41;
+を設定します</translation>
+		</message>
+		<message>
+			<source>LID_0879</source>
+			<translation>電力消費抑制のために
+アクセルペダルから足を離す
+提案タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_0883</source>
+			<translation>タイヤ空気圧情報を
+保存してください</translation>
+		</message>
+		<message>
+			<source>LID_0885</source>
+			<translation>保存</translation>
+		</message>
+		<message>
+			<source>LID_0886</source>
+			<translation>取消し</translation>
+		</message>
+		<message>
+			<source>LID_0887</source>
+			<translation>タイヤ空気圧が
+保存されました</translation>
+		</message>
+		<message>
+			<source>LID_0888</source>
+			<translation>タイヤ空気圧が
+保存されていません</translation>
+		</message>
+		<message>
+			<source>LID_0891</source>
+			<translation>補助バッテリーセーバー＋</translation>
+		</message>
+		<message>
+			<source>LID_0892</source>
+			<translation>高電圧バッテリーを使用して
+１２V補助バッテリーを
+保護します</translation>
+		</message>
+		<message>
+			<source>LID_0893</source>
+			<translation>１２V補助バッテリーの
+保護機能が作動しました</translation>
+		</message>
+		<message>
+			<source>LID_0894</source>
+			<translation>エンジン保護のため
+HEVモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_0895</source>
+			<translation>エンジン保護のため
+現在のモードを維持します</translation>
+		</message>
+		<message>
+			<source>LID_0896</source>
+			<translation>車両電源が停止しました！
+シフトをNにして始動してください</translation>
+		</message>
+		<message>
+			<source>LID_0897</source>
+			<translation>変速条件ではありません
+減速してから変速してください</translation>
+		</message>
+		<message>
+			<source>LID_0899</source>
+			<translation>シフトをＰにしてから
+設定してください</translation>
+		</message>
+		<message>
+			<source>LID_0900</source>
+			<translation>パーキングブレーキを
+かけてから設定してください</translation>
+		</message>
+		<message>
+			<source>LID_0902</source>
+			<translation>e-LSDシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0904</source>
+			<translation>排気ガス検査モードです</translation>
+		</message>
+		<message>
+			<source>LID_0907</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、テールゲートを閉めて
+シートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_0908</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フード、テールゲートを
+閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_0909</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、テールゲートを
+閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_0910</source>
+			<translation>しばらくしてから
+変速してください</translation>
+		</message>
+		<message>
+			<source>LID_0911</source>
+			<translation>現在のシフトポジションを
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_0913</source>
+			<translation>電費の単位</translation>
+		</message>
+		<message>
+			<source>LID_0915</source>
+			<translation>タイヤ空気圧低下！
+すべてのタイヤを点検後
+空気圧セットボタンを
+３秒以上押してください</translation>
+		</message>
+		<message>
+			<source>LID_0922</source>
+			<translation>サービス時期通知オフ</translation>
+		</message>
+		<message>
+			<source>LID_0923</source>
+			<translation>シフトをPにしてから
+作動してください</translation>
+		</message>
+		<message>
+			<source>LID_0925</source>
+			<translation>路面凍結にご注意ください</translation>
+		</message>
+		<message>
+			<source>LID_0926</source>
+			<translation>シーケンシャル方向指示器</translation>
+		</message>
+		<message>
+			<source>LID_0927</source>
+			<translation>方向指示器が
+内側から外側に順次点灯します</translation>
+		</message>
+		<message>
+			<source>LID_0928</source>
+			<translation>エンジン停止状態で
+電子機器を使用すると
+バッテリーが消耗することがあります</translation>
+		</message>
+		<message>
+			<source>LID_0941</source>
+			<translation>車両周辺を確認してから
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_0942</source>
+			<translation>チャイルドロックを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0945</source>
+			<translation>０００km走行すると
+再始動できなくなります！
+尿素水を補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0946</source>
+			<translation>０００km走行すると
+再始動できなくなります！
+適切な尿素水を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_0947</source>
+			<translation>０００km走行すると
+再始動できなくなります！
+尿素水システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_0948</source>
+			<translation>冷暖房のため
+HEVモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_0949</source>
+			<translation>冷暖房のため
+現在のモードを維持します</translation>
+		</message>
+		<message>
+			<source>LID_0950</source>
+			<translation>SPORTモードを解除してから
+切替えてください</translation>
+		</message>
+		<message>
+			<source>LID_0951</source>
+			<translation>ウェルカムミラー</translation>
+		</message>
+		<message>
+			<source>LID_0952</source>
+			<translation>ウェルカムミラー/ライト</translation>
+		</message>
+		<message>
+			<source>LID_0953</source>
+			<translation>ドア解錠時</translation>
+		</message>
+		<message>
+			<source>LID_0954</source>
+			<translation>運転者接近時</translation>
+		</message>
+		<message>
+			<source>LID_0955</source>
+			<translation>ドアミラーのウェルカム作動
+タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_0956</source>
+			<translation>ドアミラーと
+ドアハンドルランプの
+ウェルカム作動タイミングを
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_0957</source>
+			<translation>緊急ブレーキ</translation>
+		</message>
+		<message>
+			<source>LID_0958</source>
+			<translation>すべてのタイヤが同一か
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_0961</source>
+			<translation>パーキングブレーキをかけて
+シフトをNに移動してから
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_0962</source>
+			<translation>パーキングブレーキをかけて
+シフトをNにすると
+設定可能になります</translation>
+		</message>
+		<message>
+			<source>LID_0963</source>
+			<translation>電費情報</translation>
+		</message>
+		<message>
+			<source>LID_0964</source>
+			<translation>降車時、車両周辺を確認してください</translation>
+		</message>
+		<message>
+			<source>LID_0965</source>
+			<translation>Gauges</translation>
+		</message>
+		<message>
+			<source>LID_0966</source>
+			<translation>Oil Temp.</translation>
+		</message>
+		<message>
+			<source>LID_0967</source>
+			<translation>Torque</translation>
+		</message>
+		<message>
+			<source>LID_0968</source>
+			<translation>Boost</translation>
+		</message>
+		<message>
+			<source>LID_0969</source>
+			<translation>Lap Timer</translation>
+		</message>
+		<message>
+			<source>LID_0970</source>
+			<translation>G-Force</translation>
+		</message>
+		<message>
+			<source>LID_0972</source>
+			<translation>平均電費が自動で初期化される
+タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_0974</source>
+			<translation>電費の単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0975</source>
+			<translation>フットランプ</translation>
+		</message>
+		<message>
+			<source>LID_0976</source>
+			<translation>シフトをPに移動またはドアを開けると
+フットランプが点灯します</translation>
+		</message>
+		<message>
+			<source>LID_0977</source>
+			<translation>パワーテールゲートが開く速度</translation>
+		</message>
+		<message>
+			<source>LID_0978</source>
+			<translation>パワーテールゲートの
+作動速度を選択します</translation>
+		</message>
+		<message>
+			<source>LID_0979</source>
+			<translation>テールゲートを閉じてから
+設定してください</translation>
+		</message>
+		<message>
+			<source>LID_0980</source>
+			<translation>高速道路の速度注意区間自動減速</translation>
+		</message>
+		<message>
+			<source>LID_0981</source>
+			<translation>手動で元の速度に戻す</translation>
+		</message>
+		<message>
+			<source>LID_0982</source>
+			<translation>自動で元の速度に戻る</translation>
+		</message>
+		<message>
+			<source>LID_0983</source>
+			<translation>スイッチを操作すると
+設定された速度で走行します</translation>
+		</message>
+		<message>
+			<source>LID_0984</source>
+			<translation>クルーズコントロール走行時 
+ナビゲーションと連動して
+安全区間で自動減速します</translation>
+		</message>
+		<message>
+			<source>LID_0985</source>
+			<translation>路面凍結通知</translation>
+		</message>
+		<message>
+			<source>LID_0986</source>
+			<translation>外気温が約４℃以下の時
+路面凍結の可能性を
+通知します</translation>
+		</message>
+		<message>
+			<source>LID_0988</source>
+			<translation>START</translation>
+		</message>
+		<message>
+			<source>LID_0989</source>
+			<translation>STOP</translation>
+		</message>
+		<message>
+			<source>LID_0990</source>
+			<translation>Rev Matching</translation>
+		</message>
+		<message>
+			<source>LID_0991</source>
+			<translation>Launch Control</translation>
+		</message>
+		<message>
+			<source>LID_0992</source>
+			<translation>Ready</translation>
+		</message>
+		<message>
+			<source>LID_0993</source>
+			<translation>Active</translation>
+		</message>
+		<message>
+			<source>LID_0994</source>
+			<translation>１２Vバッテリー電源が
+遮断状態の場合
+このボタンを押すと
+始動できます</translation>
+		</message>
+		<message>
+			<source>LID_0995</source>
+			<translation>エコ惰性走行</translation>
+		</message>
+		<message>
+			<source>LID_0996</source>
+			<translation>ECOおよびSMARTモードで
+惰性走行する場合
+電費向上のために
+動力部とトランスミッションを
+分離します</translation>
+		</message>
+		<message>
+			<source>LID_0997</source>
+			<translation>惰性走行</translation>
+		</message>
+		<message>
+			<source>LID_0998</source>
+			<translation>ターボブースト圧力単位</translation>
+		</message>
+		<message>
+			<source>LID_0999</source>
+			<translation>ターボブーストゲージの
+圧力単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1000</source>
+			<translation>AUTO STOPが解除されました
+シフトをPまたはNで
+直接始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1001</source>
+			<translation>
+始動のため
+シフトをNにしてください</translation>
+		</message>
+		<message>
+			<source>LID_1002</source>
+			<translation>パワーステアリングシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1003</source>
+			<translation>メーターモード</translation>
+		</message>
+		<message>
+			<source>LID_1004</source>
+			<translation>シンプルモード</translation>
+		</message>
+		<message>
+			<source>LID_1005</source>
+			<translation>基本モード</translation>
+		</message>
+		<message>
+			<source>LID_1006</source>
+			<translation>詳細モード</translation>
+		</message>
+		<message>
+			<source>LID_1007</source>
+			<translation>ECOペダルガイド</translation>
+		</message>
+		<message>
+			<source>LID_1008</source>
+			<translation>自動減速機能の
+作動条件ではありません
+ブレーキを踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_1009</source>
+			<translation>空気清浄モード</translation>
+		</message>
+		<message>
+			<source>LID_1010</source>
+			<translation>電費情報</translation>
+		</message>
+		<message>
+			<source>LID_1011</source>
+			<translation>燃料電池自動車システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1012</source>
+			<translation>充電状態を確認してから
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1013</source>
+			<translation>給油口を閉めて
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1015</source>
+			<translation>すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1016</source>
+			<translation>燃料電池冷却水および
+フィルタを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1017</source>
+			<translation>低温で始動中です</translation>
+		</message>
+		<message>
+			<source>LID_1018</source>
+			<translation>停止中です</translation>
+		</message>
+		<message>
+			<source>LID_1019</source>
+			<translation>燃料電池冷却水が
+不足しています</translation>
+		</message>
+		<message>
+			<source>LID_1020</source>
+			<translation>電子装置冷却水を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_1021</source>
+			<translation>運転者アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1022</source>
+			<translation>スマートクルーズ応答性</translation>
+		</message>
+		<message>
+			<source>LID_1023</source>
+			<translation>スマートクルーズコントロールの
+加速応答性を調整します</translation>
+		</message>
+		<message>
+			<source>LID_1024</source>
+			<translation>走行アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1025</source>
+			<translation>走行アシストシステムを設定します</translation>
+		</message>
+		<message>
+			<source>LID_1026</source>
+			<translation>車線維持アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1027</source>
+			<translation>ステアリングを自動操作して
+車線を維持して走行できるように
+アシストします</translation>
+		</message>
+		<message>
+			<source>LID_1028</source>
+			<translation>高速道路車線変更アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1029</source>
+			<translation>高速道路走行中に
+方向指示器を操作すると
+自動で車線を変更します</translation>
+		</message>
+		<message>
+			<source>LID_1030</source>
+			<translation>高速道路速度注意区間自動減速</translation>
+		</message>
+		<message>
+			<source>LID_1031</source>
+			<translation>高速道路の速度注意区間で
+自動で減速します</translation>
+		</message>
+		<message>
+			<source>LID_1032</source>
+			<translation>高速道路カーブ区間自動減速</translation>
+		</message>
+		<message>
+			<source>LID_1033</source>
+			<translation>高速道路のカーブ区間で
+自動で減速します</translation>
+		</message>
+		<message>
+			<source>LID_1034</source>
+			<translation>速度制限警告</translation>
+		</message>
+		<message>
+			<source>LID_1035</source>
+			<translation>道路の制限速度を超過して
+走行した時に警告します</translation>
+		</message>
+		<message>
+			<source>LID_1036</source>
+			<translation>運転者注意警告</translation>
+		</message>
+		<message>
+			<source>LID_1037</source>
+			<translation>不注意運転を警告して
+必要に応じて休憩を提案します</translation>
+		</message>
+		<message>
+			<source>LID_1038</source>
+			<translation>高感度</translation>
+		</message>
+		<message>
+			<source>LID_1039</source>
+			<translation>標準</translation>
+		</message>
+		<message>
+			<source>LID_1040</source>
+			<translation>低感度</translation>
+		</message>
+		<message>
+			<source>LID_1041</source>
+			<translation>オフ</translation>
+		</message>
+		<message>
+			<source>LID_1042</source>
+			<translation>警告タイミング</translation>
+		</message>
+		<message>
+			<source>LID_1044</source>
+			<translation>早め</translation>
+		</message>
+		<message>
+			<source>LID_1045</source>
+			<translation>遅め</translation>
+		</message>
+		<message>
+			<source>LID_1046</source>
+			<translation>警告音量</translation>
+		</message>
+		<message>
+			<source>LID_1048</source>
+			<translation>大</translation>
+		</message>
+		<message>
+			<source>LID_1049</source>
+			<translation>中</translation>
+		</message>
+		<message>
+			<source>LID_1050</source>
+			<translation>小</translation>
+		</message>
+		<message>
+			<source>LID_1051</source>
+			<translation>車線安全</translation>
+		</message>
+		<message>
+			<source>LID_1052</source>
+			<translation>車線安全システムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1053</source>
+			<translation>車線逸脱防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1054</source>
+			<translation>車線逸脱の危険性がある場合は
+自動でステアリングを操作して
+車線を逸脱しないように
+アシストします</translation>
+		</message>
+		<message>
+			<source>LID_1055</source>
+			<translation>車線逸脱警告</translation>
+		</message>
+		<message>
+			<source>LID_1056</source>
+			<translation>車線を逸脱すると警告します</translation>
+		</message>
+		<message>
+			<source>LID_1057</source>
+			<translation>前方安全</translation>
+		</message>
+		<message>
+			<source>LID_1058</source>
+			<translation>前方安全システムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1059</source>
+			<translation>衝突防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1060</source>
+			<translation>衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1061</source>
+			<translation>前方に衝突の危険性がある場合は
+警告および車両制御で
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1062</source>
+			<translation>前方に衝突の危険性がある場合は
+警告します</translation>
+		</message>
+		<message>
+			<source>LID_1063</source>
+			<translation>斜め前方安全</translation>
+		</message>
+		<message>
+			<source>LID_1065</source>
+			<translation>斜め前方に衝突の危険性がある場合は
+警告および車両制御で
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1066</source>
+			<translation>前方に衝突の危険性がある場合は
+警告します</translation>
+		</message>
+		<message>
+			<source>LID_1067</source>
+			<translation>後側方安全</translation>
+		</message>
+		<message>
+			<source>LID_1068</source>
+			<translation>後側方安全システムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1069</source>
+			<translation>警告音</translation>
+		</message>
+		<message>
+			<source>LID_1070</source>
+			<translation>後側方車両を感知して
+警告音を出力します</translation>
+		</message>
+		<message>
+			<source>LID_1071</source>
+			<translation>後側方モニター</translation>
+		</message>
+		<message>
+			<source>LID_1072</source>
+			<translation>方向指示レバーを操作すると
+後側方の映像を
+メーターに表示します</translation>
+		</message>
+		<message>
+			<source>LID_1073</source>
+			<translation>安全降車アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1074</source>
+			<translation>降車中に後側方車両と
+衝突する危険性がある場合は
+警告およびドア制御で
+安全な降車をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1075</source>
+			<translation>後側方車両と
+衝突の危険性がある場合は
+警告および車両制御で
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1076</source>
+			<translation>後側方車両と
+衝突の危険性がある場合は
+警告します</translation>
+		</message>
+		<message>
+			<source>LID_1077</source>
+			<translation>斜め後方安全</translation>
+		</message>
+		<message>
+			<source>LID_1078</source>
+			<translation>斜め後方安全システムを設定します</translation>
+		</message>
+		<message>
+			<source>LID_1079</source>
+			<translation>後退中に斜め後方の車両と
+衝突する危険性がある場合は
+警告および車両制御で
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1080</source>
+			<translation>後退中に斜め後方の車両と
+衝突の危険性がある場合は警告します</translation>
+		</message>
+		<message>
+			<source>LID_1081</source>
+			<translation>駐車安全</translation>
+		</message>
+		<message>
+			<source>LID_1082</source>
+			<translation>駐車安全システムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1083</source>
+			<translation>後退中に衝突する危険性がある場合は
+警告および車両制御で
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1085</source>
+			<translation>走行アシスト情報</translation>
+		</message>
+		<message>
+			<source>LID_1086</source>
+			<translation>車線安全情報</translation>
+		</message>
+		<message>
+			<source>LID_1087</source>
+			<translation>後側方安全情報</translation>
+		</message>
+		<message>
+			<source>LID_1093</source>
+			<translation>運転者注意警告システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1094</source>
+			<translation>運転者注意警告</translation>
+		</message>
+		<message>
+			<source>LID_1095</source>
+			<translation>運転者注意レベル</translation>
+		</message>
+		<message>
+			<source>LID_1096</source>
+			<translation>前方安全システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1101</source>
+			<translation>ハイビームアシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1109</source>
+			<translation>車線逸脱警告システムが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1110</source>
+			<translation>車線逸脱防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1112</source>
+			<translation>車線逸脱防止アシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1114</source>
+			<translation>ハンドルを持っていないため
+車線逸脱防止アシストシステムが
+一時停止されます</translation>
+		</message>
+		<message>
+			<source>LID_1116</source>
+			<translation>車線維持アシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1123</source>
+			<translation>高速道路走行アシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1125</source>
+			<translation>パーキングアシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1126</source>
+			<translation>パーキングアシストシステム故障</translation>
+		</message>
+		<message>
+			<source>LID_1127</source>
+			<translation>パーキングアシストシステム解除</translation>
+		</message>
+		<message>
+			<source>LID_1128</source>
+			<translation>パーキングアシストシステムオフ</translation>
+		</message>
+		<message>
+			<source>LID_1129</source>
+			<translation>駐車完了</translation>
+		</message>
+		<message>
+			<source>LID_1130</source>
+			<translation>出庫完了</translation>
+		</message>
+		<message>
+			<source>LID_1131</source>
+			<translation>パーキングアシストシステムの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1132</source>
+			<translation>外部環境により
+レーダー検出が制限されたため
+スマートクルーズコントロールが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1136</source>
+			<translation>前方衝突防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1137</source>
+			<translation>前方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1138</source>
+			<translation>斜め後方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1139</source>
+			<translation>後側方衝突警告音</translation>
+		</message>
+		<message>
+			<source>LID_1140</source>
+			<translation>高速道路走行アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1141</source>
+			<translation>後側方衝突警告タイミング</translation>
+		</message>
+		<message>
+			<source>LID_1143</source>
+			<translation>車線逸脱防止アクティブアシスト</translation>
+		</message>
+		<message>
+			<source>LID_1144</source>
+			<translation>後側方衝突警告システムを
+オンにしてから
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_1145</source>
+			<translation>後側方衝突防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1146</source>
+			<translation>前方衝突防止アシストシステムを
+オンにしてから
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_1147</source>
+			<translation>駐車距離警告音量</translation>
+		</message>
+		<message>
+			<source>LID_1148</source>
+			<translation>駐車距離警告システムの
+警告音量を調節します</translation>
+		</message>
+		<message>
+			<source>LID_1149</source>
+			<translation>後側方車両と
+衝突の危険性がある場合は
+警告音を出力します</translation>
+		</message>
+		<message>
+			<source>LID_1150</source>
+			<translation>前方衝突警告システムの
+警告タイミングを
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_1151</source>
+			<translation>高速道路での設定速度と
+車間距離に合わせて
+車線を維持して走行
+するようアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1152</source>
+			<translation>車線変更時に後側方車両との
+衝突の危険警告タイミングを
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_1153</source>
+			<translation>前方車両が発進しました</translation>
+		</message>
+		<message>
+			<source>LID_1154</source>
+			<translation>緊急ステアリング</translation>
+		</message>
+		<message>
+			<source>LID_1155</source>
+			<translation>クイック設定</translation>
+		</message>
+		<message>
+			<source>LID_1156</source>
+			<translation>ACCESSORY</translation>
+		</message>
+		<message>
+			<source>LID_1157</source>
+			<translation>トランスミッション温度</translation>
+		</message>
+		<message>
+			<source>LID_1158</source>
+			<translation>バッテリー充電量不足のため
+マニュアルモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1159</source>
+			<translation>自己診断のためハイブリッド
+モードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1160</source>
+			<translation>トルク単位</translation>
+		</message>
+		<message>
+			<source>LID_1161</source>
+			<translation>エンジントルクゲージの
+単位を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1162</source>
+			<translation>ハンドル振動警告</translation>
+		</message>
+		<message>
+			<source>LID_1163</source>
+			<translation>前方安全システムなどの
+ハンドル振動警告強度を
+調節します</translation>
+		</message>
+		<message>
+			<source>LID_1164</source>
+			<translation>強い</translation>
+		</message>
+		<message>
+			<source>LID_1165</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_1166</source>
+			<translation>弱い</translation>
+		</message>
+		<message>
+			<source>LID_1167</source>
+			<translation>前方車両発進通知</translation>
+		</message>
+		<message>
+			<source>LID_1169</source>
+			<translation>ブレーキを踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_1171</source>
+			<translation>傾斜路低速走行システムが
+解除されました
+速度を調節してください</translation>
+		</message>
+		<message>
+			<source>LID_1172</source>
+			<translation>速度</translation>
+		</message>
+		<message>
+			<source>LID_1173</source>
+			<translation>シフトをDにしてから
+Drive Modeをご使用ください</translation>
+		</message>
+		<message>
+			<source>LID_1174</source>
+			<translation>電費</translation>
+		</message>
+		<message>
+			<source>LID_1175</source>
+			<translation>スマートキーを所持して
+車両に近づくと
+パドルランプまたは
+ドアハンドルランプが
+点灯します</translation>
+		</message>
+		<message>
+			<source>LID_1176</source>
+			<translation>スマートキーを所持して
+車両に近づくと
+サイドミラーが開きます</translation>
+		</message>
+		<message>
+			<source>LID_1177</source>
+			<translation>スマートキーを所持して
+車両に近づくと
+サイドミラーが開き
+パドルランプまたは
+ドアハンドルランプが
+点灯します</translation>
+		</message>
+		<message>
+			<source>LID_1178</source>
+			<translation>パドルランプまたは
+ドアハンドルランプが
+点灯するタイミングを
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_1179</source>
+			<translation>サイドミラーが開くタイミングを
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_1180</source>
+			<translation>サイドミラーが開くタイミングと
+パドルランプまたは
+ドアハンドルランプが
+点灯するタイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_1181</source>
+			<translation>シフトをPに移動またはドアを開くと
+室内ムード照明が点灯します</translation>
+		</message>
+		<message>
+			<source>LID_1182</source>
+			<translation>車両電源がオンの状態です 
+始動ボタンを押して
+シフトをPにしてから
+電源を停止してください</translation>
+		</message>
+		<message>
+			<source>LID_1185</source>
+			<translation>シフトチェンジ指示ランプ</translation>
+		</message>
+		<message>
+			<source>LID_1186</source>
+			<translation>最適なシフトチェンジの
+タイミングを
+LEDで通知します</translation>
+		</message>
+		<message>
+			<source>LID_1187</source>
+			<translation>尿素水走行可能距離：
+００００mi</translation>
+		</message>
+		<message>
+			<source>LID_1188</source>
+			<translation>尿素水走行可能距離：
+００００㎞</translation>
+		</message>
+		<message>
+			<source>LID_1189</source>
+			<translation>尿素水を補充してください
+０００mi走行後
+最大速度が４５MPHに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1190</source>
+			<translation>尿素水を補充してください
+０００mi走行後
+最大速度が７２㎞/hに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1191</source>
+			<translation>尿素水をすぐ補充してください
+００００mi走行後
+最大速度が５MPHに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1192</source>
+			<translation>尿素水をすぐ補充してください
+０００km走行後
+最大速度が８km/hに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1193</source>
+			<translation>尿素水をすぐ補充してください
+最大速度が５MPHに
+制限されました</translation>
+		</message>
+		<message>
+			<source>LID_1194</source>
+			<translation>尿素水をすぐ補充してください
+最大速度が８㎞/hに
+制限されました</translation>
+		</message>
+		<message>
+			<source>LID_1195</source>
+			<translation>適切な尿素水ではありません
+０００mi走行後
+最大速度が４５MPHに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1196</source>
+			<translation>適切な尿素水ではありません
+０００km走行後
+最大速度が７２km/hに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1197</source>
+			<translation>適切な尿素水ではありません
+０００mi走行後
+最大速度が５MPHに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1198</source>
+			<translation>適切な尿素水ではありません
+０００km走行後
+最大速度が８km/hに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1199</source>
+			<translation>適切な尿素水ではありません
+最大速度が５MPHに
+制限されました</translation>
+		</message>
+		<message>
+			<source>LID_1200</source>
+			<translation>適切な尿素水ではありません
+最大速度が８km/hに
+制限されました</translation>
+		</message>
+		<message>
+			<source>LID_1201</source>
+			<translation>尿素水システムを点検してください
+０００mi走行後
+最大速度が４５MPHに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1202</source>
+			<translation>尿素水システムを点検してください
+０００㎞走行後
+最大速度が７２㎞/hに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1203</source>
+			<translation>尿素水システムを点検してください
+０００mi走行後
+最大速度が５MPHに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1204</source>
+			<translation>尿素水システムを点検してください
+０００km走行後
+最大速度が８km/hに
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1205</source>
+			<translation>尿素水システムを点検してください
+最大速度が５MPHに
+制限されました</translation>
+		</message>
+		<message>
+			<source>LID_1206</source>
+			<translation>尿素水システムを点検してください
+最大速度が８km/hに
+制限されました</translation>
+		</message>
+		<message>
+			<source>LID_1210</source>
+			<translation>バッテリー充電量が十分なため
+回生ブレーキが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1211</source>
+			<translation>補助バッテリー電圧が低いです
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1212</source>
+			<translation>補助バッテリー点検！
+安全な場所に停車してから
+パーキングブレーキを
+かけてください</translation>
+		</message>
+		<message>
+			<source>LID_1213</source>
+			<translation>SPORTモードシートの側面強化</translation>
+		</message>
+		<message>
+			<source>LID_1214</source>
+			<translation>SPORTモード選択時
+シート側面の支持性を強化して
+スポーティな走行を
+サポートします</translation>
+		</message>
+		<message>
+			<source>LID_1221</source>
+			<translation>後部座席乗員通知</translation>
+		</message>
+		<message>
+			<source>LID_1222</source>
+			<translation>車両施錠後に
+後部座席で動きを感知すると
+クラクションおよびハザードランプで
+通知します</translation>
+		</message>
+		<message>
+			<source>LID_1223</source>
+			<translation>後部座席を確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1224</source>
+			<translation>次の始動まで
+後部座席乗員通知機能が
+解除されます</translation>
+		</message>
+		<message>
+			<source>LID_1225</source>
+			<translation>クラッチペダルを
+徐々に戻してください</translation>
+		</message>
+		<message>
+			<source>LID_1226</source>
+			<translation>RPM調節</translation>
+		</message>
+		<message>
+			<source>LID_1227</source>
+			<translation>アクセルペダルから足を離すと
+ローンチコントロールが解除されます</translation>
+		</message>
+		<message>
+			<source>LID_1228</source>
+			<translation>高回転数で低速ギアにシフトすると
+エンジンが損傷することがあります
+ご注意ください</translation>
+		</message>
+		<message>
+			<source>LID_1229</source>
+			<translation>CUSTOMモードに入ると
+ESCがオフになります
+継続するにはNボタンを
+３秒以上押してください</translation>
+		</message>
+		<message>
+			<source>LID_1230</source>
+			<translation>Nモード連動前方衝突防止アシストシステム自動オフ</translation>
+		</message>
+		<message>
+			<source>LID_1231</source>
+			<translation>ドライブモードを
+Nモードに設定すると
+前方衝突防止アシストシステムが
+オフになります</translation>
+		</message>
+		<message>
+			<source>LID_1232</source>
+			<translation>e-LSDシステムが高温のため
+作動が一時中止します</translation>
+		</message>
+		<message>
+			<source>LID_1233</source>
+			<translation>前方車両が発進した時に通知します</translation>
+		</message>
+		<message>
+			<source>LID_1234</source>
+			<translation>車両運送モード</translation>
+		</message>
+		<message>
+			<source>LID_1235</source>
+			<translation>解除</translation>
+		</message>
+		<message>
+			<source>LID_1236</source>
+			<translation>ドライブモード連動</translation>
+		</message>
+		<message>
+			<source>LID_1237</source>
+			<translation>スマート回生システム</translation>
+		</message>
+		<message>
+			<source>LID_1238</source>
+			<translation>回生ブレーキのレベルを
+車両状態および走行環境
+により自動で調節します</translation>
+		</message>
+		<message>
+			<source>LID_1239</source>
+			<translation>スマート回生システム
+を点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1241</source>
+			<translation>CUSTOMモードでは
+REVボタンを使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1242</source>
+			<translation>トランスミッション高温！
+ローンチコントロール機能が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1243</source>
+			<translation>ブレーキ液が
+不足しています</translation>
+		</message>
+		<message>
+			<source>LID_1244</source>
+			<translation>ABSを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1245</source>
+			<translation>ESCを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1246</source>
+			<translation>真空ポンプを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1247</source>
+			<translation>４８Vシステムを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1248</source>
+			<translation>充てん設備のエラーにより
+水素が過充てんになりました</translation>
+		</message>
+		<message>
+			<source>LID_1249</source>
+			<translation>水素漏れの可能性があります</translation>
+		</message>
+		<message>
+			<source>LID_1250</source>
+			<translation>水素タンクの温度が低いため 
+パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1251</source>
+			<translation>水素タンク温度異常！ 
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1252</source>
+			<translation>水素漏れが検出されました</translation>
+		</message>
+		<message>
+			<source>LID_1253</source>
+			<translation>水素漏れが検出されました 
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1254</source>
+			<translation>水素漏れ検出センサーを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1255</source>
+			<translation>充てん中です</translation>
+		</message>
+		<message>
+			<source>LID_1256</source>
+			<translation>給油口センサーを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1257</source>
+			<translation>車両電源を停止して 
+給油口を開けてください</translation>
+		</message>
+		<message>
+			<source>LID_1258</source>
+			<translation>水素充てん回数を 
+超過しました 
+タンクを交替してください</translation>
+		</message>
+		<message>
+			<source>LID_1259</source>
+			<translation>燃料が不足しています</translation>
+		</message>
+		<message>
+			<source>LID_1261</source>
+			<translation>冷却水過熱のため 
+パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1262</source>
+			<translation>燃料電池システム異常のため 
+パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1263</source>
+			<translation>予約充電が設定されています</translation>
+		</message>
+		<message>
+			<source>LID_1264</source>
+			<translation>出荷時モード</translation>
+		</message>
+		<message>
+			<source>LID_1265</source>
+			<translation>パーキングブレーキが作動中です
+シフトをNで駐車するには
+パーキングブレーキを解除してください</translation>
+		</message>
+		<message>
+			<source>LID_1266</source>
+			<translation>SPORTモードディスプレイ</translation>
+		</message>
+		<message>
+			<source>LID_1267</source>
+			<translation>SPORTモード選択時</translation>
+		</message>
+		<message>
+			<source>LID_1268</source>
+			<translation>Dsモード選択時</translation>
+		</message>
+		<message>
+			<source>LID_1269</source>
+			<translation>SPORTモードディスプレイが 
+表示されるタイミングを
+選択します</translation>
+		</message>
+		<message>
+			<source>LID_1270</source>
+			<translation>超音波センサーの汚れや
+遮蔽物を確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1272</source>
+			<translation>ブレーキオーバーライド 
+機能が解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1273</source>
+			<translation>充電中断
+外部普通充電器の状態を
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1274</source>
+			<translation>充電中断 
+外部急速充電器の状態を 
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1275</source>
+			<translation>充電中断 
+ケーブルの接続状態を 
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1276</source>
+			<translation>TV</translation>
+		</message>
+		<message>
+			<source>LID_1277</source>
+			<translation>MirrorLink</translation>
+		</message>
+		<message>
+			<source>LID_1278</source>
+			<translation>Baidu CarLife</translation>
+		</message>
+		<message>
+			<source>LID_1279</source>
+			<translation>ユーティリティモード</translation>
+		</message>
+		<message>
+			<source>LID_1280</source>
+			<translation>ユーティリティモードに
+切替えますか？</translation>
+		</message>
+		<message>
+			<source>LID_1281</source>
+			<translation>ユーティリティモードの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1282</source>
+			<translation>ユーティリティモードに
+切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1283</source>
+			<translation>ユーティリティモードを
+解除するには
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1284</source>
+			<translation>確認</translation>
+		</message>
+		<message>
+			<source>LID_1285</source>
+			<translation>ECOモードでは
+REV Matchingを
+使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1286</source>
+			<translation>アナログモード</translation>
+		</message>
+		<message>
+			<source>LID_1287</source>
+			<translation>デジタルモード</translation>
+		</message>
+		<message>
+			<source>LID_1288</source>
+			<translation>高速道路走行アシストシステムに
+切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1291</source>
+			<translation>始動できません！
+高電圧システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1292</source>
+			<translation>始動できません！
+燃料を充てんしてください</translation>
+		</message>
+		<message>
+			<source>LID_1293</source>
+			<translation>燃料電池車システム点検！
+停車後
+車両電源を停止してください</translation>
+		</message>
+		<message>
+			<source>LID_1294</source>
+			<translation>燃料電池システム点検！
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1295</source>
+			<translation>燃料電池システム点検！
+走行可能距離が２km以下に
+制限されます
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1296</source>
+			<translation>燃料電池システム点検！
+走行可能距離が３km以下に
+制限されます
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1297</source>
+			<translation>燃料電池システム点検！
+走行可能距離が１mi以下に
+制限されます
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1298</source>
+			<translation>燃料電池システム点検！
+走行可能距離が２mi以下に
+制限されます
+すぐに安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1299</source>
+			<translation>ユーザー選択</translation>
+		</message>
+		<message>
+			<source>LID_1300</source>
+			<translation>運転者１</translation>
+		</message>
+		<message>
+			<source>LID_1301</source>
+			<translation>運転者１の 
+車両設定に変更します</translation>
+		</message>
+		<message>
+			<source>LID_1302</source>
+			<translation>運転者２</translation>
+		</message>
+		<message>
+			<source>LID_1303</source>
+			<translation>運転者２の 
+車両設定に変更します</translation>
+		</message>
+		<message>
+			<source>LID_1304</source>
+			<translation>ゲスト</translation>
+		</message>
+		<message>
+			<source>LID_1305</source>
+			<translation>ゲスト運転者用の 
+車両設定に変更します</translation>
+		</message>
+		<message>
+			<source>LID_1306</source>
+			<translation>指紋</translation>
+		</message>
+		<message>
+			<source>LID_1307</source>
+			<translation>指紋認証を使用</translation>
+		</message>
+		<message>
+			<source>LID_1308</source>
+			<translation>指紋認証を使用して
+ドアの施錠/解錠
+および始動をします</translation>
+		</message>
+		<message>
+			<source>LID_1311</source>
+			<translation>運転者１指紋管理</translation>
+		</message>
+		<message>
+			<source>LID_1312</source>
+			<translation>運転者１の指紋を登録したり
+削除します</translation>
+		</message>
+		<message>
+			<source>LID_1313</source>
+			<translation>運転者２指紋管理</translation>
+		</message>
+		<message>
+			<source>LID_1314</source>
+			<translation>運転者２の指紋を登録したり
+削除します</translation>
+		</message>
+		<message>
+			<source>LID_1315</source>
+			<translation>指紋１</translation>
+		</message>
+		<message>
+			<source>LID_1316</source>
+			<translation>指紋２</translation>
+		</message>
+		<message>
+			<source>LID_1317</source>
+			<translation>指紋３</translation>
+		</message>
+		<message>
+			<source>LID_1318</source>
+			<translation>すでに登録された指紋です 
+他の指紋を登録してください</translation>
+		</message>
+		<message>
+			<source>LID_1319</source>
+			<translation>指紋を認証してください</translation>
+		</message>
+		<message>
+			<source>LID_1320</source>
+			<translation>すべての指紋を削除</translation>
+		</message>
+		<message>
+			<source>LID_1321</source>
+			<translation>すべての指紋を削除</translation>
+		</message>
+		<message>
+			<source>LID_1322</source>
+			<translation>登録された指紋ではありません
+登録された指紋で
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1323</source>
+			<translation>指紋認証が制限されました
+００分後にもう一度お試しいただくか
+スマートキーをご使用ください</translation>
+		</message>
+		<message>
+			<source>LID_1324</source>
+			<translation>指紋認証が制限されました
+００分後にもう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1325</source>
+			<translation>スマートキーを所持して
+設定を変更してください</translation>
+		</message>
+		<message>
+			<source>LID_1326</source>
+			<translation>指紋認証できませんでした</translation>
+		</message>
+		<message>
+			<source>LID_1327</source>
+			<translation>指紋認証中は
+始動ボタンを使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1328</source>
+			<translation>指紋登録中は
+始動ボタンを使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1329</source>
+			<translation>指を始動ボタンセンサー
+の上にのせてください</translation>
+		</message>
+		<message>
+			<source>LID_1330</source>
+			<translation>すべての指紋を認識するため
+指の位置を少し移動してください</translation>
+		</message>
+		<message>
+			<source>LID_1331</source>
+			<translation>指を離してください</translation>
+		</message>
+		<message>
+			<source>LID_1332</source>
+			<translation>指紋登録中です</translation>
+		</message>
+		<message>
+			<source>LID_1333</source>
+			<translation>指紋が登録されました</translation>
+		</message>
+		<message>
+			<source>LID_1334</source>
+			<translation>指紋を登録できませんでした 
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1335</source>
+			<translation>指紋削除中です</translation>
+		</message>
+		<message>
+			<source>LID_1336</source>
+			<translation>指紋が削除されました</translation>
+		</message>
+		<message>
+			<source>LID_1337</source>
+			<translation>指紋削除できませんでした 
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1338</source>
+			<translation>指紋を認証してください 
+認証中は始動ボタンを 
+使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1339</source>
+			<translation>運転者１の指紋を 
+すべて削除しますか&#63;</translation>
+		</message>
+		<message>
+			<source>LID_1340</source>
+			<translation>運転者２の指紋を 
+すべて削除しますか&#63;</translation>
+		</message>
+		<message>
+			<source>LID_1341</source>
+			<translation>トンネル進入前自動制御</translation>
+		</message>
+		<message>
+			<source>LID_1342</source>
+			<translation>ナビゲーションと連動して
+トンネル進入時に窓、
+ライト、空調システムを
+自動で制御します</translation>
+		</message>
+		<message>
+			<source>LID_1343</source>
+			<translation>指紋を削除しますか&#63;</translation>
+		</message>
+		<message>
+			<source>LID_1344</source>
+			<translation>バッテリー温度が低いため
+パワーが制限されます
+充電してください</translation>
+		</message>
+		<message>
+			<source>LID_1346</source>
+			<translation>変速ダイヤルを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1347</source>
+			<translation>変速ダイヤルを回しながら
+Pボタンを押さないでください</translation>
+		</message>
+		<message>
+			<source>LID_1348</source>
+			<translation>変速ダイヤルが
+元の位置に戻っていません</translation>
+		</message>
+		<message>
+			<source>LID_1349</source>
+			<translation>ブレーキを踏んで変速ダイヤル
+を調整してください</translation>
+		</message>
+		<message>
+			<source>LID_1350</source>
+			<translation>アラーム解除</translation>
+		</message>
+		<message>
+			<source>LID_1352</source>
+			<translation>車線逸脱の危険性がある場合は
+自動でステアリングを操作して
+車線を逸脱しないように
+アシストします</translation>
+		</message>
+		<message>
+			<source>LID_1353</source>
+			<translation>駐車距離警告自動作動</translation>
+		</message>
+		<message>
+			<source>LID_1354</source>
+			<translation>低速走行時
+駐車距離警告機能が
+自動で作動します</translation>
+		</message>
+		<message>
+			<source>LID_1355</source>
+			<translation>ブレーキブースターを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1356</source>
+			<translation>リモート前進/後退モード</translation>
+		</message>
+		<message>
+			<source>LID_1357</source>
+			<translation>降車してから
+スマートキーの 
+前進または後退ボタンを 
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1358</source>
+			<translation>リモート前進/後退モード制御中です</translation>
+		</message>
+		<message>
+			<source>LID_1359</source>
+			<translation>リモート前進/後退終了</translation>
+		</message>
+		<message>
+			<source>LID_1360</source>
+			<translation>リモート前進/後退一時停止</translation>
+		</message>
+		<message>
+			<source>LID_1361</source>
+			<translation>前進または後退ボタンを 
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1362</source>
+			<translation>前進または後退ボタンを 
+もう一度押してください</translation>
+		</message>
+		<message>
+			<source>LID_1363</source>
+			<translation>車両の近くで操作してください</translation>
+		</message>
+		<message>
+			<source>LID_1364</source>
+			<translation>車両位置がずれたため
+システムが解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1365</source>
+			<translation>リモート前進/後退解除</translation>
+		</message>
+		<message>
+			<source>LID_1366</source>
+			<translation>取扱説明書を
+ご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_1367</source>
+			<translation>メーターテーマ</translation>
+		</message>
+		<message>
+			<source>LID_1368</source>
+			<translation>自動テーマ</translation>
+		</message>
+		<message>
+			<source>LID_1369</source>
+			<translation>Pure
+Insight</translation>
+		</message>
+		<message>
+			<source>LID_1370</source>
+			<translation>Empowered
+Red</translation>
+		</message>
+		<message>
+			<source>LID_1371</source>
+			<translation>Refreshing
+Green</translation>
+		</message>
+		<message>
+			<source>LID_1372</source>
+			<translation>Midnight
+Violet</translation>
+		</message>
+		<message>
+			<source>LID_1373</source>
+			<translation>選択したテーマを適用します</translation>
+		</message>
+		<message>
+			<source>LID_1374</source>
+			<translation>ドライブモードに合わせて
+テーマが自動で変更されます</translation>
+		</message>
+		<message>
+			<source>LID_1376</source>
+			<translation>衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1377</source>
+			<translation>White</translation>
+		</message>
+		<message>
+			<source>LID_1378</source>
+			<translation>車両電源が停止してから
+給油口を開けてください</translation>
+		</message>
+		<message>
+			<source>LID_1379</source>
+			<translation>ブレーキを踏んで
+Nボタンを長押ししてください</translation>
+		</message>
+		<message>
+			<source>LID_1380</source>
+			<translation>音楽</translation>
+		</message>
+		<message>
+			<source>LID_1381</source>
+			<translation>駐車状態で
+電子機器を使用すると
+バッテリーが消耗
+することがあります</translation>
+		</message>
+		<message>
+			<source>LID_1384</source>
+			<translation>AWD LOCK</translation>
+		</message>
+		<message>
+			<source>LID_1385</source>
+			<translation>ウォークアウェイドアロック</translation>
+		</message>
+		<message>
+			<source>LID_1386</source>
+			<translation>スマートキーを所持して
+車から離れると
+ドアが自動で施錠します
+すべてのドアが
+閉まっている場合のみ
+正常に作動します</translation>
+		</message>
+		<message>
+			<source>LID_1387</source>
+			<translation>走行できます</translation>
+		</message>
+		<message>
+			<source>LID_1388</source>
+			<translation>エンジン保護のためシフト
+ポジションをDにしてください</translation>
+		</message>
+		<message>
+			<source>LID_1389</source>
+			<translation>温度が低いため
+パワーが制限される
+ことがあります
+充電してください</translation>
+		</message>
+		<message>
+			<source>LID_1390</source>
+			<translation>ラジオ/メディア情報</translation>
+		</message>
+		<message>
+			<source>LID_1391</source>
+			<translation>後部座席乗員通知システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1392</source>
+			<translation>パドルシフトの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1393</source>
+			<translation>スマートキーまたは指紋を
+認識できません</translation>
+		</message>
+		<message>
+			<source>LID_1395</source>
+			<translation>車両電源停止後も
+シフトはNが維持されます</translation>
+		</message>
+		<message>
+			<source>LID_1396</source>
+			<translation>シフトN維持モード
+が解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1397</source>
+			<translation>運転席ドアが開くと
+シフトが自動でPになります</translation>
+		</message>
+		<message>
+			<source>LID_1398</source>
+			<translation>バッテリー温度が低いため
+充電されません</translation>
+		</message>
+		<message>
+			<source>LID_1399</source>
+			<translation>バッテリー充電量が 
+充電目標設定値より高いため 
+充電されません</translation>
+		</message>
+		<message>
+			<source>LID_1400</source>
+			<translation>Gray</translation>
+		</message>
+		<message>
+			<source>LID_1401</source>
+			<translation>Eco Green</translation>
+		</message>
+		<message>
+			<source>LID_1402</source>
+			<translation>Bronze</translation>
+		</message>
+		<message>
+			<source>LID_1403</source>
+			<translation>乗降時シート前後移動</translation>
+		</message>
+		<message>
+			<source>LID_1404</source>
+			<translation>乗降時シート上下移動</translation>
+		</message>
+		<message>
+			<source>LID_1405</source>
+			<translation>乗降時にシートが前後に
+移動する距離を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1406</source>
+			<translation>乗降時にシートが
+上下に移動します</translation>
+		</message>
+		<message>
+			<source>LID_1407</source>
+			<translation>指紋の中心を
+センサーの上にのせてください</translation>
+		</message>
+		<message>
+			<source>LID_1408</source>
+			<translation>指紋の左側を
+センサーの上にのせてください</translation>
+		</message>
+		<message>
+			<source>LID_1409</source>
+			<translation>指紋の上側を
+センサーの上にのせてください</translation>
+		</message>
+		<message>
+			<source>LID_1410</source>
+			<translation>指紋の右側を
+センサーの上にのせてください</translation>
+		</message>
+		<message>
+			<source>LID_1411</source>
+			<translation>指紋の下側を
+センサーの上にのせてください</translation>
+		</message>
+		<message>
+			<source>LID_1412</source>
+			<translation>残りX回</translation>
+		</message>
+		<message>
+			<source>LID_1413</source>
+			<translation>変速できません！
+電子式変速システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1415</source>
+			<translation>ブレーキペダルから足を離すと
+始動します</translation>
+		</message>
+		<message>
+			<source>LID_1416</source>
+			<translation>レベル０</translation>
+		</message>
+		<message>
+			<source>LID_1417</source>
+			<translation>空気フィルタの異質物を 
+除去してください 
+詳しい内容は取扱説明書を
+ご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_1418</source>
+			<translation>QQ Music</translation>
+		</message>
+		<message>
+			<source>LID_1419</source>
+			<translation>ブレーキを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1420</source>
+			<translation>ブレーキシステム点検！ 
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1421</source>
+			<translation>大気環境保護モード</translation>
+		</message>
+		<message>
+			<source>LID_1422</source>
+			<translation>乗員および歩行者のために
+大気環境保護が必要な地域では 
+最大限EVモードで走行します</translation>
+		</message>
+		<message>
+			<source>LID_1423</source>
+			<translation>車室内または近くで休憩する場合
+冷暖房装置および便利装備を
+安全に使用できるように
+駆動装置を停止します
+変速はできません
+パーキングブレーキが自動でかかります</translation>
+		</message>
+		<message>
+			<source>LID_1424</source>
+			<translation>尿素水レベル</translation>
+		</message>
+		<message>
+			<source>LID_1425</source>
+			<translation>尿素水システムが
+停止しました</translation>
+		</message>
+		<message>
+			<source>LID_1426</source>
+			<translation>ハイビームアシスト</translation>
+		</message>
+		<message>
+			<source>LID_1427</source>
+			<translation>対向車両運転者のまぶしさを 
+最小化するため
+自動でハイビームを
+調節します</translation>
+		</message>
+		<message>
+			<source>LID_1428</source>
+			<translation>カメラに遮蔽物がないか
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1429</source>
+			<translation>駐車安全システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1430</source>
+			<translation>回生ブレーキレベルを
+車両状態および走行環境にあわせて
+自動で調節します
+右側パドルシフトを
+長押しすると
+走行中に機能がオン/オフします</translation>
+		</message>
+		<message>
+			<source>LID_1432</source>
+			<translation>デジタルキー連動&#40;スマートフォン&#41;</translation>
+		</message>
+		<message>
+			<source>LID_1433</source>
+			<translation>デジタルキーと連動して
+ユーザー設定を自動で変更します</translation>
+		</message>
+		<message>
+			<source>LID_1434</source>
+			<translation>デジタルキーを使用します</translation>
+		</message>
+		<message>
+			<source>LID_1435</source>
+			<translation>デジタルキー使用</translation>
+		</message>
+		<message>
+			<source>LID_1436</source>
+			<translation>デジタルキーを使用して 
+ドアを施錠/解錠、始動をします</translation>
+		</message>
+		<message>
+			<source>LID_1437</source>
+			<translation>スマートフォンキー</translation>
+		</message>
+		<message>
+			<source>LID_1438</source>
+			<translation>スマートフォンキーを 
+登録または削除します</translation>
+		</message>
+		<message>
+			<source>LID_1439</source>
+			<translation>カードキー</translation>
+		</message>
+		<message>
+			<source>LID_1440</source>
+			<translation>カードキーを 
+登録または削除します</translation>
+		</message>
+		<message>
+			<source>LID_1441</source>
+			<translation>登録</translation>
+		</message>
+		<message>
+			<source>LID_1442</source>
+			<translation>削除</translation>
+		</message>
+		<message>
+			<source>LID_1443</source>
+			<translation>製造番号</translation>
+		</message>
+		<message>
+			<source>LID_1444</source>
+			<translation>デジタルキーの製造番号を
+表示します</translation>
+		</message>
+		<message>
+			<source>LID_1445</source>
+			<translation>登録する機器を
+ワイヤレス充電器に
+のせてください</translation>
+		</message>
+		<message>
+			<source>LID_1446</source>
+			<translation>デジタルキー登録中です</translation>
+		</message>
+		<message>
+			<source>LID_1447</source>
+			<translation>スマートフォンキーが
+登録されました</translation>
+		</message>
+		<message>
+			<source>LID_1448</source>
+			<translation>スマートフォンキーが
+削除されました</translation>
+		</message>
+		<message>
+			<source>LID_1450</source>
+			<translation>カードキーが登録されました</translation>
+		</message>
+		<message>
+			<source>LID_1451</source>
+			<translation>カードキーが削除されました</translation>
+		</message>
+		<message>
+			<source>LID_1452</source>
+			<translation>スマートフォンキーを 
+削除しますか？</translation>
+		</message>
+		<message>
+			<source>LID_1453</source>
+			<translation>カードキーを削除しますか？</translation>
+		</message>
+		<message>
+			<source>LID_1454</source>
+			<translation>登録するスマートフォンで 
+確認ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1455</source>
+			<translation>始動してから
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1456</source>
+			<translation>登録できない機器です</translation>
+		</message>
+		<message>
+			<source>LID_1457</source>
+			<translation>登録できませんでした
+スマートフォンに届いた
+メッセージを確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1458</source>
+			<translation>無効なカードです</translation>
+		</message>
+		<message>
+			<source>LID_1459</source>
+			<translation>先にデジタルキー機能を
+オンにしてください</translation>
+		</message>
+		<message>
+			<source>LID_1460</source>
+			<translation>登録されたキーがありません 
+登録してからご使用ください</translation>
+		</message>
+		<message>
+			<source>LID_1461</source>
+			<translation>[０００-００００-００００]
+プロファイル連動を
+解除しますか&#63;</translation>
+		</message>
+		<message>
+			<source>LID_1462</source>
+			<translation>プロファイル連動が
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1464</source>
+			<translation>デジタルキー</translation>
+		</message>
+		<message>
+			<source>LID_1465</source>
+			<translation>指紋認証完了</translation>
+		</message>
+		<message>
+			<source>LID_1466</source>
+			<translation>高速道路走行アシストシステムが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1467</source>
+			<translation>走行便利システムが 
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1468</source>
+			<translation>前方を注視して
+安全運転してください</translation>
+		</message>
+		<message>
+			<source>LID_1469</source>
+			<translation>冷却水を補充してください</translation>
+		</message>
+		<message>
+			<source>LID_1471</source>
+			<translation>バッテリー充電量が十分なため
+回生ブレーキが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1472</source>
+			<translation>パドルシフトの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1473</source>
+			<translation>メーターの明るさを調節します</translation>
+		</message>
+		<message>
+			<source>LID_1474</source>
+			<translation>TERRAINモードを
+使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1475</source>
+			<translation>ナビゲーションと連動して 
+トンネル進入時に 
+自動で外気を遮断します</translation>
+		</message>
+		<message>
+			<source>LID_1476</source>
+			<translation>傾斜路ではリモート前進/後退
+機能が作動しません</translation>
+		</message>
+		<message>
+			<source>LID_1478</source>
+			<translation>運転者注意警告システムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1479</source>
+			<translation>外部環境により
+カメラ視野が制限されたため 
+インテリジェントヘッドライトシステムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1480</source>
+			<translation>道路傾斜により
+システムが解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1481</source>
+			<translation>モダン</translation>
+		</message>
+		<message>
+			<source>LID_1482</source>
+			<translation>スペース</translation>
+		</message>
+		<message>
+			<source>LID_1483</source>
+			<translation>エッヂ</translation>
+		</message>
+		<message>
+			<source>LID_1484</source>
+			<translation>立体効果</translation>
+		</message>
+		<message>
+			<source>LID_1485</source>
+			<translation>立体メーター</translation>
+		</message>
+		<message>
+			<source>LID_1486</source>
+			<translation>オフ</translation>
+		</message>
+		<message>
+			<source>LID_1487</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_1488</source>
+			<translation>強い</translation>
+		</message>
+		<message>
+			<source>LID_1489</source>
+			<translation>運転者居眠り状態警告</translation>
+		</message>
+		<message>
+			<source>LID_1490</source>
+			<translation>運転者の疲労度と 
+居眠り運転の有無を判断して 
+警告を表示します</translation>
+		</message>
+		<message>
+			<source>LID_1491</source>
+			<translation>スマートキーまたは
+デジタルキーを認識できません</translation>
+		</message>
+		<message>
+			<source>LID_1492</source>
+			<translation>登録されたデジタルキーを
+ワイヤレス充電器にのせて
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1493</source>
+			<translation>指紋認証を使用して 
+車両電源や始動をオンにした状態です</translation>
+		</message>
+		<message>
+			<source>LID_1494</source>
+			<translation>デジタルキーを使用して 
+車両電源や始動をオンにした状態です</translation>
+		</message>
+		<message>
+			<source>LID_1495</source>
+			<translation>充電コネクタロックモード</translation>
+		</message>
+		<message>
+			<source>LID_1496</source>
+			<translation>充電コネクタの
+ロックモードを選択します</translation>
+		</message>
+		<message>
+			<source>LID_1497</source>
+			<translation>充電中ロック</translation>
+		</message>
+		<message>
+			<source>LID_1498</source>
+			<translation>常時ロック</translation>
+		</message>
+		<message>
+			<source>LID_1499</source>
+			<translation>使用しない</translation>
+		</message>
+		<message>
+			<source>LID_1502</source>
+			<translation>高速道路走行速度自動調節</translation>
+		</message>
+		<message>
+			<source>LID_1504</source>
+			<translation>変速ダイヤル照明の色</translation>
+		</message>
+		<message>
+			<source>LID_1505</source>
+			<translation>変速ダイヤル照明の明るさ</translation>
+		</message>
+		<message>
+			<source>LID_1506</source>
+			<translation>トランスミッション温度が高いため 
+パワーが制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1507</source>
+			<translation>シフトをNにできません
+再始動後にもう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1509</source>
+			<translation>設定経路なし</translation>
+		</message>
+		<message>
+			<source>LID_1510</source>
+			<translation>自動モード</translation>
+		</message>
+		<message>
+			<source>LID_1511</source>
+			<translation>不注意運転警告</translation>
+		</message>
+		<message>
+			<source>LID_1513</source>
+			<translation>前方不注意を警告します</translation>
+		</message>
+		<message>
+			<source>LID_1514</source>
+			<translation>高速道路速度注意区間
+/カーブ区間/ICで
+自動で減速し
+制限速度に合わせて
+走行速度を自動で調節します</translation>
+		</message>
+		<message>
+			<source>LID_1515</source>
+			<translation>後側方衝突警告システムが 
+停止しています</translation>
+		</message>
+		<message>
+			<source>LID_1516</source>
+			<translation>始動して変速してください</translation>
+		</message>
+		<message>
+			<source>LID_1517</source>
+			<translation>運転スタイル連動SCC</translation>
+		</message>
+		<message>
+			<source>LID_1518</source>
+			<translation>スマートクルーズコントロール</translation>
+		</message>
+		<message>
+			<source>LID_1519</source>
+			<translation>スマートクルーズコントロールを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1520</source>
+			<translation>運転者スタイル連動</translation>
+		</message>
+		<message>
+			<source>LID_1521</source>
+			<translation>運転者のスタイルに連動して 
+スマートクルーズコントロール
+の反応速度、加速度
+および車間距離を調節します</translation>
+		</message>
+		<message>
+			<source>LID_1524</source>
+			<translation>給油後情報</translation>
+		</message>
+		<message>
+			<source>LID_1525</source>
+			<translation>コンテンツ構成</translation>
+		</message>
+		<message>
+			<source>LID_1527</source>
+			<translation>開始</translation>
+		</message>
+		<message>
+			<source>LID_1528</source>
+			<translation>車線変更機能の 
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1529</source>
+			<translation>車間距離</translation>
+		</message>
+		<message>
+			<source>LID_1530</source>
+			<translation>１段階</translation>
+		</message>
+		<message>
+			<source>LID_1531</source>
+			<translation>２段階</translation>
+		</message>
+		<message>
+			<source>LID_1532</source>
+			<translation>３段階</translation>
+		</message>
+		<message>
+			<source>LID_1533</source>
+			<translation>４段階</translation>
+		</message>
+		<message>
+			<source>LID_1535</source>
+			<translation>瞬間電費ゲージ表示</translation>
+		</message>
+		<message>
+			<source>LID_1536</source>
+			<translation>瞬間電費ゲージを表示します</translation>
+		</message>
+		<message>
+			<source>LID_1537</source>
+			<translation>運転者注意警告および 
+前方安全システムなどの 
+警告タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_1538</source>
+			<translation>警告タイミングを選択します</translation>
+		</message>
+		<message>
+			<source>LID_1539</source>
+			<translation>運転者注意警告および 
+前方安全システムなどの 
+警告音量を調節します</translation>
+		</message>
+		<message>
+			<source>LID_1540</source>
+			<translation>警告音量を調節します</translation>
+		</message>
+		<message>
+			<source>LID_1541</source>
+			<translation>警告音を停止します</translation>
+		</message>
+		<message>
+			<source>LID_1542</source>
+			<translation>前方安全システムなどの
+ハンドル振動警告強度を
+調節します</translation>
+		</message>
+		<message>
+			<source>LID_1543</source>
+			<translation>ハンドル振動の強度を
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1544</source>
+			<translation>ハンドル振動警告機能を
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1555</source>
+			<translation>始動状態を維持するには
+デジタルキーを
+ワイヤレス充電器に
+のせてください</translation>
+		</message>
+		<message>
+			<source>LID_1556</source>
+			<translation>デジタルキーシステムを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1557</source>
+			<translation>ビルトインカムシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1558</source>
+			<translation>SNOWモードを 
+使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1559</source>
+			<translation>変速ダイヤル照明の 
+色を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1560</source>
+			<translation>変速ダイヤル照明の 
+明るさを調節します</translation>
+		</message>
+		<message>
+			<source>LID_1563</source>
+			<translation>パワースライドドア</translation>
+		</message>
+		<message>
+			<source>LID_1564</source>
+			<translation>スライドドアを 
+自動で開閉できます</translation>
+		</message>
+		<message>
+			<source>LID_1565</source>
+			<translation>シフトレバーが
+元の位置に戻っていません</translation>
+		</message>
+		<message>
+			<source>LID_1567</source>
+			<translation>ブレーキを踏んでシフトレバー
+を操作してください</translation>
+		</message>
+		<message>
+			<source>LID_1569</source>
+			<translation>斜め前方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1570</source>
+			<translation>ヘッドライトが消えています</translation>
+		</message>
+		<message>
+			<source>LID_1571</source>
+			<translation>停車後に作動できます</translation>
+		</message>
+		<message>
+			<source>LID_1572</source>
+			<translation>e-LSDシステムを停止します 
+すべてのタイヤが同一であるか
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1573</source>
+			<translation>カードキーを登録できません
+詳細は取扱説明書をご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_1574</source>
+			<translation>登録が取消されました</translation>
+		</message>
+		<message>
+			<source>LID_1575</source>
+			<translation>デジタルキーが登録されています</translation>
+		</message>
+		<message>
+			<source>LID_1576</source>
+			<translation>指紋が登録されています</translation>
+		</message>
+		<message>
+			<source>LID_1577</source>
+			<translation>後側方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1578</source>
+			<translation>指紋認証システムを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1579</source>
+			<translation>トレーラーブレーキ灯を 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1580</source>
+			<translation>トレーラーの左側方向指示器を 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1581</source>
+			<translation>トレーラーの右側方向指示器を 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1582</source>
+			<translation>トレーラーの左側テールライトを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1583</source>
+			<translation>トレーラーの右側テールライトを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1584</source>
+			<translation>生成された水を排出中です</translation>
+		</message>
+		<message>
+			<source>LID_1585</source>
+			<translation>水の排出が完了しました</translation>
+		</message>
+		<message>
+			<source>LID_1586</source>
+			<translation>水の排出を中断しました</translation>
+		</message>
+		<message>
+			<source>LID_1587</source>
+			<translation>水排出の作動条件では
+ありません</translation>
+		</message>
+		<message>
+			<source>LID_1588</source>
+			<translation>高回転数で低速ギアにシフトすると
+エンジンおよびトランスミッションが
+損傷することがあります
+ご注意ください</translation>
+		</message>
+		<message>
+			<source>LID_1591</source>
+			<translation>サイドミラーの警告灯を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1592</source>
+			<translation>後側方安全システムが 
+停止しています</translation>
+		</message>
+		<message>
+			<source>LID_1593</source>
+			<translation>後側方安全システム</translation>
+		</message>
+		<message>
+			<source>LID_1594</source>
+			<translation>インテリジェントヘッドライト
+システムを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1595</source>
+			<translation>TRACTIONモードを 
+使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1596</source>
+			<translation>Ethereal Sound</translation>
+		</message>
+		<message>
+			<source>LID_1597</source>
+			<translation>設定２に変更します</translation>
+		</message>
+		<message>
+			<source>LID_1598</source>
+			<translation>設定２に保存されました</translation>
+		</message>
+		<message>
+			<source>LID_1599</source>
+			<translation>サラウンドビューモニター
+自動オン</translation>
+		</message>
+		<message>
+			<source>LID_1600</source>
+			<translation>駐車距離警告作動時 
+サラウンドビューモニターが 
+自動で作動します</translation>
+		</message>
+		<message>
+			<source>LID_1601</source>
+			<translation>[Genesis Connected 
+Services]&#62;[消耗品点検]で 
+確認できます</translation>
+		</message>
+		<message>
+			<source>LID_1602</source>
+			<translation>[Bluelink]＞[消耗品点検]で 
+確認できます</translation>
+		</message>
+		<message>
+			<source>LID_1603</source>
+			<translation>[UVO]＞[消耗品点検]で 
+確認できます</translation>
+		</message>
+		<message>
+			<source>LID_1604</source>
+			<translation>パワートランク開口高さ</translation>
+		</message>
+		<message>
+			<source>LID_1605</source>
+			<translation>パワートランク開口速度</translation>
+		</message>
+		<message>
+			<source>LID_1606</source>
+			<translation> パワーテールゲート開口速度</translation>
+		</message>
+		<message>
+			<source>LID_1607</source>
+			<translation>パワーテールゲート開口高さ</translation>
+		</message>
+		<message>
+			<source>LID_1608</source>
+			<translation>パワートランクが
+開く高さを選択します</translation>
+		</message>
+		<message>
+			<source>LID_1609</source>
+			<translation> パワートランクが
+開く速度を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1610</source>
+			<translation>ECOカー</translation>
+		</message>
+		<message>
+			<source>LID_1611</source>
+			<translation>Polar White</translation>
+		</message>
+		<message>
+			<source>LID_1612</source>
+			<translation>Moon White</translation>
+		</message>
+		<message>
+			<source>LID_1613</source>
+			<translation>Ice Blue</translation>
+		</message>
+		<message>
+			<source>LID_1614</source>
+			<translation>Ocean Blue</translation>
+		</message>
+		<message>
+			<source>LID_1615</source>
+			<translation>Jade Green</translation>
+		</message>
+		<message>
+			<source>LID_1616</source>
+			<translation>Orchid Green</translation>
+		</message>
+		<message>
+			<source>LID_1617</source>
+			<translation>Freesia Yellow</translation>
+		</message>
+		<message>
+			<source>LID_1618</source>
+			<translation>Sunrise Red</translation>
+		</message>
+		<message>
+			<source>LID_1619</source>
+			<translation>Aurora Purple</translation>
+		</message>
+		<message>
+			<source>LID_1620</source>
+			<translation>Lightning Violet</translation>
+		</message>
+		<message>
+			<source>LID_1621</source>
+			<translation>Blue Flight</translation>
+		</message>
+		<message>
+			<source>LID_1622</source>
+			<translation>Peaceful Forest</translation>
+		</message>
+		<message>
+			<source>LID_1623</source>
+			<translation>Dreamy Purple</translation>
+		</message>
+		<message>
+			<source>LID_1624</source>
+			<translation>Aurora Violet</translation>
+		</message>
+		<message>
+			<source>LID_1625</source>
+			<translation>Orange Delight</translation>
+		</message>
+		<message>
+			<source>LID_1626</source>
+			<translation>Golden Insight</translation>
+		</message>
+		<message>
+			<source>LID_1627</source>
+			<translation>Refreshing Sea</translation>
+		</message>
+		<message>
+			<source>LID_1628</source>
+			<translation>高速道路走行アシストシステムの
+ステアリングアシスト機能を
+一時停止します</translation>
+		</message>
+		<message>
+			<source>LID_1629</source>
+			<translation>ハンドルを持っていない
+ことが検出されました
+車線維持アシストシステムを
+一時停止します</translation>
+		</message>
+		<message>
+			<source>LID_1630</source>
+			<translation>スマートキーシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1631</source>
+			<translation>ドアシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1632</source>
+			<translation>トランク/テールゲート
+システムを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1633</source>
+			<translation>ブレーキを踏んで
+パーキングブレーキを解除してください</translation>
+		</message>
+		<message>
+			<source>LID_1634</source>
+			<translation>ソーラー充電システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1635</source>
+			<translation>ドライブモード連動</translation>
+		</message>
+		<message>
+			<source>LID_1637</source>
+			<translation>運転スタイル連動</translation>
+		</message>
+		<message>
+			<source>LID_1640</source>
+			<translation>学習した運転スタイルの結果を
+表示します</translation>
+		</message>
+		<message>
+			<source>LID_1641</source>
+			<translation>車間距離</translation>
+		</message>
+		<message>
+			<source>LID_1642</source>
+			<translation>運転スタイルに応じた
+車間距離です
+設定は直接変更できます</translation>
+		</message>
+		<message>
+			<source>LID_1643</source>
+			<translation>近く</translation>
+		</message>
+		<message>
+			<source>LID_1644</source>
+			<translation>遠く</translation>
+		</message>
+		<message>
+			<source>LID_1645</source>
+			<translation>加速強度</translation>
+		</message>
+		<message>
+			<source>LID_1646</source>
+			<translation>運転スタイルに応じた
+加速強度です
+設定は直接変更できます</translation>
+		</message>
+		<message>
+			<source>LID_1649</source>
+			<translation>反応速度</translation>
+		</message>
+		<message>
+			<source>LID_1650</source>
+			<translation>運転スタイルに応じた
+反応速度です
+設定は直接変更できます</translation>
+		</message>
+		<message>
+			<source>LID_1651</source>
+			<translation>遅い</translation>
+		</message>
+		<message>
+			<source>LID_1652</source>
+			<translation>速い</translation>
+		</message>
+		<message>
+			<source>LID_1653</source>
+			<translation>運転スタイル初期化</translation>
+		</message>
+		<message>
+			<source>LID_1654</source>
+			<translation>学習した
+運転スタイル設定値を
+初期化します</translation>
+		</message>
+		<message>
+			<source>LID_1655</source>
+			<translation>警告音量を[オフ]に設定すると
+安全のため自動で
+ステアリング振動警告が
+有効になります</translation>
+		</message>
+		<message>
+			<source>LID_1656</source>
+			<translation>ステアリング振動警告を
+[オフ]に設定すると
+安全のため自動で
+警告音が有効になります</translation>
+		</message>
+		<message>
+			<source>LID_1657</source>
+			<translation>周辺状況を確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1658</source>
+			<translation>作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1659</source>
+			<translation>走行車線が見つかりません</translation>
+		</message>
+		<message>
+			<source>LID_1660</source>
+			<translation>急カーブ区間です</translation>
+		</message>
+		<message>
+			<source>LID_1661</source>
+			<translation>走行中の車線幅が狭いです</translation>
+		</message>
+		<message>
+			<source>LID_1662</source>
+			<translation>作動区間ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1663</source>
+			<translation>ハザードランプが
+点灯しています</translation>
+		</message>
+		<message>
+			<source>LID_1664</source>
+			<translation>走行速度が遅いです</translation>
+		</message>
+		<message>
+			<source>LID_1665</source>
+			<translation>車線維持アシストシステムが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1666</source>
+			<translation>ハンドルを持ってください</translation>
+		</message>
+		<message>
+			<source>LID_1667</source>
+			<translation>作動可能な道路では
+ありません</translation>
+		</message>
+		<message>
+			<source>LID_1668</source>
+			<translation>注意して運転してください</translation>
+		</message>
+		<message>
+			<source>LID_1669</source>
+			<translation>車線変更アシスト機能を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1670</source>
+			<translation>車室内カメラが遮られたため
+前方注視警告システムの
+作動が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1672</source>
+			<translation>速度制限</translation>
+		</message>
+		<message>
+			<source>LID_1673</source>
+			<translation>速度制限システムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1674</source>
+			<translation>速度オフセット設定</translation>
+		</message>
+		<message>
+			<source>LID_1675</source>
+			<translation>速度制限のオフセットを
+調節します</translation>
+		</message>
+		<message>
+			<source>LID_1676</source>
+			<translation>走行速度自動調整</translation>
+		</message>
+		<message>
+			<source>LID_1677</source>
+			<translation>ナビゲーションと
+標識情報を使用して
+自動で走行速度を調節し
+安全な走行をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1678</source>
+			<translation>速度制限アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1679</source>
+			<translation>速度制限システム</translation>
+		</message>
+		<message>
+			<source>LID_1680</source>
+			<translation>速度制限システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1681</source>
+			<translation>外部環境により
+カメラ視野が制限されたため
+速度制限システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1682</source>
+			<translation>斜め前方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1683</source>
+			<translation>後側方安全システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1684</source>
+			<translation>外部環境により
+レーダー検出が制限されたため
+後側方安全システムの作動が
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1685</source>
+			<translation>斜め後方安全システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1686</source>
+			<translation>外部環境により
+レーダー検出が制限されたため
+斜め後方安全システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1687</source>
+			<translation>前方注視警告</translation>
+		</message>
+		<message>
+			<source>LID_1688</source>
+			<translation>制限速度が変更されました</translation>
+		</message>
+		<message>
+			<source>LID_1689</source>
+			<translation>設定速度が変更されました</translation>
+		</message>
+		<message>
+			<source>LID_1690</source>
+			<translation>速度制限を自動で変更します
+取消すには+/-スイッチを
+操作してください</translation>
+		</message>
+		<message>
+			<source>LID_1691</source>
+			<translation>設定速度を自動で変更します
+取消すには+/-スイッチを
+操作してください</translation>
+		</message>
+		<message>
+			<source>LID_1692</source>
+			<translation>外部環境により
+カメラ視野が制限されたため
+速度限界表示が
+しばらく停止します</translation>
+		</message>
+		<message>
+			<source>LID_1693</source>
+			<translation>速度制限表示装置を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1694</source>
+			<translation>速度制限システムオフ</translation>
+		</message>
+		<message>
+			<source>LID_1695</source>
+			<translation>高速道路で
+ナビゲーション情報を使用し
+自動で走行速度を調節して
+安全な走行をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_1701</source>
+			<translation>外部環境により
+レーダー検出が制限されたため
+前方安全システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1702</source>
+			<translation>外部環境により
+カメラ視野が制限されたため
+前方安全システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1703</source>
+			<translation>道路の制限速度を
+超過して走行しないように
+走行速度を調節します</translation>
+		</message>
+		<message>
+			<source>LID_1704</source>
+			<translation>速度制限機能を
+オフにします</translation>
+		</message>
+		<message>
+			<source>LID_1705</source>
+			<translation>外部環境により
+カメラ視野が制限されたため
+前方安全システムの作動が
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1706</source>
+			<translation>ハンドルを持っていないため
+自動走行速度が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1707</source>
+			<translation>外部環境により
+レーダー検出が制限されたため
+後側方安全システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1708</source>
+			<translation>前方安全システムなどの
+ハンドル振動警告を
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1709</source>
+			<translation>前方注視警告システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1710</source>
+			<translation>メーター情報を
+立体的に表示します</translation>
+		</message>
+		<message>
+			<source>LID_1711</source>
+			<translation>車両電源自動停止</translation>
+		</message>
+		<message>
+			<source>LID_1712</source>
+			<translation>車両電源を始動したまま駐車する場合
+設定した時間が経過すると
+自動で電源が停止します</translation>
+		</message>
+		<message>
+			<source>LID_1713</source>
+			<translation>６０分</translation>
+		</message>
+		<message>
+			<source>LID_1714</source>
+			<translation>３０分</translation>
+		</message>
+		<message>
+			<source>LID_1715</source>
+			<translation>仮想エンジンサウンドシステム&#40;VESS&#41;音量調節</translation>
+		</message>
+		<message>
+			<source>LID_1716</source>
+			<translation>仮想エンジンサウンドシステム&#40;VESS&#41;の
+音量を調節できます</translation>
+		</message>
+		<message>
+			<source>LID_1717</source>
+			<translation>車両電源が自動で停止します</translation>
+		</message>
+		<message>
+			<source>LID_1718</source>
+			<translation>居眠り予防サポート機能が
+終了しました</translation>
+		</message>
+		<message>
+			<source>LID_1719</source>
+			<translation>居眠り予防サポート機能が
+停止しました</translation>
+		</message>
+		<message>
+			<source>LID_1720</source>
+			<translation>姿勢アシスト機能が
+作動します</translation>
+		</message>
+		<message>
+			<source>LID_1721</source>
+			<translation>ブレーキを踏んで
+シフトをゆっくりNにしてください</translation>
+		</message>
+		<message>
+			<source>LID_1722</source>
+			<translation>トランクを閉じてから
+設定してください</translation>
+		</message>
+		<message>
+			<source>LID_1723</source>
+			<translation>バッテリー情報</translation>
+		</message>
+		<message>
+			<source>LID_1724</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_1725</source>
+			<translation>急速</translation>
+		</message>
+		<message>
+			<source>LID_1726</source>
+			<translation>AUTO STOPの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1727</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+バッテリー充電中です</translation>
+		</message>
+		<message>
+			<source>LID_1728</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+傾斜路です</translation>
+		</message>
+		<message>
+			<source>LID_1729</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+作動温度範囲でないか
+冷暖房制御中です</translation>
+		</message>
+		<message>
+			<source>LID_1730</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+作動可能なドライブモードでは
+ありません</translation>
+		</message>
+		<message>
+			<source>LID_1731</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+フードが開いています</translation>
+		</message>
+		<message>
+			<source>LID_1732</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+ドアが開いています</translation>
+		</message>
+		<message>
+			<source>LID_1733</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+シートベルトが
+締結されていません</translation>
+		</message>
+		<message>
+			<source>LID_1734</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+ハンドルが真っ直ぐでは
+ありません</translation>
+		</message>
+		<message>
+			<source>LID_1735</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+最低速度に
+到達していません</translation>
+		</message>
+		<message>
+			<source>LID_1736</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+シフトがDまたはNではありません</translation>
+		</message>
+		<message>
+			<source>LID_1737</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+シフトがNではありません</translation>
+		</message>
+		<message>
+			<source>LID_1738</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+ブレーキを
+より強く踏んでください</translation>
+		</message>
+		<message>
+			<source>LID_1739</source>
+			<translation>AUTO STARTの
+前方車両が出発したため
+自動で始動がかかりました</translation>
+		</message>
+		<message>
+			<source>LID_1740</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+STOP標識が
+検出されました</translation>
+		</message>
+		<message>
+			<source>LID_1741</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+YIELD標識が
+検出されました</translation>
+		</message>
+		<message>
+			<source>LID_1742</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+環状交差点の標識が
+検出されました</translation>
+		</message>
+		<message>
+			<source>LID_1744</source>
+			<translation>シフトを低速ギアにしてから
+走行してください</translation>
+		</message>
+		<message>
+			<source>LID_1745</source>
+			<translation>シフトをNにしてから
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1746</source>
+			<translation>後部座席に乗員を残したまま
+降車することを防止するために
+通知します</translation>
+		</message>
+		<message>
+			<source>LID_1748</source>
+			<translation>Nモード設定時
+自動で前方安全システムが
+オフになります</translation>
+		</message>
+		<message>
+			<source>LID_1749</source>
+			<translation>トランスミッションが過熱状態です</translation>
+		</message>
+		<message>
+			<source>LID_1750</source>
+			<translation>外部環境により
+レーダー検出が制限されたため
+前方安全システムの作動が
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_1751</source>
+			<translation>DRIVE</translation>
+		</message>
+		<message>
+			<source>LID_1752</source>
+			<translation>TERRAIN</translation>
+		</message>
+		<message>
+			<source>LID_1753</source>
+			<translation>テーマA</translation>
+		</message>
+		<message>
+			<source>LID_1754</source>
+			<translation>テーマB</translation>
+		</message>
+		<message>
+			<source>LID_1755</source>
+			<translation>テーマC</translation>
+		</message>
+		<message>
+			<source>LID_1756</source>
+			<translation>テーマD</translation>
+		</message>
+		<message>
+			<source>LID_1757</source>
+			<translation>オン</translation>
+		</message>
+		<message>
+			<source>LID_1758</source>
+			<translation>Ximalaya FM</translation>
+		</message>
+		<message>
+			<source>LID_1759</source>
+			<translation>モータ駆動システム点検！
+安全な場所に停車してください</translation>
+		</message>
+		<message>
+			<source>LID_1760</source>
+			<translation>平均電費表示</translation>
+		</message>
+		<message>
+			<source>LID_1761</source>
+			<translation>再始動後の電費</translation>
+		</message>
+		<message>
+			<source>LID_1762</source>
+			<translation>給油後の電費</translation>
+		</message>
+		<message>
+			<source>LID_1763</source>
+			<translation>累積電費</translation>
+		</message>
+		<message>
+			<source>LID_1764</source>
+			<translation>表示しない</translation>
+		</message>
+		<message>
+			<source>LID_1765</source>
+			<translation>クラスターに表示される
+平均電費を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1766</source>
+			<translation>後輪操舵システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1778</source>
+			<translation>車室内温度と換気状態を
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1779</source>
+			<translation>安全降車警告</translation>
+		</message>
+		<message>
+			<source>LID_1780</source>
+			<translation>降車中に
+後側方車両と衝突する
+危険性がある場合は
+警告します</translation>
+		</message>
+		<message>
+			<source>LID_1781</source>
+			<translation>降車中に
+後側方車両と衝突する
+危険性がある場合は
+警告およびドア制御で
+安全な降車を
+アシストします</translation>
+		</message>
+		<message>
+			<source>LID_1782</source>
+			<translation>高速道路車線変更アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1783</source>
+			<translation>車室内侵入感知システム</translation>
+		</message>
+		<message>
+			<source>LID_1785</source>
+			<translation>自然の音</translation>
+		</message>
+		<message>
+			<source>LID_1786</source>
+			<translation>スマート姿勢</translation>
+		</message>
+		<message>
+			<source>LID_1787</source>
+			<translation>車両施錠後に
+後部座席で動きを感知すると
+警告音を出力します</translation>
+		</message>
+		<message>
+			<source>LID_1788</source>
+			<translation>Melon</translation>
+		</message>
+		<message>
+			<source>LID_1789</source>
+			<translation>genie music</translation>
+		</message>
+		<message>
+			<source>LID_1790</source>
+			<translation>惰性走行</translation>
+		</message>
+		<message>
+			<source>LID_1791</source>
+			<translation>ブレーキ</translation>
+		</message>
+		<message>
+			<source>LID_1792</source>
+			<translation>ブレーキペダルの応答速度を
+選択できます</translation>
+		</message>
+		<message>
+			<source>LID_1793</source>
+			<translation>全開</translation>
+		</message>
+		<message>
+			<source>LID_1794</source>
+			<translation>半開</translation>
+		</message>
+		<message>
+			<source>LID_1795</source>
+			<translation>ユーザー体高設定</translation>
+		</message>
+		<message>
+			<source>LID_1796</source>
+			<translation>テールゲートを
+適切な高さに調整後
+閉ボタンを３秒間
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1797</source>
+			<translation>メーター</translation>
+		</message>
+		<message>
+			<source>LID_1798</source>
+			<translation>単位の設定</translation>
+		</message>
+		<message>
+			<source>LID_1799</source>
+			<translation>スマートスライドドア</translation>
+		</message>
+		<message>
+			<source>LID_1800</source>
+			<translation>スマートキーを所持して
+スライドドアに近づくと
+スライドドアが
+自動で開きます</translation>
+		</message>
+		<message>
+			<source>LID_1801</source>
+			<translation>パワーテールゲート自動閉</translation>
+		</message>
+		<message>
+			<source>LID_1802</source>
+			<translation>スマートキーを所持して
+車両後方から離れると
+テールゲートが
+自動で閉まります</translation>
+		</message>
+		<message>
+			<source>LID_1803</source>
+			<translation>シフトをNで駐車するには
+始動後にAUTO HOLDおよび
+パーキングブレーキを
+解除してください</translation>
+		</message>
+		<message>
+			<source>LID_1804</source>
+			<translation>Nモード走行安全自動オフ</translation>
+		</message>
+		<message>
+			<source>LID_1805</source>
+			<translation>Nモードを選択すると
+自動で走行安全システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_1806</source>
+			<translation>前方安全システムを
+解除するには
+OKボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1807</source>
+			<translation>車線安全システムを
+解除するには
+OKボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1808</source>
+			<translation>OKボタンを押すと
+高速道路走行アシストが
+オンになります</translation>
+		</message>
+		<message>
+			<source>LID_1809</source>
+			<translation>OKボタンを押すと
+車道変更アシスト機能が
+オンになります</translation>
+		</message>
+		<message>
+			<source>LID_1810</source>
+			<translation>速度制限</translation>
+		</message>
+		<message>
+			<source>LID_1811</source>
+			<translation>アクティブノイズ制御システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1812</source>
+			<translation>警告音を&#34;オフ&#34;に設定すると
+自動でハンドル振動警告機能が
+有効になります</translation>
+		</message>
+		<message>
+			<source>LID_1813</source>
+			<translation>ハンドル振動警告を
+&#34;オフ&#34;に設定すると
+自動で警告音機能が
+有効になります</translation>
+		</message>
+		<message>
+			<source>LID_1814</source>
+			<translation>車室内換気通知</translation>
+		</message>
+		<message>
+			<source>LID_1815</source>
+			<translation>前席の背もたれを倒して
+休憩すると約１時間後
+車室内を換気するように
+通知します</translation>
+		</message>
+		<message>
+			<source>LID_1816</source>
+			<translation>ブレーキを踏んでください
+緊急ブレーキが解除されます</translation>
+		</message>
+		<message>
+			<source>LID_1817</source>
+			<translation>パワーテールゲートの
+開口時の高さを選択します</translation>
+		</message>
+		<message>
+			<source>LID_1818</source>
+			<translation>ブレーキとクラッチペダルを
+踏んで始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1819</source>
+			<translation>オイル交換時期通知</translation>
+		</message>
+		<message>
+			<source>LID_1820</source>
+			<translation>オイル寿命を表示します
+オイル交換後に
+必ずオイル寿命を
+初期化してください</translation>
+		</message>
+		<message>
+			<source>LID_1821</source>
+			<translation>寿命までの期間</translation>
+		</message>
+		<message>
+			<source>LID_1822</source>
+			<translation>エンジンオイル
+交換時期になりました
+エンジンオイル交換後に
+オイル寿命を
+初期化してください</translation>
+		</message>
+		<message>
+			<source>LID_1823</source>
+			<translation>すぐにエンジンオイルを
+交換してください
+エンジンオイル交換後に
+オイル寿命を
+初期化してください</translation>
+		</message>
+		<message>
+			<source>LID_1824</source>
+			<translation>ドライブモードに合わせて
+スマートクルーズコントロールの
+加速強度および反応速度を
+調節します</translation>
+		</message>
+		<message>
+			<source>LID_1825</source>
+			<translation>運転スタイルに合わせて
+スマートクルーズコントロールの車間距離、
+加速強度および反応速度が
+自動で調節されます</translation>
+		</message>
+		<message>
+			<source>LID_1826</source>
+			<translation>運転スタイルから学習した
+設定値を表示します
+設定は直接変更できます</translation>
+		</message>
+		<message>
+			<source>LID_1827</source>
+			<translation>運転スタイルから学習した
+車間距離を表示します</translation>
+		</message>
+		<message>
+			<source>LID_1828</source>
+			<translation>運転スタイルから学習した
+加速強度を表示します</translation>
+		</message>
+		<message>
+			<source>LID_1829</source>
+			<translation>運転スタイルから学習した
+反応速度を表示します</translation>
+		</message>
+		<message>
+			<source>LID_1830</source>
+			<translation>走行に便利な情報</translation>
+		</message>
+		<message>
+			<source>LID_1831</source>
+			<translation>走行に便利な機能</translation>
+		</message>
+		<message>
+			<source>LID_1832</source>
+			<translation>走行に便利なシステムを
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_1833</source>
+			<translation>カメラ設定</translation>
+		</message>
+		<message>
+			<source>LID_1834</source>
+			<translation>カメラを設定します</translation>
+		</message>
+		<message>
+			<source>LID_1835</source>
+			<translation>前方/側方安全</translation>
+		</message>
+		<message>
+			<source>LID_1836</source>
+			<translation>前方または側方に
+衝突の危険性がある場合は
+警告および車両制御で
+衝突の回避を
+アシストします</translation>
+		</message>
+		<message>
+			<source>LID_1837</source>
+			<translation>後方衝突防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1838</source>
+			<translation>後退中に
+衝突する危険性がある場合は
+警告および車両制御で
+衝突の回避を
+アシストします</translation>
+		</message>
+		<message>
+			<source>LID_1839</source>
+			<translation>後方衝突警告</translation>
+		</message>
+		<message>
+			<source>LID_1840</source>
+			<translation>後退中に
+衝突する危険性がある場合は
+警告します</translation>
+		</message>
+		<message>
+			<source>LID_1841</source>
+			<translation>エンジンオイル寿命を
+初期化しますか？</translation>
+		</message>
+		<message>
+			<source>LID_1842</source>
+			<translation>エンジンオイル寿命が
+初期化されました</translation>
+		</message>
+		<message>
+			<source>LID_1843</source>
+			<translation>エンジンオイル寿命が
+初期化されていません</translation>
+		</message>
+		<message>
+			<source>LID_1844</source>
+			<translation>スマートキーを
+非常始動ホームに入れて
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1846</source>
+			<translation>N Grin Shift
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1847</source>
+			<translation>健康管理</translation>
+		</message>
+		<message>
+			<source>LID_1848</source>
+			<translation>心拍数&#40;BPM&#41;</translation>
+		</message>
+		<message>
+			<source>LID_1849</source>
+			<translation>測定中です</translation>
+		</message>
+		<message>
+			<source>LID_1850</source>
+			<translation>両手でハンドルを持つと
+測定が開始します</translation>
+		</message>
+		<message>
+			<source>LID_1851</source>
+			<translation>ストレス指数</translation>
+		</message>
+		<message>
+			<source>LID_1852</source>
+			<translation>ストレス管理システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1855</source>
+			<translation>シフトN維持モードを
+設定するには
+ハンドルのOKボタンを
+長押ししてください</translation>
+		</message>
+		<message>
+			<source>LID_1856</source>
+			<translation>前方左側タイヤ空気圧異常！
+すべてのタイヤを点検後
+空気圧SETボタンを３秒以上
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1857</source>
+			<translation>前方右側タイヤ空気圧異常！
+すべてのタイヤを点検後
+空気圧SETボタンを３秒以上
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1858</source>
+			<translation>後方左側タイヤ空気圧異常！
+すべてのタイヤを点検後
+空気圧SETボタンを３秒以上
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1859</source>
+			<translation>後方右側タイヤ空気圧異常！
+すべてのタイヤを点検後
+空気圧SETボタンを３秒以上
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1860</source>
+			<translation>待機モード</translation>
+		</message>
+		<message>
+			<source>LID_1861</source>
+			<translation>ハイブリッド走行</translation>
+		</message>
+		<message>
+			<source>LID_1862</source>
+			<translation>エンジン走行</translation>
+		</message>
+		<message>
+			<source>LID_1863</source>
+			<translation>エンジンブレーキ</translation>
+		</message>
+		<message>
+			<source>LID_1864</source>
+			<translation>電気モーター走行</translation>
+		</message>
+		<message>
+			<source>LID_1865</source>
+			<translation>充電中</translation>
+		</message>
+		<message>
+			<source>LID_1867</source>
+			<translation>設定３に変更します</translation>
+		</message>
+		<message>
+			<source>LID_1868</source>
+			<translation>設定３に保存されました</translation>
+		</message>
+		<message>
+			<source>LID_1870</source>
+			<translation>充電口を点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1871</source>
+			<translation>トレーラー牽引モード作動中です
+パワー制限や手動変速機能が
+制限されることがあります</translation>
+		</message>
+		<message>
+			<source>LID_1872</source>
+			<translation>ディーゼルフィルタの再生が必要です
+詳しい内容は取扱説明書を
+ご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_1873</source>
+			<translation>自己再生作動条件ではありません
+詳しい内容は取扱説明書を
+ご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_1874</source>
+			<translation>自己再生が中止されました</translation>
+		</message>
+		<message>
+			<source>LID_1875</source>
+			<translation>自己再生中です</translation>
+		</message>
+		<message>
+			<source>LID_1876</source>
+			<translation>自己再生が完了しました
+再始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1877</source>
+			<translation>タッチ コントロール</translation>
+		</message>
+		<message>
+			<source>LID_1878</source>
+			<translation>給油口のロック解除まで
+お待ちください</translation>
+		</message>
+		<message>
+			<source>LID_1879</source>
+			<translation>給油口のロックが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1880</source>
+			<translation>速度制限システムの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1881</source>
+			<translation>速度制限システムが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_1882</source>
+			<translation>ハンドル操作を感知しました</translation>
+		</message>
+		<message>
+			<source>LID_1883</source>
+			<translation>駐車安全システム
+オン</translation>
+		</message>
+		<message>
+			<source>LID_1884</source>
+			<translation>駐車安全システム
+オフ</translation>
+		</message>
+		<message>
+			<source>LID_1885</source>
+			<translation>運転者が乗車前に
+後部座席のドアを開閉すると
+降車する際に
+後部座席の乗員と荷物を
+確認するように
+通知します</translation>
+		</message>
+		<message>
+			<source>LID_1886</source>
+			<translation>充電後の電費</translation>
+		</message>
+		<message>
+			<source>LID_1887</source>
+			<translation>バッテリー保護のため
+まもなく電源が切れます</translation>
+		</message>
+		<message>
+			<source>LID_1888</source>
+			<translation>前方に凸凹な道路を
+検出しました
+注意して走行してください</translation>
+		</message>
+		<message>
+			<source>LID_1889</source>
+			<translation>前方に滑りやすい道路を
+検出しました
+注意して運転してください</translation>
+		</message>
+		<message>
+			<source>LID_1890</source>
+			<translation>背景画面選択</translation>
+		</message>
+		<message>
+			<source>LID_1891</source>
+			<translation>選択した背景画面を
+適用します</translation>
+		</message>
+		<message>
+			<source>LID_1892</source>
+			<translation>背景画面A</translation>
+		</message>
+		<message>
+			<source>LID_1893</source>
+			<translation>背景画面B</translation>
+		</message>
+		<message>
+			<source>LID_1894</source>
+			<translation>背景画面C</translation>
+		</message>
+		<message>
+			<source>LID_1895</source>
+			<translation>ドア施錠装置を
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1896</source>
+			<translation>非常レバーでドアを
+開けてください</translation>
+		</message>
+		<message>
+			<source>LID_1897</source>
+			<translation>非常レバーをもう一度引くと
+ドアが開きます</translation>
+		</message>
+		<message>
+			<source>LID_1898</source>
+			<translation>接近時ドア解錠</translation>
+		</message>
+		<message>
+			<source>LID_1899</source>
+			<translation>スマートキーを所持して
+車両に近づくと
+運転席ドアが自動で開きます</translation>
+		</message>
+		<message>
+			<source>LID_1900</source>
+			<translation>リモートパワードア同時開</translation>
+		</message>
+		<message>
+			<source>LID_1901</source>
+			<translation>スマートキーの
+解錠ボタンを３秒以上押すと
+設定されたドアが開きます</translation>
+		</message>
+		<message>
+			<source>LID_1902</source>
+			<translation>左/右スライドドアおよびテールゲート開</translation>
+		</message>
+		<message>
+			<source>LID_1903</source>
+			<translation>スマートキーの
+解錠ボタンを３秒以上押すと
+左/右スライドドアと
+テールゲートが開きます</translation>
+		</message>
+		<message>
+			<source>LID_1904</source>
+			<translation>左/右スライドドア開</translation>
+		</message>
+		<message>
+			<source>LID_1905</source>
+			<translation>スマートキーの
+解錠ボタンを３秒以上押すと
+左/右スライドドアが開きます</translation>
+		</message>
+		<message>
+			<source>LID_1906</source>
+			<translation>リモートパワードア
+同時開機能を使用しません</translation>
+		</message>
+		<message>
+			<source>LID_1907</source>
+			<translation>タコメーター</translation>
+		</message>
+		<message>
+			<source>LID_1908</source>
+			<translation>ドライブモード選択時に
+該当するモードで
+タコメーターを
+表示します</translation>
+		</message>
+		<message>
+			<source>LID_1909</source>
+			<translation>i-ペダル</translation>
+		</message>
+		<message>
+			<source>LID_1910</source>
+			<translation>アクセルペダルだけで
+車両を加速、減速、停止
+できます</translation>
+		</message>
+		<message>
+			<source>LID_1911</source>
+			<translation>Classic A</translation>
+		</message>
+		<message>
+			<source>LID_1912</source>
+			<translation>Classic B</translation>
+		</message>
+		<message>
+			<source>LID_1913</source>
+			<translation>Classic C</translation>
+		</message>
+		<message>
+			<source>LID_1914</source>
+			<translation>Cube</translation>
+		</message>
+		<message>
+			<source>LID_1915</source>
+			<translation>Dynamic</translation>
+		</message>
+		<message>
+			<source>LID_1916</source>
+			<translation>充電後の情報</translation>
+		</message>
+		<message>
+			<source>LID_1917</source>
+			<translation>デジタルサイドミラーを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1918</source>
+			<translation>始動状態を維持するには
+指紋を認証してください</translation>
+		</message>
+		<message>
+			<source>LID_1919</source>
+			<translation>デジタルキーを
+ワイヤレス充電器にのせるか
+指紋を認証してください</translation>
+		</message>
+		<message>
+			<source>LID_1920</source>
+			<translation>指紋認証してから
+始動ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_1921</source>
+			<translation>デジタルキーまたは指紋を
+認証してから
+始動ボタンを
+押してください</translation>
+		</message>
+		<message>
+			<source>LID_1922</source>
+			<translation>X秒以内に
+始動ボタンを押すと
+始動します</translation>
+		</message>
+		<message>
+			<source>LID_1923</source>
+			<translation>車両キーを認識できません</translation>
+		</message>
+		<message>
+			<source>LID_1924</source>
+			<translation>メーターを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1925</source>
+			<translation>サーキット走行するには
+ブレーキパッドを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1926</source>
+			<translation>トレーラーが連結されました</translation>
+		</message>
+		<message>
+			<source>LID_1927</source>
+			<translation>駐車衝突防止アシスト</translation>
+		</message>
+		<message>
+			<source>LID_1928</source>
+			<translation>車線安全システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1929</source>
+			<translation>進入禁止
+道路の走行方向を
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_1930</source>
+			<translation>ローンチコントロールの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1931</source>
+			<translation>AUTO STOPの
+作動条件ではありません
+変速システム制御中です</translation>
+		</message>
+		<message>
+			<source>LID_1932</source>
+			<translation>すべてのタイヤ空気圧を点検してから
+基準値を保存してください</translation>
+		</message>
+		<message>
+			<source>LID_1933</source>
+			<translation>停車後に設定してください</translation>
+		</message>
+		<message>
+			<source>LID_1934</source>
+			<translation>認証が制限されました
+XX分後にもう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1935</source>
+			<translation>前方予測変速</translation>
+		</message>
+		<message>
+			<source>LID_1936</source>
+			<translation>カーブ進入</translation>
+		</message>
+		<message>
+			<source>LID_1937</source>
+			<translation>高速道路合流</translation>
+		</message>
+		<message>
+			<source>LID_1938</source>
+			<translation>前方車両接近</translation>
+		</message>
+		<message>
+			<source>LID_1939</source>
+			<translation>下り坂進入</translation>
+		</message>
+		<message>
+			<source>LID_1940</source>
+			<translation>自動速度取締機検出</translation>
+		</message>
+		<message>
+			<source>LID_1941</source>
+			<translation>交差点通過</translation>
+		</message>
+		<message>
+			<source>LID_1942</source>
+			<translation>環状交差点通過</translation>
+		</message>
+		<message>
+			<source>LID_1943</source>
+			<translation>その他情報検出</translation>
+		</message>
+		<message>
+			<source>LID_1944</source>
+			<translation>スマートモードのみで作動します</translation>
+		</message>
+		<message>
+			<source>LID_1945</source>
+			<translation>EV+モード</translation>
+		</message>
+		<message>
+			<source>LID_1946</source>
+			<translation>冷/暖房のためにEVモードに
+切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1947</source>
+			<translation>システム温度が低いため
+EVモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1948</source>
+			<translation>システム温度が高いため
+EVモードに切替えます</translation>
+		</message>
+		<message>
+			<source>LID_1949</source>
+			<translation>EV+モードを使用できません</translation>
+		</message>
+		<message>
+			<source>LID_1950</source>
+			<translation>シフトロックシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1951</source>
+			<translation>AUTO STOPが解除されました
+ブレーキとクラッチペダルを踏んで
+手動で始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1952</source>
+			<translation>AUTO STOPが解除されました
+シフトをNにしてから
+ブレーキペダルを踏んで
+手動で始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1953</source>
+			<translation>前方に
+連続する曲線道路が
+検出されました
+自動でNモードに切替わります</translation>
+		</message>
+		<message>
+			<source>LID_1954</source>
+			<translation>助手席エアバック機能を
+有効にします</translation>
+		</message>
+		<message>
+			<source>LID_1955</source>
+			<translation>助手席エアバック機能を
+無効にします</translation>
+		</message>
+		<message>
+			<source>LID_1956</source>
+			<translation>シートベルトシステム点検！</translation>
+		</message>
+		<message>
+			<source>LID_1957</source>
+			<translation>終了</translation>
+		</message>
+		<message>
+			<source>LID_1958</source>
+			<translation>CUSTOM１に入ると
+ESCはオフになります
+この状態を続けるには
+もう一度ボタンを長押ししてください</translation>
+		</message>
+		<message>
+			<source>LID_1959</source>
+			<translation>CUSTOM２に入ると
+ESCはオフになります
+この状態を続けるには
+もう一度ボタンを長押ししてください</translation>
+		</message>
+		<message>
+			<source>LID_1960</source>
+			<translation>ユーザー認証システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_1961</source>
+			<translation>生体認証情報が
+登録されています</translation>
+		</message>
+		<message>
+			<source>LID_1962</source>
+			<translation>デジタルキーと生体認証情報
+が登録されています</translation>
+		</message>
+		<message>
+			<source>LID_1963</source>
+			<translation>認証されました
+始動できます</translation>
+		</message>
+		<message>
+			<source>LID_1964</source>
+			<translation>指紋認証システムを使用して
+車両の電源を始動した状態です</translation>
+		</message>
+		<message>
+			<source>LID_1965</source>
+			<translation>スマートキーなしで
+車両電源を始動した状態です</translation>
+		</message>
+		<message>
+			<source>LID_1966</source>
+			<translation>照明の明るさが
+調節されました</translation>
+		</message>
+		<message>
+			<source>LID_1967</source>
+			<translation>最小の照明の明るさです</translation>
+		</message>
+		<message>
+			<source>LID_1968</source>
+			<translation>最大の照明の明るさです</translation>
+		</message>
+		<message>
+			<source>LID_1969</source>
+			<translation>指紋が一致しません
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1970</source>
+			<translation>指紋が一致しません
+ナビゲーション画面で認証を
+行ってください</translation>
+		</message>
+		<message>
+			<source>LID_1971</source>
+			<translation>認証されました
+走行できます</translation>
+		</message>
+		<message>
+			<source>LID_1972</source>
+			<translation>後側方を確認してから
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1973</source>
+			<translation>自動で設定速度を調節します</translation>
+		</message>
+		<message>
+			<source>LID_1974</source>
+			<translation>V２L実行中</translation>
+		</message>
+		<message>
+			<source>LID_1975</source>
+			<translation>バッテリー使用設定の
+上限に到達したため
+V２L機能を終了します</translation>
+		</message>
+		<message>
+			<source>LID_1976</source>
+			<translation>V２L作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_1977</source>
+			<translation>使用電力超過のため
+V２L機能を停止します</translation>
+		</message>
+		<message>
+			<source>LID_1978</source>
+			<translation>充電待機中</translation>
+		</message>
+		<message>
+			<source>LID_1979</source>
+			<translation>充電予約時間</translation>
+		</message>
+		<message>
+			<source>LID_1980</source>
+			<translation>月曜日</translation>
+		</message>
+		<message>
+			<source>LID_1981</source>
+			<translation>火曜日</translation>
+		</message>
+		<message>
+			<source>LID_1982</source>
+			<translation>水曜日</translation>
+		</message>
+		<message>
+			<source>LID_1983</source>
+			<translation>木曜日</translation>
+		</message>
+		<message>
+			<source>LID_1984</source>
+			<translation>金曜日</translation>
+		</message>
+		<message>
+			<source>LID_1985</source>
+			<translation>土曜日</translation>
+		</message>
+		<message>
+			<source>LID_1986</source>
+			<translation>日曜日</translation>
+		</message>
+		<message>
+			<source>LID_1987</source>
+			<translation>オーディオブック</translation>
+		</message>
+		<message>
+			<source>LID_1988</source>
+			<translation>オンライン ニュース</translation>
+		</message>
+		<message>
+			<source>LID_1989</source>
+			<translation>登録する装置を
+ワイヤレス充電器にのせてから
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1990</source>
+			<translation>リモートウィンドウ制御</translation>
+		</message>
+		<message>
+			<source>LID_1991</source>
+			<translation>リモートウィンドウ制御機能
+を設定/解除できます</translation>
+		</message>
+		<message>
+			<source>LID_1992</source>
+			<translation>平均電費表示</translation>
+		</message>
+		<message>
+			<source>LID_1993</source>
+			<translation>メーターに表示される
+平均電費を選択します</translation>
+		</message>
+		<message>
+			<source>LID_1994</source>
+			<translation>ブレーキを踏んだ状態で
+もう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_1995</source>
+			<translation>車両電源が停止しました
+シフトをPまたはNで
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_1996</source>
+			<translation>更新ファイルがUSBにあります
+更新しますか&#63;</translation>
+		</message>
+		<message>
+			<source>LID_1997</source>
+			<translation>予想所要時間:XX分</translation>
+		</message>
+		<message>
+			<source>LID_1998</source>
+			<translation>更新を開始します
+USBを抜かないでください</translation>
+		</message>
+		<message>
+			<source>LID_1999</source>
+			<translation>車両電源が停止してから
+更新を続けます</translation>
+		</message>
+		<message>
+			<source>LID_2000</source>
+			<translation>メーターソフトウェア情報</translation>
+		</message>
+		<message>
+			<source>LID_2001</source>
+			<translation>現在のバージョン</translation>
+		</message>
+		<message>
+			<source>LID_2002</source>
+			<translation>最新バージョン</translation>
+		</message>
+		<message>
+			<source>LID_2003</source>
+			<translation>
+メーターの更新ファイルが
+USBにあります
+車両電源が停止してから
+更新が開始します</translation>
+		</message>
+		<message>
+			<source>LID_2004</source>
+			<translation>メーターの更新ファイルがあります
+更新中は起動できません
+更新しますか？</translation>
+		</message>
+		<message>
+			<source>LID_2005</source>
+			<translation>XX秒後
+更新が開始します
+更新中は始動できません</translation>
+		</message>
+		<message>
+			<source>LID_2006</source>
+			<translation>すぐに開始</translation>
+		</message>
+		<message>
+			<source>LID_2007</source>
+			<translation>取消し</translation>
+		</message>
+		<message>
+			<source>LID_2008</source>
+			<translation>１２Vバッテリー充電量が
+不足しています
+充電してからもう一度
+更新をお試しください</translation>
+		</message>
+		<message>
+			<source>LID_2009</source>
+			<translation>更新中です</translation>
+		</message>
+		<message>
+			<source>LID_2010</source>
+			<translation>まもなくメーターが消えます
+約XX分後に再起動するまで
+USBを抜かないでください</translation>
+		</message>
+		<message>
+			<source>LID_2011</source>
+			<translation>更新が完了しました</translation>
+		</message>
+		<message>
+			<source>LID_2012</source>
+			<translation>USBが抜かれたため
+更新を取消しました</translation>
+		</message>
+		<message>
+			<source>LID_2013</source>
+			<translation>更新中にエラーが発生したため
+既存バージョンに復旧中です</translation>
+		</message>
+		<message>
+			<source>LID_2014</source>
+			<translation>既存バージョンで
+復旧しました</translation>
+		</message>
+		<message>
+			<source>LID_2015</source>
+			<translation>更新エラーが発生しました
+サービスセンターにお問合せください</translation>
+		</message>
+		<message>
+			<source>LID_2016</source>
+			<translation>更新が取消されました</translation>
+		</message>
+		<message>
+			<source>LID_2017</source>
+			<translation>更新開始</translation>
+		</message>
+		<message>
+			<source>LID_2018</source>
+			<translation>更新中です
+USBを抜かないでください</translation>
+		</message>
+		<message>
+			<source>LID_2020</source>
+			<translation>Engine</translation>
+		</message>
+		<message>
+			<source>LID_2021</source>
+			<translation>Steering</translation>
+		</message>
+		<message>
+			<source>LID_2022</source>
+			<translation>Suspension</translation>
+		</message>
+		<message>
+			<source>LID_2023</source>
+			<translation>前方に連続する曲線道路が
+検出されました
+OKボタンを押すと
+Nモードに切替わります</translation>
+		</message>
+		<message>
+			<source>LID_2024</source>
+			<translation>前方に連続する曲線道路が
+検出されました</translation>
+		</message>
+		<message>
+			<source>LID_2025</source>
+			<translation>Nモードの使用</translation>
+		</message>
+		<message>
+			<source>LID_2026</source>
+			<translation>オーディオブック</translation>
+		</message>
+		<message>
+			<source>LID_2027</source>
+			<translation>インターネットニュース</translation>
+		</message>
+		<message>
+			<source>LID_2031</source>
+			<translation>始動モード</translation>
+		</message>
+		<message>
+			<source>LID_2032</source>
+			<translation>待機モード</translation>
+		</message>
+		<message>
+			<source>LID_2033</source>
+			<translation>充電モード</translation>
+		</message>
+		<message>
+			<source>LID_2034</source>
+			<translation>走行モード</translation>
+		</message>
+		<message>
+			<source>LID_2035</source>
+			<translation>走行中充電モード</translation>
+		</message>
+		<message>
+			<source>LID_2036</source>
+			<translation>バッテリー走行モード</translation>
+		</message>
+		<message>
+			<source>LID_2037</source>
+			<translation>回生ブレーキモード</translation>
+		</message>
+		<message>
+			<source>LID_2038</source>
+			<translation>燃料電池走行モード</translation>
+		</message>
+		<message>
+			<source>LID_2039</source>
+			<translation>始動オフモード</translation>
+		</message>
+		<message>
+			<source>LID_2040</source>
+			<translation>バッテリー過熱危険！
+すぐに停車して避難してください</translation>
+		</message>
+		<message>
+			<source>LID_2041</source>
+			<translation>駆動モーターシステム冷却水を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_2042</source>
+			<translation>バッテリーシステム冷却水を
+補充してください</translation>
+		</message>
+		<message>
+			<source>LID_2043</source>
+			<translation>DRIFTモードが
+有効になりました</translation>
+		</message>
+		<message>
+			<source>LID_2044</source>
+			<translation>DRIFTモードが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_2045</source>
+			<translation>DRIFTモードの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_2046</source>
+			<translation>後部座席の
+乗員と持ち物を
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_2047</source>
+			<translation>乗員感知解除</translation>
+		</message>
+		<message>
+			<source>LID_2048</source>
+			<translation>トレーラー牽引モード作動中です</translation>
+		</message>
+		<message>
+			<source>LID_2049</source>
+			<translation>変速システム異常！
+トランスミッションを
+すぐに点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2050</source>
+			<translation>４WD/４WDシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2051</source>
+			<translation>バッテリー温度が低いため
+バッテリー温度最適化機能を
+作動します</translation>
+		</message>
+		<message>
+			<source>LID_2052</source>
+			<translation>急速充電準備のため
+バッテリー温度最適化機能を
+作動します</translation>
+		</message>
+		<message>
+			<source>LID_2053</source>
+			<translation>バッテリー温度が
+最適になりました</translation>
+		</message>
+		<message>
+			<source>LID_2054</source>
+			<translation>バッテリーコンディショニングモード</translation>
+		</message>
+		<message>
+			<source>LID_2055</source>
+			<translation>外部の温度が低い時
+バッテリー温度を最適化して
+走行性を維持します
+また、急速充電ステーションを
+目的地に設定すると
+到着次第すぐに充電できるように
+バッテリー温度をあらかじめ最適化します</translation>
+		</message>
+		<message>
+			<source>LID_2056</source>
+			<translation>惰性走行モード</translation>
+		</message>
+		<message>
+			<source>LID_2057</source>
+			<translation>カメラ視野が
+制限されたため
+前方/側方安全システムの
+作動が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2058</source>
+			<translation>レーダー検出が制限されたため
+前方/側方安全システムの
+作動が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2059</source>
+			<translation>前方/側方安全システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2060</source>
+			<translation>カメラ視野が制限されたため
+車線安全システムが停止します</translation>
+		</message>
+		<message>
+			<source>LID_2061</source>
+			<translation>不注意運転警告システムを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2062</source>
+			<translation>カメラ視野が制限されたため
+不注意運転警告システムが
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_2063</source>
+			<translation>不注意運転警告</translation>
+		</message>
+		<message>
+			<source>LID_2064</source>
+			<translation>トレーラーが連結されているため
+運転者アシストシステムは
+作動しません</translation>
+		</message>
+		<message>
+			<source>LID_2065</source>
+			<translation>走行安全</translation>
+		</message>
+		<message>
+			<source>LID_2066</source>
+			<translation>走行安全システムを設定します</translation>
+		</message>
+		<message>
+			<source>LID_2067</source>
+			<translation>前方安全警告タイミング</translation>
+		</message>
+		<message>
+			<source>LID_2068</source>
+			<translation>前方安全システムの
+警告タイミングを設定します</translation>
+		</message>
+		<message>
+			<source>LID_2069</source>
+			<translation>前方または側方に
+衝突の危険性がある場合は
+警告およびステアリング制御で
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_2070</source>
+			<translation>後側方車両と
+衝突の危険性がある場合は
+警告し、出庫時に車両制御して
+衝突の回避をアシストします</translation>
+		</message>
+		<message>
+			<source>LID_2073</source>
+			<translation>降車安全</translation>
+		</message>
+		<message>
+			<source>LID_2074</source>
+			<translation>タイヤ規格</translation>
+		</message>
+		<message>
+			<source>LID_2075</source>
+			<translation>タイヤ空気圧警告システムが
+正常に作動するように
+現在装着しているタイヤの規格を
+選択してください</translation>
+		</message>
+		<message>
+			<source>LID_2076</source>
+			<translation>標準タイヤ</translation>
+		</message>
+		<message>
+			<source>LID_2077</source>
+			<translation>標準タイヤを装着している場合に
+選択してください</translation>
+		</message>
+		<message>
+			<source>LID_2078</source>
+			<translation>チェーン装着用タイヤ</translation>
+		</message>
+		<message>
+			<source>LID_2079</source>
+			<translation>チェーン装着用の
+小径タイヤに交換した場合は
+選択してください</translation>
+		</message>
+		<message>
+			<source>LID_2080</source>
+			<translation>高速道路走行アシストを維持すると
+ナビゲーション案内経路から
+外れます</translation>
+		</message>
+		<message>
+			<source>LID_2081</source>
+			<translation>アクセルペダルから
+足を離してください</translation>
+		</message>
+		<message>
+			<source>LID_2082</source>
+			<translation>ブレーキペダルから
+足を離してください</translation>
+		</message>
+		<message>
+			<source>LID_2083</source>
+			<translation>高速道路走行アシストシステムの
+作動中は使用が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2084</source>
+			<translation>設定速度が変更されました</translation>
+		</message>
+		<message>
+			<source>LID_2085</source>
+			<translation>Press &#38; hold
+the button to activate
+Highway Driving Pilot</translation>
+		</message>
+		<message>
+			<source>LID_2086</source>
+			<translation>高速道路走行アシストシステムを
+使用できます</translation>
+		</message>
+		<message>
+			<source>LID_2087</source>
+			<translation>非常停車作動後は
+もう一度始動してください</translation>
+		</message>
+		<message>
+			<source>LID_2088</source>
+			<translation>GENESIS Connected
+Servicesへの
+加入が必要です</translation>
+		</message>
+		<message>
+			<source>LID_2089</source>
+			<translation>車両更新すると
+ご使用になれます</translation>
+		</message>
+		<message>
+			<source>LID_2090</source>
+			<translation>作動区間ではありません</translation>
+		</message>
+		<message>
+			<source>LID_2091</source>
+			<translation>車両を高速道路本線に
+移動してください</translation>
+		</message>
+		<message>
+			<source>LID_2092</source>
+			<translation>センサー自己診断中です</translation>
+		</message>
+		<message>
+			<source>LID_2093</source>
+			<translation>シフトをDにしてください</translation>
+		</message>
+		<message>
+			<source>LID_2094</source>
+			<translation>AUTO STOP作動中です
+始動してください</translation>
+		</message>
+		<message>
+			<source>LID_2095</source>
+			<translation>安全な前方車間距離を
+確保してください</translation>
+		</message>
+		<message>
+			<source>LID_2096</source>
+			<translation>走行速度が速いです</translation>
+		</message>
+		<message>
+			<source>LID_2097</source>
+			<translation>車両を車線中央に
+合わせてください</translation>
+		</message>
+		<message>
+			<source>LID_2098</source>
+			<translation>リモートスマートパーキング
+アシストシステム作動中です</translation>
+		</message>
+		<message>
+			<source>LID_2099</source>
+			<translation>車体姿勢制御を
+有効にしてください</translation>
+		</message>
+		<message>
+			<source>LID_2100</source>
+			<translation>急なブレーキまたは
+ハンドル操作を感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2101</source>
+			<translation>If steering wheel is used&#44;
+HDP will be deactivated</translation>
+		</message>
+		<message>
+			<source>LID_2102</source>
+			<translation>外部衝撃を感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2103</source>
+			<translation>アクセルペダル操作を
+感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2104</source>
+			<translation>トランスミッション操作を
+感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2105</source>
+			<translation>ブレーキペダル操作を
+感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2106</source>
+			<translation>始動ボタンの操作を
+感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2107</source>
+			<translation>停車状態が続いています</translation>
+		</message>
+		<message>
+			<source>LID_2108</source>
+			<translation>作動区間が終了します</translation>
+		</message>
+		<message>
+			<source>LID_2109</source>
+			<translation>車線逸脱を感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2110</source>
+			<translation>最大速度を超過しました</translation>
+		</message>
+		<message>
+			<source>LID_2111</source>
+			<translation>高速道路走行アシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2112</source>
+			<translation>安全機能が作動しました</translation>
+		</message>
+		<message>
+			<source>LID_2113</source>
+			<translation>カメラ視野が制限されています</translation>
+		</message>
+		<message>
+			<source>LID_2114</source>
+			<translation>レーダー検出が制限されています</translation>
+		</message>
+		<message>
+			<source>LID_2115</source>
+			<translation>Lidar検出が制限されています</translation>
+		</message>
+		<message>
+			<source>LID_2116</source>
+			<translation>運転席のシート位置が
+運転に安全な位置ではありません</translation>
+		</message>
+		<message>
+			<source>LID_2117</source>
+			<translation>Vehicle driving the wrong
+way detected ahead</translation>
+		</message>
+		<message>
+			<source>LID_2118</source>
+			<translation>後方に緊急車両の接近を感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2119</source>
+			<translation>前方に車両以外の物体を
+感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2120</source>
+			<translation>降雨/降雪を感知しました</translation>
+		</message>
+		<message>
+			<source>LID_2121</source>
+			<translation>路面が滑りやすくなっています</translation>
+		</message>
+		<message>
+			<source>LID_2122</source>
+			<translation>道路情報を
+認識できません</translation>
+		</message>
+		<message>
+			<source>LID_2123</source>
+			<translation>車線を認識できません</translation>
+		</message>
+		<message>
+			<source>LID_2124</source>
+			<translation>運転者を認識できません</translation>
+		</message>
+		<message>
+			<source>LID_2125</source>
+			<translation>前方を注視してください</translation>
+		</message>
+		<message>
+			<source>LID_2126</source>
+			<translation>燃料が不足しています</translation>
+		</message>
+		<message>
+			<source>LID_2127</source>
+			<translation>充電量が不足しています</translation>
+		</message>
+		<message>
+			<source>LID_2128</source>
+			<translation>タイヤ空気圧が
+低いです</translation>
+		</message>
+		<message>
+			<source>LID_2129</source>
+			<translation>ドアが開いています</translation>
+		</message>
+		<message>
+			<source>LID_2130</source>
+			<translation>トランクが開いています</translation>
+		</message>
+		<message>
+			<source>LID_2131</source>
+			<translation>フードが開いています</translation>
+		</message>
+		<message>
+			<source>LID_2132</source>
+			<translation>シートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_2133</source>
+			<translation>パーキングブレーキを
+解除してください</translation>
+		</message>
+		<message>
+			<source>LID_2134</source>
+			<translation>高速道路走行アシストシステムを
+開始します</translation>
+		</message>
+		<message>
+			<source>LID_2135</source>
+			<translation>直接運転してください</translation>
+		</message>
+		<message>
+			<source>LID_2136</source>
+			<translation>非常停車中です
+直接運転してください</translation>
+		</message>
+		<message>
+			<source>LID_2137</source>
+			<translation>衝突の危険があるため 
+緊急ブレーキをかけます</translation>
+		</message>
+		<message>
+			<source>LID_2138</source>
+			<translation>高速道路走行アシストシステムが
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_2139</source>
+			<translation>高速道路走行アシストシステムの
+作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_2140</source>
+			<translation>停車後にもう一度お試しください</translation>
+		</message>
+		<message>
+			<source>LID_2141</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、トランク/テールゲート
+を閉めてシートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_2142</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フード、トランク/
+テールゲートを閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_2143</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、トランク/
+テールゲートを閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_2144</source>
+			<translation>超音波センサー感知が
+制限されたため
+駐車距離警告システムの
+作動が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2145</source>
+			<translation>超音波センサー感知が
+制限されたため
+駐車衝突防止アシストシステムの作動が
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2146</source>
+			<translation>外部環境により
+カメラ視野が制限されたため
+駐車衝突防止アシストシステムの作動が
+制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2147</source>
+			<translation>駐車衝突防止アシストシステムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2148</source>
+			<translation>駐車距離警告システムを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2149</source>
+			<translation>ECOドライブ情報</translation>
+		</message>
+		<message>
+			<source>LID_2150</source>
+			<translation>連続する曲線道路を検出しました</translation>
+		</message>
+		<message>
+			<source>LID_2151</source>
+			<translation>AUTO CLUTCHの
+作動条件ではありません
+詳しい内容は取扱説明書を
+ご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_2152</source>
+			<translation>AUTO CLUTCHの
+解除条件ではありません
+詳細は取扱説明書を
+ご確認ください</translation>
+		</message>
+		<message>
+			<source>LID_2153</source>
+			<translation>AUTO CLUTCHモードです
+クラッチペダルを
+踏まないでください</translation>
+		</message>
+		<message>
+			<source>LID_2154</source>
+			<translation>仮想現実&#40;AR&#41;ビューでは
+基本モードで表示されます</translation>
+		</message>
+		<message>
+			<source>LID_2156</source>
+			<translation>運転者を選択後に
+表示されます</translation>
+		</message>
+		<message>
+			<source>LID_2157</source>
+			<translation>変速ダイヤルを
+手動で強く回してください</translation>
+		</message>
+		<message>
+			<source>LID_2158</source>
+			<translation>変速ダイヤル周辺を
+整頓してください</translation>
+		</message>
+		<message>
+			<source>LID_2159</source>
+			<translation>BOOST作動条件ではありません</translation>
+		</message>
+		<message>
+			<source>LID_2160</source>
+			<translation>バッテリー充電量不足のため 
+BOOST機能を使用できません</translation>
+		</message>
+		<message>
+			<source>LID_2161</source>
+			<translation>BOOSTING</translation>
+		</message>
+		<message>
+			<source>LID_2162</source>
+			<translation>OKボタンを
+素早く３回押して
+現在選択されているウィジェットを
+リセットします</translation>
+		</message>
+		<message>
+			<source>LID_2163</source>
+			<translation>ナビゲーション接続が 
+解除されました</translation>
+		</message>
+		<message>
+			<source>LID_2164</source>
+			<translation>ナビゲーションを
+更新中です</translation>
+		</message>
+		<message>
+			<source>LID_2165</source>
+			<translation>１km前方に
+渋滞区間があります</translation>
+		</message>
+		<message>
+			<source>LID_2166</source>
+			<translation>OKボタンを押して
+ウィジェットを探したり
+隠れたウィジェットを呼出します</translation>
+		</message>
+		<message>
+			<source>LID_2167</source>
+			<translation>OKボタンを長押しすると
+クラスターウィジェットを
+非表示にします</translation>
+		</message>
+		<message>
+			<source>LID_2168</source>
+			<translation>ウィジェット探索中以外は
+左/右に操作すると
+曲/チャンネルが変更されます</translation>
+		</message>
+		<message>
+			<source>LID_2169</source>
+			<translation>次に</translation>
+		</message>
+		<message>
+			<source>LID_2170</source>
+			<translation>再表示しない</translation>
+		</message>
+		<message>
+			<source>LID_2171</source>
+			<translation>弱い</translation>
+		</message>
+		<message>
+			<source>LID_2172</source>
+			<translation>強い</translation>
+		</message>
+		<message>
+			<source>LID_2173</source>
+			<translation>ブレーキを踏んでP→N PARK
+ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_2174</source>
+			<translation>P→N PARKボタンを
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2175</source>
+			<translation>V２X実行中</translation>
+		</message>
+		<message>
+			<source>LID_2176</source>
+			<translation>地図を準備中です
+しばらくしてから
+ご使用ください</translation>
+		</message>
+		<message>
+			<source>LID_2177</source>
+			<translation>モード変更</translation>
+		</message>
+		<message>
+			<source>LID_2178</source>
+			<translation>移動</translation>
+		</message>
+		<message>
+			<source>LID_2179</source>
+			<translation>非表示</translation>
+		</message>
+		<message>
+			<source>LID_2180</source>
+			<translation>統合ボディー制御システムを 
+点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2181</source>
+			<translation>車体姿勢制御機能の
+作動が制限されます</translation>
+		</message>
+		<message>
+			<source>LID_2182</source>
+			<translation>充電が中止されました
+外部充電器の状態を
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_2183</source>
+			<translation>始動を維持するには
+スマートキーを所持してください</translation>
+		</message>
+		<message>
+			<source>LID_2184</source>
+			<translation>ブレーキディスククリーニング</translation>
+		</message>
+		<message>
+			<source>LID_2185</source>
+			<translation>チャイルドロック</translation>
+		</message>
+		<message>
+			<source>LID_2186</source>
+			<translation>TOWモード</translation>
+		</message>
+		<message>
+			<source>LID_2187</source>
+			<translation>カメラ視野が
+制限されたため
+車道変更アシスト機能が
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_2188</source>
+			<translation>レーダー検出が
+制限されたため
+車線変更アシスト機能が
+停止します</translation>
+		</message>
+		<message>
+			<source>LID_2189</source>
+			<translation>道路の制限速度を超過して
+走行した時に警告します</translation>
+		</message>
+		<message>
+			<source>LID_2190</source>
+			<translation>後部座席のドアを開閉すると
+運転者が降車する際に
+後部座席の乗員と荷物を
+確認するように通知します</translation>
+		</message>
+		<message>
+			<source>LID_2191</source>
+			<translation>トレーラーモード</translation>
+		</message>
+		<message>
+			<source>LID_2192</source>
+			<translation>軽量</translation>
+		</message>
+		<message>
+			<source>LID_2193</source>
+			<translation>基本重量</translation>
+		</message>
+		<message>
+			<source>LID_2194</source>
+			<translation>最大重量</translation>
+		</message>
+		<message>
+			<source>LID_2195</source>
+			<translation>トレーラー連結時に
+走行性能を維持し
+走行可能距離の変化量を
+予測するための機能です</translation>
+		</message>
+		<message>
+			<source>LID_2196</source>
+			<translation>トレーラーモードを終了します</translation>
+		</message>
+		<message>
+			<source>LID_2197</source>
+			<translation>トレーラー重量を
+自動で設定します</translation>
+		</message>
+		<message>
+			<source>LID_2198</source>
+			<translation>トレーラー重量を設定します</translation>
+		</message>
+		<message>
+			<source>LID_2199</source>
+			<translation>自動</translation>
+		</message>
+		<message>
+			<source>LID_2200</source>
+			<translation>標準</translation>
+		</message>
+		<message>
+			<source>LID_2201</source>
+			<translation>充電音声通知</translation>
+		</message>
+		<message>
+			<source>LID_2202</source>
+			<translation>充電を開始する時
+充電情報を
+音声で案内します</translation>
+		</message>
+		<message>
+			<source>LID_2203</source>
+			<translation>強く</translation>
+		</message>
+		<message>
+			<source>LID_2204</source>
+			<translation>標準</translation>
+		</message>
+		<message>
+			<source>LID_2205</source>
+			<translation>弱く</translation>
+		</message>
+		<message>
+			<source>LID_2206</source>
+			<translation>パワーテールゲート</translation>
+		</message>
+		<message>
+			<source>LID_2207</source>
+			<translation>スマートテールゲート</translation>
+		</message>
+		<message>
+			<source>LID_2208</source>
+			<translation>パワーテールゲートを
+オンにして
+設定してください</translation>
+		</message>
+		<message>
+			<source>LID_2209</source>
+			<translation>スマートキーを所持して
+テールゲートに近づくと
+テールゲートが
+自動で開きます</translation>
+		</message>
+		<message>
+			<source>LID_2210</source>
+			<translation>パワーテールゲートボタンを使用して
+テールゲートを自動で開閉できます</translation>
+		</message>
+		<message>
+			<source>LID_2211</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、ゲートを閉めて
+シートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_2212</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フード、ゲートを閉めて
+シートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_2213</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、テールゲートを
+閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_2214</source>
+			<translation>パワーテールゲートが開く速度</translation>
+		</message>
+		<message>
+			<source>LID_2215</source>
+			<translation>パワーテールゲートの
+作動速度を選択します</translation>
+		</message>
+		<message>
+			<source>LID_2216</source>
+			<translation>テールゲートを閉じた後
+設定してください</translation>
+		</message>
+		<message>
+			<source>LID_2217</source>
+			<translation> パワーテールゲート開口速度</translation>
+		</message>
+		<message>
+			<source>LID_2218</source>
+			<translation>パワーテールゲート開口高さ</translation>
+		</message>
+		<message>
+			<source>LID_2219</source>
+			<translation>トランク/テールゲート
+システムを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2220</source>
+			<translation>パワーテールゲートの
+開口時の高さを選択します</translation>
+		</message>
+		<message>
+			<source>LID_2221</source>
+			<translation>リモートパワードア同時開</translation>
+		</message>
+		<message>
+			<source>LID_2222</source>
+			<translation>スマートキーの
+解錠ボタンを３秒以上押すと
+設定されたドアが開きます</translation>
+		</message>
+		<message>
+			<source>LID_2223</source>
+			<translation>左/右スライドドアおよびテールゲート開</translation>
+		</message>
+		<message>
+			<source>LID_2224</source>
+			<translation>スマートキーの
+解錠ボタンを３秒以上押すと
+左/右スライドドアと
+テールゲートが開きます</translation>
+		</message>
+		<message>
+			<source>LID_2225</source>
+			<translation>リモートパワードア
+同時開機能を使用しません</translation>
+		</message>
+		<message>
+			<source>LID_2226</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、トランク/テールゲートを閉めてシートベルトをしてください</translation>
+		</message>
+		<message>
+			<source>LID_2227</source>
+			<translation>AUTO HOLDの
+作動条件ではありません
+ドア、フード、トランク/
+テールゲートを閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_2228</source>
+			<translation>パーキングブレーキの
+自動解除条件ではありません
+ドア、フード、トランク/
+テールゲートを閉めてください</translation>
+		</message>
+		<message>
+			<source>LID_2229</source>
+			<translation>テールゲートを
+適切な高さにセットして
+閉ボタンを3秒間押してください</translation>
+		</message>
+		<message>
+			<source>LID_2230</source>
+			<translation>タイヤ空気圧が高いです
+標準の空気圧に調整してください</translation>
+		</message>
+		<message>
+			<source>LID_2231</source>
+			<translation>排気フィルタ再生のために
+走行が必要です</translation>
+		</message>
+		<message>
+			<source>LID_2232</source>
+			<translation>レーダー検出が制限されたため
+安全降車システムが停止します</translation>
+		</message>
+		<message>
+			<source>LID_2233</source>
+			<translation>安全降車システムを
+確認してください</translation>
+		</message>
+		<message>
+			<source>LID_2234</source>
+			<translation>ステアリング振動警告を
+設定します</translation>
+		</message>
+		<message>
+			<source>LID_2235</source>
+			<translation>メンテナンス情報</translation>
+		</message>
+		<message>
+			<source>LID_2236</source>
+			<translation>メッセージを見るには
+[OK]ボタンを押してください</translation>
+		</message>
+		<message>
+			<source>LID_2237</source>
+			<translation>パワーテールゲート自動閉</translation>
+		</message>
+		<message>
+			<source>LID_2238</source>
+			<translation>スマートキーを所持して
+車両後方から離れると
+テールゲートが
+自動で閉まります</translation>
+		</message>
+		<message>
+			<source>LID_2239</source>
+			<translation>再始動後の電費</translation>
+		</message>
+		<message>
+			<source>LID_2240</source>
+			<translation>累積電費</translation>
+		</message>
+		<message>
+			<source>LID_2241</source>
+			<translation>空気圧異常！
+すべてのタイヤを
+点検後、空気圧を
+保存してください</translation>
+		</message>
+		<message>
+			<source>LID_2242</source>
+			<translation>尿素水レベル低下
+走行可能距離：0000km</translation>
+		</message>
+		<message>
+			<source>LID_2243</source>
+			<translation>尿素水レベル低下
+走行可能距離：0000mi</translation>
+		</message>
+		<message>
+			<source>LID_2244</source>
+			<translation>尿素水を補充してください
+走行可能距離：0000km</translation>
+		</message>
+		<message>
+			<source>LID_2245</source>
+			<translation>尿素水を補充してください
+走行可能距離：0000mi</translation>
+		</message>
+		<message>
+			<source>LID_2246</source>
+			<translation>安全な場所に停車して
+48Vシステムを点検してください</translation>
+		</message>
+		<message>
+			<source>LID_2247</source>
+			<translation>エンジン高温&#33;
+低速走行してください</translation>
+		</message>
+		<message>
+			<source>LID_2248</source>
+			<translation>助手席のエアバッグ
+機能を設定します</translation>
+		</message>
+		<message>
+			<source>LID_2255</source>
+			<translation>前方左側タイヤ異常！
+すべてのタイヤを
+点検後、空気圧を
+保存してください</translation>
+		</message>
+		<message>
+			<source>LID_2256</source>
+			<translation>前方右側タイヤ異常！
+すべてのタイヤを
+点検後、空気圧を
+保存してください</translation>
+		</message>
+		<message>
+			<source>LID_2257</source>
+			<translation>後方左側タイヤ異常！
+すべてのタイヤを
+点検後、空気圧を
+保存してください</translation>
+		</message>
+		<message>
+			<source>LID_2258</source>
+			<translation>後方右側タイヤ異常！
+すべてのタイヤを
+点検後、空気圧を
+保存してください</translation>
+		</message>
+		<message>
+			<source>LID_2260</source>
+			<translation>国の選択</translation>
+		</message>
+		<message>
+			<source>LID_2261</source>
+			<translation>他の国々</translation>
+		</message>
+		<message>
+			<source>LID_2262</source>
+			<translation>%sに変更</translation>
+		</message>
+		<message>
+			<source>LID_2263</source>
+			<translation>現在</translation>
+		</message>
+		<message>
+			<source>LID_2264</source>
+			<translation>数字標識のみ表示</translation>
+		</message>
+		<message>
+			<source>LID_2265</source>
+			<translation>アルバニア</translation>
+		</message>
+		<message>
+			<source>LID_2266</source>
+			<translation>アンドラ</translation>
+		</message>
+		<message>
+			<source>LID_2267</source>
+			<translation>オーストリア</translation>
+		</message>
+		<message>
+			<source>LID_2268</source>
+			<translation>ベルギー</translation>
+		</message>
+		<message>
+			<source>LID_2269</source>
+			<translation>ブルガリア</translation>
+		</message>
+		<message>
+			<source>LID_2270</source>
+			<translation>ボスニア・ヘルツェゴビナ</translation>
+		</message>
+		<message>
+			<source>LID_2271</source>
+			<translation>カナリア諸島</translation>
+		</message>
+		<message>
+			<source>LID_2272</source>
+			<translation>セウタ</translation>
+		</message>
+		<message>
+			<source>LID_2273</source>
+			<translation>クロアチア</translation>
+		</message>
+		<message>
+			<source>LID_2274</source>
+			<translation>キプロス</translation>
+		</message>
+		<message>
+			<source>LID_2275</source>
+			<translation>チェコ</translation>
+		</message>
+		<message>
+			<source>LID_2276</source>
+			<translation>デンマーク</translation>
+		</message>
+		<message>
+			<source>LID_2277</source>
+			<translation>エストニア</translation>
+		</message>
+		<message>
+			<source>LID_2278</source>
+			<translation>フィンランド</translation>
+		</message>
+		<message>
+			<source>LID_2279</source>
+			<translation>フランス</translation>
+		</message>
+		<message>
+			<source>LID_2280</source>
+			<translation>フランス領ギアナ</translation>
+		</message>
+		<message>
+			<source>LID_2281</source>
+			<translation>ドイツ</translation>
+		</message>
+		<message>
+			<source>LID_2282</source>
+			<translation>ギリシャ</translation>
+		</message>
+		<message>
+			<source>LID_2283</source>
+			<translation>グアドループ</translation>
+		</message>
+		<message>
+			<source>LID_2284</source>
+			<translation>ハンガリー</translation>
+		</message>
+		<message>
+			<source>LID_2285</source>
+			<translation>イラン</translation>
+		</message>
+		<message>
+			<source>LID_2286</source>
+			<translation>アイスランド</translation>
+		</message>
+		<message>
+			<source>LID_2287</source>
+			<translation>アイルランド</translation>
+		</message>
+		<message>
+			<source>LID_2288</source>
+			<translation>イスラエル</translation>
+		</message>
+		<message>
+			<source>LID_2289</source>
+			<translation>イタリア</translation>
+		</message>
+		<message>
+			<source>LID_2290</source>
+			<translation>ラトビア</translation>
+		</message>
+		<message>
+			<source>LID_2291</source>
+			<translation>リヒテンシュタイン</translation>
+		</message>
+		<message>
+			<source>LID_2292</source>
+			<translation>リトアニア</translation>
+		</message>
+		<message>
+			<source>LID_2293</source>
+			<translation>ルクセンブルク</translation>
+		</message>
+		<message>
+			<source>LID_2294</source>
+			<translation>マルタ</translation>
+		</message>
+		<message>
+			<source>LID_2295</source>
+			<translation>マルティニーク</translation>
+		</message>
+		<message>
+			<source>LID_2296</source>
+			<translation>マヨット</translation>
+		</message>
+		<message>
+			<source>LID_2297</source>
+			<translation>メリリャ</translation>
+		</message>
+		<message>
+			<source>LID_2298</source>
+			<translation>モナコ</translation>
+		</message>
+		<message>
+			<source>LID_2299</source>
+			<translation>モンテネグロ</translation>
+		</message>
+		<message>
+			<source>LID_2300</source>
+			<translation>オランダ</translation>
+		</message>
+		<message>
+			<source>LID_2301</source>
+			<translation>ニューカレドニア</translation>
+		</message>
+		<message>
+			<source>LID_2302</source>
+			<translation>北マケドニア</translation>
+		</message>
+		<message>
+			<source>LID_2303</source>
+			<translation>ノルウェー</translation>
+		</message>
+		<message>
+			<source>LID_2304</source>
+			<translation>パレスチナ</translation>
+		</message>
+		<message>
+			<source>LID_2305</source>
+			<translation>ポーランド</translation>
+		</message>
+		<message>
+			<source>LID_2306</source>
+			<translation>ポルトガル</translation>
+		</message>
+		<message>
+			<source>LID_2307</source>
+			<translation>レユニオン</translation>
+		</message>
+		<message>
+			<source>LID_2308</source>
+			<translation>ルーマニア</translation>
+		</message>
+		<message>
+			<source>LID_2309</source>
+			<translation>サンマリノ</translation>
+		</message>
+		<message>
+			<source>LID_2310</source>
+			<translation>セルビア</translation>
+		</message>
+		<message>
+			<source>LID_2311</source>
+			<translation>スロバキア</translation>
+		</message>
+		<message>
+			<source>LID_2312</source>
+			<translation>スロベニア</translation>
+		</message>
+		<message>
+			<source>LID_2313</source>
+			<translation>スペイン</translation>
+		</message>
+		<message>
+			<source>LID_2314</source>
+			<translation>スウェーデン</translation>
+		</message>
+		<message>
+			<source>LID_2315</source>
+			<translation>スイス</translation>
+		</message>
+		<message>
+			<source>LID_2316</source>
+			<translation>トルコ</translation>
+		</message>
+		<message>
+			<source>LID_2317</source>
+			<translation>英国</translation>
+		</message>
+		<message>
+			<source>LID_2318</source>
+			<translation>バチカン</translation>
+		</message>
+		<message>
+			<source>LID_2319</source>
+			<translation>制限速度システムの
+国を選択します</translation>
+		</message>
+	</context>
+</TS>

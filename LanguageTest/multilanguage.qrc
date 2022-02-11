@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rsc/multilanguage/ar.qm</file>
+        <file>rsc/multilanguage/bg_BG.qm</file>
+        <file>rsc/multilanguage/bn_IN.qm</file>
+        <file>rsc/multilanguage/Cluster Standard Labels Rev2112_Release.xlsx</file>
+        <file>rsc/multilanguage/cs_CZ.qm</file>
+        <file>rsc/multilanguage/da_DK.qm</file>
+        <file>rsc/multilanguage/de_DE.qm</file>
+        <file>rsc/multilanguage/el_GR.qm</file>
+        <file>rsc/multilanguage/en_AU.qm</file>
+        <file>rsc/multilanguage/en_EN.qm</file>
+        <file>rsc/multilanguage/en_GB.qm</file>
+        <file>rsc/multilanguage/en_US.qm</file>
+        <file>rsc/multilanguage/es_ES.qm</file>
+        <file>rsc/multilanguage/es_US.qm</file>
+        <file>rsc/multilanguage/fi_FI.qm</file>
+        <file>rsc/multilanguage/fr_CA.qm</file>
+        <file>rsc/multilanguage/fr_FR.qm</file>
+        <file>rsc/multilanguage/gu_IN.qm</file>
+        <file>rsc/multilanguage/he_IL.qm</file>
+        <file>rsc/multilanguage/hi_IN.qm</file>
+        <file>rsc/multilanguage/hr_HR.qm</file>
+        <file>rsc/multilanguage/hu_HU.qm</file>
+        <file>rsc/multilanguage/id_ID.qm</file>
+        <file>rsc/multilanguage/it_IT.qm</file>
+        <file>rsc/multilanguage/ja_JP.qm</file>
+        <file>rsc/multilanguage/kn_IN.qm</file>
+        <file>rsc/multilanguage/ko_KR.qm</file>
+        <file>rsc/multilanguage/ml_IN.qm</file>
+        <file>rsc/multilanguage/mr_IN.qm</file>
+        <file>rsc/multilanguage/nl_NL.qm</file>
+        <file>rsc/multilanguage/no_NO.qm</file>
+        <file>rsc/multilanguage/or_IN.qm</file>
+        <file>rsc/multilanguage/pa_IN.qm</file>
+        <file>rsc/multilanguage/pl_PL.qm</file>
+        <file>rsc/multilanguage/pt_BR.qm</file>
+        <file>rsc/multilanguage/pt_PT.qm</file>
+        <file>rsc/multilanguage/ro_RO.qm</file>
+        <file>rsc/multilanguage/ru_RU.qm</file>
+        <file>rsc/multilanguage/sk_SK.qm</file>
+        <file>rsc/multilanguage/sl_SI.qm</file>
+        <file>rsc/multilanguage/sv_SE.qm</file>
+        <file>rsc/multilanguage/ta_IN.qm</file>
+        <file>rsc/multilanguage/te_IN.qm</file>
+        <file>rsc/multilanguage/tr_TR.qm</file>
+        <file>rsc/multilanguage/uk_UA.qm</file>
+        <file>rsc/multilanguage/zh_CN.qm</file>
+    </qresource>
+</RCC>

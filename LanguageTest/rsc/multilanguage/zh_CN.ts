@@ -1,0 +1,7595 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="zh_CN" sourcelanguage="zh_CN">
+	<context>
+		<name>main</name>
+		<message>
+			<source>LID_</source>
+			<translation>zh_CN_L</translation>
+		</message>
+		<message>
+			<source>LID_0002</source>
+			<translation>续航里程</translation>
+		</message>
+		<message>
+			<source>LID_0004</source>
+			<translation>平均油耗</translation>
+		</message>
+		<message>
+			<source>LID_0011</source>
+			<translation>累计时间</translation>
+		</message>
+		<message>
+			<source>LID_0014</source>
+			<translation>请切换至P挡</translation>
+		</message>
+		<message>
+			<source>LID_0015</source>
+			<translation>智能钥匙电量低</translation>
+		</message>
+		<message>
+			<source>LID_0016</source>
+			<translation>请转动方向盘
+并按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_0017</source>
+			<translation>转向未锁止</translation>
+		</message>
+		<message>
+			<source>LID_0018</source>
+			<translation>请检查转向锁止系统</translation>
+		</message>
+		<message>
+			<source>LID_0019</source>
+			<translation>请踩刹车踏板
+启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0020</source>
+			<translation>未检测到智能钥匙</translation>
+		</message>
+		<message>
+			<source>LID_0022</source>
+			<translation>智能钥匙不在车内</translation>
+		</message>
+		<message>
+			<source>LID_0023</source>
+			<translation>请再次按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_0025</source>
+			<translation>请用智能钥匙按启动键</translation>
+		</message>
+		<message>
+			<source>LID_0026</source>
+			<translation>请检查刹车开关保险丝</translation>
+		</message>
+		<message>
+			<source>LID_0027</source>
+			<translation>请在P或N挡
+启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0028</source>
+			<translation>请踩离合踏板
+启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0031</source>
+			<translation>定速巡航系统已开启</translation>
+		</message>
+		<message>
+			<source>LID_0033</source>
+			<translation>如前方车辆出发
+请按下按键或踩油门踏板</translation>
+		</message>
+		<message>
+			<source>LID_0034</source>
+			<translation>无法开启智能巡航系统</translation>
+		</message>
+		<message>
+			<source>LID_0035</source>
+			<translation>无法开启定速巡航系统</translation>
+		</message>
+		<message>
+			<source>LID_0036</source>
+			<translation>智能巡航系统
+已自动解除</translation>
+		</message>
+		<message>
+			<source>LID_0037</source>
+			<translation>定速巡航功能
+已自动解除</translation>
+		</message>
+		<message>
+			<source>LID_0038</source>
+			<translation>系统关闭</translation>
+		</message>
+		<message>
+			<source>LID_0040</source>
+			<translation>请检查
+智能巡航系统</translation>
+		</message>
+		<message>
+			<source>LID_0045</source>
+			<translation>注意碰撞</translation>
+		</message>
+		<message>
+			<source>LID_0047</source>
+			<translation>请握紧方向盘</translation>
+		</message>
+		<message>
+			<source>LID_0056</source>
+			<translation>垂直泊车模式</translation>
+		</message>
+		<message>
+			<source>LID_0057</source>
+			<translation>平行泊车模式</translation>
+		</message>
+		<message>
+			<source>LID_0058</source>
+			<translation>正在探测泊车空位</translation>
+		</message>
+		<message>
+			<source>LID_0060</source>
+			<translation>泊车空位探测完毕</translation>
+		</message>
+		<message>
+			<source>LID_0061</source>
+			<translation>请切换至1挡</translation>
+		</message>
+		<message>
+			<source>LID_0062</source>
+			<translation>请切换至D挡</translation>
+		</message>
+		<message>
+			<source>LID_0063</source>
+			<translation>请切换至R挡</translation>
+		</message>
+		<message>
+			<source>LID_0065</source>
+			<translation>请调整方向盘完成泊车</translation>
+		</message>
+		<message>
+			<source>LID_0066</source>
+			<translation>请手动操作方向盘</translation>
+		</message>
+		<message>
+			<source>LID_0068</source>
+			<translation>请减速 </translation>
+		</message>
+		<message>
+			<source>LID_0071</source>
+			<translation>平行驶出模式</translation>
+		</message>
+		<message>
+			<source>LID_0072</source>
+			<translation>正在探测驶出空位</translation>
+		</message>
+		<message>
+			<source>LID_0074</source>
+			<translation>请调整方向盘完成驶出</translation>
+		</message>
+		<message>
+			<source>LID_0075</source>
+			<translation>注意障碍物
+请放慢车速</translation>
+		</message>
+		<message>
+			<source>LID_0076</source>
+			<translation>请注意障碍物 </translation>
+		</message>
+		<message>
+			<source>LID_0077</source>
+			<translation>请继续前行直至探测结束</translation>
+		</message>
+		<message>
+			<source>LID_0078</source>
+			<translation>正在自动转向</translation>
+		</message>
+		<message>
+			<source>LID_0085</source>
+			<translation>自动驻车已开启</translation>
+		</message>
+		<message>
+			<source>LID_0086</source>
+			<translation>请注意调节车速 </translation>
+		</message>
+		<message>
+			<source>LID_0088</source>
+			<translation>驻车制动已开启</translation>
+		</message>
+		<message>
+			<source>LID_0089</source>
+			<translation>后刹车片更换模式</translation>
+		</message>
+		<message>
+			<source>LID_0090</source>
+			<translation>自动驻车即将解除
+请踩刹车踏板</translation>
+		</message>
+		<message>
+			<source>LID_0093</source>
+			<translation>请踩刹车踏板 
+解除自动驻车</translation>
+		</message>
+		<message>
+			<source>LID_0096</source>
+			<translation>牵引力控制功能已解除</translation>
+		</message>
+		<message>
+			<source>LID_0097</source>
+			<translation>车辆稳定控制功能已解除</translation>
+		</message>
+		<message>
+			<source>LID_0103</source>
+			<translation>怠速启停已解除
+请踩离合踏板启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0104</source>
+			<translation>请踩刹车踏板启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0105</source>
+			<translation>请踩离合踏板启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0107</source>
+			<translation>请启动后出发</translation>
+		</message>
+		<message>
+			<source>LID_0109</source>
+			<translation>请检查换挡杆</translation>
+		</message>
+		<message>
+			<source>LID_0110</source>
+			<translation>请踩刹车踏板换挡</translation>
+		</message>
+		<message>
+			<source>LID_0111</source>
+			<translation>请停车后切换至P挡</translation>
+		</message>
+		<message>
+			<source>LID_0113</source>
+			<translation>自动切换至P挡</translation>
+		</message>
+		<message>
+			<source>LID_0114</source>
+			<translation>请踩刹车踏板后
+按P RELEASE键</translation>
+		</message>
+		<message>
+			<source>LID_0116</source>
+			<translation>请检查P RELEASE键</translation>
+		</message>
+		<message>
+			<source>LID_0117</source>
+			<translation>不符合换挡条件</translation>
+		</message>
+		<message>
+			<source>LID_0118</source>
+			<translation>请按UNLOCK键切换挡位</translation>
+		</message>
+		<message>
+			<source>LID_0128</source>
+			<translation>系统检测</translation>
+		</message>
+		<message>
+			<source>LID_0130</source>
+			<translation>请转动方向盘
+使轮胎回正</translation>
+		</message>
+		<message>
+			<source>LID_0132</source>
+			<translation>照明亮度调节</translation>
+		</message>
+		<message>
+			<source>LID_0133</source>
+			<translation>最亮</translation>
+		</message>
+		<message>
+			<source>LID_0134</source>
+			<translation>最暗</translation>
+		</message>
+		<message>
+			<source>LID_0136</source>
+			<translation>开启</translation>
+		</message>
+		<message>
+			<source>LID_0137</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_0141</source>
+			<translation>变更至设定1</translation>
+		</message>
+		<message>
+			<source>LID_0142</source>
+			<translation>已保存设定1</translation>
+		</message>
+		<message>
+			<source>LID_0143</source>
+			<translation>座椅记忆功能已暂停</translation>
+		</message>
+		<message>
+			<source>LID_0148</source>
+			<translation>轮胎气压低</translation>
+		</message>
+		<message>
+			<source>LID_0150</source>
+			<translation>请检查智能进气格栅</translation>
+		</message>
+		<message>
+			<source>LID_0154</source>
+			<translation>请补充清洗液</translation>
+		</message>
+		<message>
+			<source>LID_0155</source>
+			<translation>请转换保险丝开关</translation>
+		</message>
+		<message>
+			<source>LID_0157</source>
+			<translation>燃油不足</translation>
+		</message>
+		<message>
+			<source>LID_0159</source>
+			<translation>机油不足</translation>
+		</message>
+		<message>
+			<source>LID_0162</source>
+			<translation>请检查蓄电池</translation>
+		</message>
+		<message>
+			<source>LID_0163</source>
+			<translation>请检查滤水器</translation>
+		</message>
+		<message>
+			<source>LID_0169</source>
+			<translation>大灯光束设置为反边模式</translation>
+		</message>
+		<message>
+			<source>LID_0171</source>
+			<translation>请检查大灯风扇</translation>
+		</message>
+		<message>
+			<source>LID_0172</source>
+			<translation>请检查LED大灯</translation>
+		</message>
+		<message>
+			<source>LID_0173</source>
+			<translation>请检查主动式机舱盖系统</translation>
+		</message>
+		<message>
+			<source>LID_0174</source>
+			<translation>请检查预警安全带</translation>
+		</message>
+		<message>
+			<source>LID_0176</source>
+			<translation>发动机过热</translation>
+		</message>
+		<message>
+			<source>LID_0177</source>
+			<translation>为保护发动机
+动力受限</translation>
+		</message>
+		<message>
+			<source>LID_0186</source>
+			<translation>请检查
+高位刹车灯</translation>
+		</message>
+		<message>
+			<source>LID_0199</source>
+			<translation>请检查牌照灯</translation>
+		</message>
+		<message>
+			<source>LID_0201</source>
+			<translation>用户设置</translation>
+		</message>
+		<message>
+			<source>LID_0202</source>
+			<translation>门</translation>
+		</message>
+		<message>
+			<source>LID_0203</source>
+			<translation>灯</translation>
+		</message>
+		<message>
+			<source>LID_0204</source>
+			<translation>声音</translation>
+		</message>
+		<message>
+			<source>LID_0207</source>
+			<translation>附加功能</translation>
+		</message>
+		<message>
+			<source>LID_0208</source>
+			<translation>设置</translation>
+		</message>
+		<message>
+			<source>LID_0212</source>
+			<translation>退出</translation>
+		</message>
+		<message>
+			<source>LID_0213</source>
+			<translation>返回</translation>
+		</message>
+		<message>
+			<source>LID_0214</source>
+			<translation>车门自动落锁</translation>
+		</message>
+		<message>
+			<source>LID_0215</source>
+			<translation>车门自动解锁</translation>
+		</message>
+		<message>
+			<source>LID_0216</source>
+			<translation>按两下解锁</translation>
+		</message>
+		<message>
+			<source>LID_0218</source>
+			<translation>落锁/解锁提示音</translation>
+		</message>
+		<message>
+			<source>LID_0219</source>
+			<translation>落锁提示音</translation>
+		</message>
+		<message>
+			<source>LID_0221</source>
+			<translation>大灯延时关闭</translation>
+		</message>
+		<message>
+			<source>LID_0222</source>
+			<translation>迎宾灯</translation>
+		</message>
+		<message>
+			<source>LID_0224</source>
+			<translation>一键式转向灯</translation>
+		</message>
+		<message>
+			<source>LID_0225</source>
+			<translation>3 闪</translation>
+		</message>
+		<message>
+			<source>LID_0226</source>
+			<translation>5 闪</translation>
+		</message>
+		<message>
+			<source>LID_0227</source>
+			<translation>7 闪</translation>
+		</message>
+		<message>
+			<source>LID_0229</source>
+			<translation>语言/Language</translation>
+		</message>
+		<message>
+			<source>LID_0230</source>
+			<translation>温度单位</translation>
+		</message>
+		<message>
+			<source>LID_0231</source>
+			<translation>迎宾声音</translation>
+		</message>
+		<message>
+			<source>LID_0233</source>
+			<translation>座椅迎宾功能</translation>
+		</message>
+		<message>
+			<source>LID_0234</source>
+			<translation>方向盘迎宾功能</translation>
+		</message>
+		<message>
+			<source>LID_0235</source>
+			<translation>经济驾驶</translation>
+		</message>
+		<message>
+			<source>LID_0237</source>
+			<translation>平均油耗复位 </translation>
+		</message>
+		<message>
+			<source>LID_0238</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_0239</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_0240</source>
+			<translation>行驶时</translation>
+		</message>
+		<message>
+			<source>LID_0241</source>
+			<translation>R/N/D挡时</translation>
+		</message>
+		<message>
+			<source>LID_0242</source>
+			<translation>P挡时</translation>
+		</message>
+		<message>
+			<source>LID_0243</source>
+			<translation>拔出钥匙</translation>
+		</message>
+		<message>
+			<source>LID_0244</source>
+			<translation>关闭电源</translation>
+		</message>
+		<message>
+			<source>LID_0245</source>
+			<translation>驾驶员侧解锁</translation>
+		</message>
+		<message>
+			<source>LID_0253</source>
+			<translation>中文</translation>
+		</message>
+		<message>
+			<source>LID_0259</source>
+			<translation>氛围灯</translation>
+		</message>
+		<message>
+			<source>LID_0262</source>
+			<translation>出厂设置</translation>
+		</message>
+		<message>
+			<source>LID_0263</source>
+			<translation>重置</translation>
+		</message>
+		<message>
+			<source>LID_0265</source>
+			<translation>长按</translation>
+		</message>
+		<message>
+			<source>LID_0272</source>
+			<translation>大灯旅行模式</translation>
+		</message>
+		<message>
+			<source>LID_0273</source>
+			<translation>抬头显示</translation>
+		</message>
+		<message>
+			<source>LID_0274</source>
+			<translation>显示高度</translation>
+		</message>
+		<message>
+			<source>LID_0275</source>
+			<translation>车速表颜色</translation>
+		</message>
+		<message>
+			<source>LID_0277</source>
+			<translation>显示亮度</translation>
+		</message>
+		<message>
+			<source>LID_0278</source>
+			<translation>显示信息</translation>
+		</message>
+		<message>
+			<source>LID_0279</source>
+			<translation>行驶路径</translation>
+		</message>
+		<message>
+			<source>LID_0285</source>
+			<translation>车速表单位</translation>
+		</message>
+		<message>
+			<source>LID_0288</source>
+			<translation>车速表数字大小</translation>
+		</message>
+		<message>
+			<source>LID_0292</source>
+			<translation>抬头显示</translation>
+		</message>
+		<message>
+			<source>LID_0295</source>
+			<translation>保养</translation>
+		</message>
+		<message>
+			<source>LID_0296</source>
+			<translation>个月</translation>
+		</message>
+		<message>
+			<source>LID_0297</source>
+			<translation>保养提示未保存</translation>
+		</message>
+		<message>
+			<source>LID_0298</source>
+			<translation>保养提示已保存</translation>
+		</message>
+		<message>
+			<source>LID_0299</source>
+			<translation>保养提示</translation>
+		</message>
+		<message>
+			<source>LID_0302</source>
+			<translation>白色</translation>
+		</message>
+		<message>
+			<source>LID_0303</source>
+			<translation>橙色</translation>
+		</message>
+		<message>
+			<source>LID_0304</source>
+			<translation>绿色</translation>
+		</message>
+		<message>
+			<source>LID_0309</source>
+			<translation>道路交通信息</translation>
+		</message>
+		<message>
+			<source>LID_0311</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_0312</source>
+			<translation>幅度小</translation>
+		</message>
+		<message>
+			<source>LID_0313</source>
+			<translation>幅度大</translation>
+		</message>
+		<message>
+			<source>LID_0314</source>
+			<translation>行李箱自动开启</translation>
+		</message>
+		<message>
+			<source>LID_0315</source>
+			<translation>电动尾门</translation>
+		</message>
+		<message>
+			<source>LID_0318</source>
+			<translation>便利功能</translation>
+		</message>
+		<message>
+			<source>LID_0323</source>
+			<translation>油耗单位</translation>
+		</message>
+		<message>
+			<source>LID_0331</source>
+			<translation>慢</translation>
+		</message>
+		<message>
+			<source>LID_0332</source>
+			<translation>快</translation>
+		</message>
+		<message>
+			<source>LID_0337</source>
+			<translation>语音提示音量</translation>
+		</message>
+		<message>
+			<source>LID_0339</source>
+			<translation>小</translation>
+		</message>
+		<message>
+			<source>LID_0340</source>
+			<translation>中</translation>
+		</message>
+		<message>
+			<source>LID_0341</source>
+			<translation>大</translation>
+		</message>
+		<message>
+			<source>LID_0343</source>
+			<translation>智能行李箱</translation>
+		</message>
+		<message>
+			<source>LID_0348</source>
+			<translation>车辆需要保养</translation>
+		</message>
+		<message>
+			<source>LID_0351</source>
+			<translation>保养</translation>
+		</message>
+		<message>
+			<source>LID_0353</source>
+			<translation>天</translation>
+		</message>
+		<message>
+			<source>LID_0358</source>
+			<translation>能源流程图</translation>
+		</message>
+		<message>
+			<source>LID_0359</source>
+			<translation>剩余充电时间</translation>
+		</message>
+		<message>
+			<source>LID_0362</source>
+			<translation>行驶信息</translation>
+		</message>
+		<message>
+			<source>LID_0365</source>
+			<translation>请尽快添加燃油
+以免动力电池放电</translation>
+		</message>
+		<message>
+			<source>LID_0366</source>
+			<translation>请安全停车后熄火
+检查混合动力系统</translation>
+		</message>
+		<message>
+			<source>LID_0367</source>
+			<translation>请停车充电</translation>
+		</message>
+		<message>
+			<source>LID_0368</source>
+			<translation>请勿启动车辆
+检查混合动力系统</translation>
+		</message>
+		<message>
+			<source>LID_0370</source>
+			<translation>请检查刹车系统</translation>
+		</message>
+		<message>
+			<source>LID_0372</source>
+			<translation>请补充逆变器冷却液</translation>
+		</message>
+		<message>
+			<source>LID_0373</source>
+			<translation>认证模式</translation>
+		</message>
+		<message>
+			<source>LID_0374</source>
+			<translation>请切换至P挡启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0375</source>
+			<translation>请稍候
+油箱盖正在开启</translation>
+		</message>
+		<message>
+			<source>LID_0377</source>
+			<translation>请检查油箱盖</translation>
+		</message>
+		<message>
+			<source>LID_0384</source>
+			<translation>USB音乐</translation>
+		</message>
+		<message>
+			<source>LID_0385</source>
+			<translation>USB视频</translation>
+		</message>
+		<message>
+			<source>LID_0393</source>
+			<translation>蓝牙音频</translation>
+		</message>
+		<message>
+			<source>LID_0395</source>
+			<translation>iPod</translation>
+		</message>
+		<message>
+			<source>LID_0396</source>
+			<translation>FM</translation>
+		</message>
+		<message>
+			<source>LID_0397</source>
+			<translation>AM</translation>
+		</message>
+		<message>
+			<source>LID_0400</source>
+			<translation>DMB</translation>
+		</message>
+		<message>
+			<source>LID_0402</source>
+			<translation>章节</translation>
+		</message>
+		<message>
+			<source>LID_0405</source>
+			<translation>DVD</translation>
+		</message>
+		<message>
+			<source>LID_0406</source>
+			<translation>CD</translation>
+		</message>
+		<message>
+			<source>LID_0407</source>
+			<translation>USB</translation>
+		</message>
+		<message>
+			<source>LID_0408</source>
+			<translation>AUX</translation>
+		</message>
+		<message>
+			<source>LID_0419</source>
+			<translation>应用程序</translation>
+		</message>
+		<message>
+			<source>LID_0427</source>
+			<translation>规划路线中</translation>
+		</message>
+		<message>
+			<source>LID_0433</source>
+			<translation>请检查刹车灯</translation>
+		</message>
+		<message>
+			<source>LID_0434</source>
+			<translation>请检查角灯</translation>
+		</message>
+		<message>
+			<source>LID_0435</source>
+			<translation>请检查日间行车灯</translation>
+		</message>
+		<message>
+			<source>LID_0436</source>
+			<translation>请检查排气系统</translation>
+		</message>
+		<message>
+			<source>LID_0437</source>
+			<translation>请检查雾灯</translation>
+		</message>
+		<message>
+			<source>LID_0438</source>
+			<translation>请检查远光灯</translation>
+		</message>
+		<message>
+			<source>LID_0439</source>
+			<translation>请检查近光灯</translation>
+		</message>
+		<message>
+			<source>LID_0442</source>
+			<translation>请检查示宽灯</translation>
+		</message>
+		<message>
+			<source>LID_0445</source>
+			<translation>请检查尾灯</translation>
+		</message>
+		<message>
+			<source>LID_0446</source>
+			<translation>请检查转向灯</translation>
+		</message>
+		<message>
+			<source>LID_0447</source>
+			<translation>编码错误</translation>
+		</message>
+		<message>
+			<source>LID_0448</source>
+			<translation>请选择按键保存设置</translation>
+		</message>
+		<message>
+			<source>LID_0450</source>
+			<translation>请立即充电
+动力受限</translation>
+		</message>
+		<message>
+			<source>LID_0451</source>
+			<translation>请检查电动系统</translation>
+		</message>
+		<message>
+			<source>LID_0453</source>
+			<translation>动力电池电量低</translation>
+		</message>
+		<message>
+			<source>LID_0454</source>
+			<translation>动力电池温度低
+动力受限</translation>
+		</message>
+		<message>
+			<source>LID_0456</source>
+			<translation>动力受限</translation>
+		</message>
+		<message>
+			<source>LID_0458</source>
+			<translation>请安全停车后
+检查供电系统</translation>
+		</message>
+		<message>
+			<source>LID_0459</source>
+			<translation>请断开充电连接器
+再启动</translation>
+		</message>
+		<message>
+			<source>LID_0461</source>
+			<translation>动力电池</translation>
+		</message>
+		<message>
+			<source>LID_0462</source>
+			<translation>燃油</translation>
+		</message>
+		<message>
+			<source>LID_0463</source>
+			<translation>请松开油门踏板</translation>
+		</message>
+		<message>
+			<source>LID_0464</source>
+			<translation>是否保存&#63;</translation>
+		</message>
+		<message>
+			<source>LID_0469</source>
+			<translation>帮助</translation>
+		</message>
+		<message>
+			<source>LID_0470</source>
+			<translation>高</translation>
+		</message>
+		<message>
+			<source>LID_0471</source>
+			<translation>高</translation>
+		</message>
+		<message>
+			<source>LID_0472</source>
+			<translation>低</translation>
+		</message>
+		<message>
+			<source>LID_0474</source>
+			<translation>智能尾门</translation>
+		</message>
+		<message>
+			<source>LID_0475</source>
+			<translation>低</translation>
+		</message>
+		<message>
+			<source>LID_0476</source>
+			<translation>胎压单位</translation>
+		</message>
+		<message>
+			<source>LID_0477</source>
+			<translation>是</translation>
+		</message>
+		<message>
+			<source>LID_0478</source>
+			<translation>否</translation>
+		</message>
+		<message>
+			<source>LID_0479</source>
+			<translation>MP3 Disc</translation>
+		</message>
+		<message>
+			<source>LID_0488</source>
+			<translation>轮胎气压</translation>
+		</message>
+		<message>
+			<source>LID_0493</source>
+			<translation>当前环境无法自动解除
+电子驻车制动，
+请系好安全带，
+关闭车门/机舱盖/行李箱</translation>
+		</message>
+		<message>
+			<source>LID_0494</source>
+			<translation>当前环境无法操作
+AUTO HOLD。
+请关闭车门/
+机舱盖/行李箱</translation>
+		</message>
+		<message>
+			<source>LID_0495</source>
+			<translation>雨刮器/车灯模式显示</translation>
+		</message>
+		<message>
+			<source>LID_0500</source>
+			<translation>请检查方向盘震动功能</translation>
+		</message>
+		<message>
+			<source>LID_0501</source>
+			<translation>请检查胎压监测系统</translation>
+		</message>
+		<message>
+			<source>LID_0502</source>
+			<translation>行驶后显示</translation>
+		</message>
+		<message>
+			<source>LID_0503</source>
+			<translation>当前环境无法操作
+AUTO HOLD。
+请系好安全带，
+关闭车门/机舱盖/行李箱</translation>
+		</message>
+		<message>
+			<source>LID_0504</source>
+			<translation>请打开抬头显示后
+修改设置</translation>
+		</message>
+		<message>
+			<source>LID_0505</source>
+			<translation>请检查混合动力系统</translation>
+		</message>
+		<message>
+			<source>LID_0506</source>
+			<translation>请安全停车
+检查刹车系统</translation>
+		</message>
+		<message>
+			<source>LID_0508</source>
+			<translation>DAB</translation>
+		</message>
+		<message>
+			<source>LID_0512</source>
+			<translation>点唱机音乐</translation>
+		</message>
+		<message>
+			<source>LID_0513</source>
+			<translation>点唱机视频</translation>
+		</message>
+		<message>
+			<source>LID_0515</source>
+			<translation>重新规划路线中</translation>
+		</message>
+		<message>
+			<source>LID_0517</source>
+			<translation>请检查电控悬架</translation>
+		</message>
+		<message>
+			<source>LID_0518</source>
+			<translation>请检查
+虚拟发动机声音系统</translation>
+		</message>
+		<message>
+			<source>LID_0519</source>
+			<translation>驾驶风格</translation>
+		</message>
+		<message>
+			<source>LID_0520</source>
+			<translation>高效</translation>
+		</message>
+		<message>
+			<source>LID_0521</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_0522</source>
+			<translation>低效</translation>
+		</message>
+		<message>
+			<source>LID_0524</source>
+			<translation>Track</translation>
+		</message>
+		<message>
+			<source>LID_0525</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_0528</source>
+			<translation>FM1</translation>
+		</message>
+		<message>
+			<source>LID_0529</source>
+			<translation>FM2</translation>
+		</message>
+		<message>
+			<source>LID_0535</source>
+			<translation>怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_0537</source>
+			<translation>较快</translation>
+		</message>
+		<message>
+			<source>LID_0538</source>
+			<translation>较慢</translation>
+		</message>
+		<message>
+			<source>LID_0539</source>
+			<translation>前窗雨刮器模式</translation>
+		</message>
+		<message>
+			<source>LID_0540</source>
+			<translation>后窗雨刮器模式</translation>
+		</message>
+		<message>
+			<source>LID_0541</source>
+			<translation>车灯模式</translation>
+		</message>
+		<message>
+			<source>LID_0542</source>
+			<translation>请解除
+POWER DOOR OFF
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_0543</source>
+			<translation>请选择尾门自动开启
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_0544</source>
+			<translation>目的地信息</translation>
+		</message>
+		<message>
+			<source>LID_0546</source>
+			<translation>变速器温度高！
+请安全停车</translation>
+		</message>
+		<message>
+			<source>LID_0547</source>
+			<translation>注意斜坡！
+请踩刹车踏板</translation>
+		</message>
+		<message>
+			<source>LID_0548</source>
+			<translation>电池过热！
+请安全停车</translation>
+		</message>
+		<message>
+			<source>LID_0549</source>
+			<translation>充电接口盖未关</translation>
+		</message>
+		<message>
+			<source>LID_0550</source>
+			<translation>平均能耗</translation>
+		</message>
+		<message>
+			<source>LID_0551</source>
+			<translation>请踩刹车踏板
+启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0552</source>
+			<translation>请切换至P挡
+启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0553</source>
+			<translation>倒车时后窗雨刮器自动启动</translation>
+		</message>
+		<message>
+			<source>LID_0555</source>
+			<translation>切换挡位显示</translation>
+		</message>
+		<message>
+			<source>LID_0559</source>
+			<translation>尿素液不足</translation>
+		</message>
+		<message>
+			<source>LID_0560</source>
+			<translation>请补充尿素液</translation>
+		</message>
+		<message>
+			<source>LID_0561</source>
+			<translation>尿素液耗尽
+将无法重启</translation>
+		</message>
+		<message>
+			<source>LID_0562</source>
+			<translation>尿素液不符合标准</translation>
+		</message>
+		<message>
+			<source>LID_0563</source>
+			<translation>请检查尿素液系统</translation>
+		</message>
+		<message>
+			<source>LID_0564</source>
+			<translation>尿素液系统故障</translation>
+		</message>
+		<message>
+			<source>LID_0565</source>
+			<translation>请检查前大灯</translation>
+		</message>
+		<message>
+			<source>LID_0566</source>
+			<translation>请转动方向盘
+并按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_0567</source>
+			<translation>请再次按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_0568</source>
+			<translation>请用智能钥匙按启动键</translation>
+		</message>
+		<message>
+			<source>LID_0571</source>
+			<translation>FMA</translation>
+		</message>
+		<message>
+			<source>LID_0572</source>
+			<translation>AMA</translation>
+		</message>
+		<message>
+			<source>LID_0573</source>
+			<translation>000km后车辆将无法启动！
+请补充尿素液</translation>
+		</message>
+		<message>
+			<source>LID_0574</source>
+			<translation>000km后车辆将无法启动！
+请补充标准尿素液</translation>
+		</message>
+		<message>
+			<source>LID_0575</source>
+			<translation>000km后车辆将无法启动！
+请检查尿素液系统</translation>
+		</message>
+		<message>
+			<source>LID_0577</source>
+			<translation>每次启动后</translation>
+		</message>
+		<message>
+			<source>LID_0578</source>
+			<translation>每次加油后</translation>
+		</message>
+		<message>
+			<source>LID_0580</source>
+			<translation>辅助车速表</translation>
+		</message>
+		<message>
+			<source>LID_0581</source>
+			<translation>发动机冷却液温度</translation>
+		</message>
+		<message>
+			<source>LID_0583</source>
+			<translation>高</translation>
+		</message>
+		<message>
+			<source>LID_0584</source>
+			<translation>低</translation>
+		</message>
+		<message>
+			<source>LID_0586</source>
+			<translation>请休息</translation>
+		</message>
+		<message>
+			<source>LID_0587</source>
+			<translation>已启动变速器保护！
+请减速</translation>
+		</message>
+		<message>
+			<source>LID_0588</source>
+			<translation>后视镜自动折叠</translation>
+		</message>
+		<message>
+			<source>LID_0589</source>
+			<translation>个月</translation>
+		</message>
+		<message>
+			<source>LID_0590</source>
+			<translation>天</translation>
+		</message>
+		<message>
+			<source>LID_0591</source>
+			<translation>无法自动解除
+电子驻车制动系统
+请关闭车门/
+机舱盖/行李箱</translation>
+		</message>
+		<message>
+			<source>LID_0592</source>
+			<translation>平均能耗复位</translation>
+		</message>
+		<message>
+			<source>LID_0593</source>
+			<translation>画面角度调节</translation>
+		</message>
+		<message>
+			<source>LID_0594</source>
+			<translation>请切换至P挡再设置</translation>
+		</message>
+		<message>
+			<source>LID_0595</source>
+			<translation>请开启驻车制动再设置</translation>
+		</message>
+		<message>
+			<source>LID_0601</source>
+			<translation>CD</translation>
+		</message>
+		<message>
+			<source>LID_0603</source>
+			<translation>Apple CarPlay</translation>
+		</message>
+		<message>
+			<source>LID_0604</source>
+			<translation>Android Auto</translation>
+		</message>
+		<message>
+			<source>LID_0605</source>
+			<translation>混合动力模式</translation>
+		</message>
+		<message>
+			<source>LID_0608</source>
+			<translation>电动模式</translation>
+		</message>
+		<message>
+			<source>LID_0610</source>
+			<translation>动力电池电量不足
+将保持混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0613</source>
+			<translation>请切换至P挡
+进行充电</translation>
+		</message>
+		<message>
+			<source>LID_0614</source>
+			<translation>柔和</translation>
+		</message>
+		<message>
+			<source>LID_0615</source>
+			<translation>动态</translation>
+		</message>
+		<message>
+			<source>LID_0616</source>
+			<translation>手机在无线充电器上</translation>
+		</message>
+		<message>
+			<source>LID_0617</source>
+			<translation>手机无线充电系统</translation>
+		</message>
+		<message>
+			<source>LID_0618</source>
+			<translation>前座</translation>
+		</message>
+		<message>
+			<source>LID_0619</source>
+			<translation>后座</translation>
+		</message>
+		<message>
+			<source>LID_0623</source>
+			<translation>请选择行李箱自动开启
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_0624</source>
+			<translation>滑行行驶</translation>
+		</message>
+		<message>
+			<source>LID_0625</source>
+			<translation>滑行行驶提示</translation>
+		</message>
+		<message>
+			<source>LID_0631</source>
+			<translation>是否恢复出厂设置？</translation>
+		</message>
+		<message>
+			<source>LID_0632</source>
+			<translation>已恢复出厂设置</translation>
+		</message>
+		<message>
+			<source>LID_0633</source>
+			<translation>未恢复出厂设置</translation>
+		</message>
+		<message>
+			<source>LID_0634</source>
+			<translation>变速器过热！
+停车保持启动状态</translation>
+		</message>
+		<message>
+			<source>LID_0635</source>
+			<translation>变速器冷却中
+请安全停车00分钟</translation>
+		</message>
+		<message>
+			<source>LID_0636</source>
+			<translation>变速器冷却完毕
+请继续行驶</translation>
+		</message>
+		<message>
+			<source>LID_0637</source>
+			<translation>滑行行驶提示</translation>
+		</message>
+		<message>
+			<source>LID_0638</source>
+			<translation>Low</translation>
+		</message>
+		<message>
+			<source>LID_0642</source>
+			<translation>慢速充电器异常
+充电失败</translation>
+		</message>
+		<message>
+			<source>LID_0643</source>
+			<translation>快速充电器异常
+充电失败</translation>
+		</message>
+		<message>
+			<source>LID_0644</source>
+			<translation>请检查系统</translation>
+		</message>
+		<message>
+			<source>LID_0645</source>
+			<translation>尿素液</translation>
+		</message>
+		<message>
+			<source>LID_0646</source>
+			<translation>如需停车请按P键</translation>
+		</message>
+		<message>
+			<source>LID_0647</source>
+			<translation>巡航控制已开启</translation>
+		</message>
+		<message>
+			<source>LID_0652</source>
+			<translation>系统温度低
+将保持混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0653</source>
+			<translation>系统温度低
+将切换至混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0654</source>
+			<translation>系统温度高
+将切换至混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0655</source>
+			<translation>系统温度高
+将保持混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0656</source>
+			<translation>陡坡缓降系统</translation>
+		</message>
+		<message>
+			<source>LID_0659</source>
+			<translation>请断开充电连接器
+再打开油箱盖</translation>
+		</message>
+		<message>
+			<source>LID_0676</source>
+			<translation>重置</translation>
+		</message>
+		<message>
+			<source>LID_0678</source>
+			<translation>是否重置？</translation>
+		</message>
+		<message>
+			<source>LID_0679</source>
+			<translation>当前环境无法操作
+AUTO HOLD。
+请关闭车门/机舱盖</translation>
+		</message>
+		<message>
+			<source>LID_0680</source>
+			<translation>四驱锁止</translation>
+		</message>
+		<message>
+			<source>LID_0689</source>
+			<translation>请按P键</translation>
+		</message>
+		<message>
+			<source>LID_0694</source>
+			<translation>方向盘加热已关闭</translation>
+		</message>
+		<message>
+			<source>LID_0695</source>
+			<translation>电源未关闭</translation>
+		</message>
+		<message>
+			<source>LID_0696</source>
+			<translation>请注意
+车辆将自动熄火</translation>
+		</message>
+		<message>
+			<source>LID_0698</source>
+			<translation>请前往维修站检查D键
+行驶时请勿切换挡位或熄火</translation>
+		</message>
+		<message>
+			<source>LID_0699</source>
+			<translation>挡位键重复选择</translation>
+		</message>
+		<message>
+			<source>LID_0700</source>
+			<translation>请检查挡位键</translation>
+		</message>
+		<message>
+			<source>LID_0701</source>
+			<translation>无法解除AUTO HOLD 
+请关闭车门</translation>
+		</message>
+		<message>
+			<source>LID_0703</source>
+			<translation>目的地已到达</translation>
+		</message>
+		<message>
+			<source>LID_0704</source>
+			<translation>滑行行驶中</translation>
+		</message>
+		<message>
+			<source>LID_0708</source>
+			<translation>紫色</translation>
+		</message>
+		<message>
+			<source>LID_0709</source>
+			<translation>蓝色</translation>
+		</message>
+		<message>
+			<source>LID_0710</source>
+			<translation>绿色</translation>
+		</message>
+		<message>
+			<source>LID_0711</source>
+			<translation>红色</translation>
+		</message>
+		<message>
+			<source>LID_0712</source>
+			<translation>黄色</translation>
+		</message>
+		<message>
+			<source>LID_0713</source>
+			<translation>累计信息</translation>
+		</message>
+		<message>
+			<source>LID_0720</source>
+			<translation>里程</translation>
+		</message>
+		<message>
+			<source>LID_0721</source>
+			<translation>能耗</translation>
+		</message>
+		<message>
+			<source>LID_0722</source>
+			<translation>时间</translation>
+		</message>
+		<message>
+			<source>LID_0723</source>
+			<translation>DRIVE MODE</translation>
+		</message>
+		<message>
+			<source>LID_0729</source>
+			<translation>距上次休息</translation>
+		</message>
+		<message>
+			<source>LID_0730</source>
+			<translation>已暂停</translation>
+		</message>
+		<message>
+			<source>LID_0733</source>
+			<translation>氛围灯颜色</translation>
+		</message>
+		<message>
+			<source>LID_0734</source>
+			<translation>氛围灯亮度</translation>
+		</message>
+		<message>
+			<source>LID_0735</source>
+			<translation>1级</translation>
+		</message>
+		<message>
+			<source>LID_0736</source>
+			<translation>2级</translation>
+		</message>
+		<message>
+			<source>LID_0737</source>
+			<translation>3级</translation>
+		</message>
+		<message>
+			<source>LID_0738</source>
+			<translation>4级</translation>
+		</message>
+		<message>
+			<source>LID_0739</source>
+			<translation>里程/间隔设置</translation>
+		</message>
+		<message>
+			<source>LID_0741</source>
+			<translation>已切换至P挡</translation>
+		</message>
+		<message>
+			<source>LID_0742</source>
+			<translation>已切换至N挡</translation>
+		</message>
+		<message>
+			<source>LID_0746</source>
+			<translation>油箱盖已开启</translation>
+		</message>
+		<message>
+			<source>LID_0747</source>
+			<translation>油箱盖未关</translation>
+		</message>
+		<message>
+			<source>LID_0748</source>
+			<translation>P挡故障！
+驻车时
+请开启驻车制动</translation>
+		</message>
+		<message>
+			<source>LID_0749</source>
+			<translation>每次充电后</translation>
+		</message>
+		<message>
+			<source>LID_0753</source>
+			<translation>滑行提示时间</translation>
+		</message>
+		<message>
+			<source>LID_0754</source>
+			<translation>请按P键充电</translation>
+		</message>
+		<message>
+			<source>LID_0755</source>
+			<translation>蓄电池正在放电
+请启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0759</source>
+			<translation>请检查电子换挡杆</translation>
+		</message>
+		<message>
+			<source>LID_0760</source>
+			<translation>挡位键卡住</translation>
+		</message>
+		<message>
+			<source>LID_0763</source>
+			<translation>请注意周围车辆</translation>
+		</message>
+		<message>
+			<source>LID_0764</source>
+			<translation>极地白</translation>
+		</message>
+		<message>
+			<source>LID_0765</source>
+			<translation>海洋蓝</translation>
+		</message>
+		<message>
+			<source>LID_0766</source>
+			<translation>湖蓝绿</translation>
+		</message>
+		<message>
+			<source>LID_0767</source>
+			<translation>草原绿</translation>
+		</message>
+		<message>
+			<source>LID_0768</source>
+			<translation>落日黄</translation>
+		</message>
+		<message>
+			<source>LID_0769</source>
+			<translation>黎明红</translation>
+		</message>
+		<message>
+			<source>LID_0770</source>
+			<translation>极光紫</translation>
+		</message>
+		<message>
+			<source>LID_0772</source>
+			<translation>设置</translation>
+		</message>
+		<message>
+			<source>LID_0787</source>
+			<translation>请检查P键</translation>
+		</message>
+		<message>
+			<source>LID_0789</source>
+			<translation>无法运行导航
+请检查SD卡</translation>
+		</message>
+		<message>
+			<source>LID_0795</source>
+			<translation>系统关闭</translation>
+		</message>
+		<message>
+			<source>LID_0796</source>
+			<translation>信息将显示在前风挡玻璃上</translation>
+		</message>
+		<message>
+			<source>LID_0797</source>
+			<translation>使用方向盘开关，
+调整显示高度</translation>
+		</message>
+		<message>
+			<source>LID_0798</source>
+			<translation>使用方向盘开关，
+调整显示亮度</translation>
+		</message>
+		<message>
+			<source>LID_0799</source>
+			<translation>使用方向盘开关，
+选择显示的信息</translation>
+		</message>
+		<message>
+			<source>LID_0800</source>
+			<translation>选择抬头显示上
+车速表数字大小</translation>
+		</message>
+		<message>
+			<source>LID_0801</source>
+			<translation>选择抬头显示上
+车速表颜色</translation>
+		</message>
+		<message>
+			<source>LID_0802</source>
+			<translation>在湿滑路面上防止轮胎空转</translation>
+		</message>
+		<message>
+			<source>LID_0817</source>
+			<translation>选择自动落锁条件</translation>
+		</message>
+		<message>
+			<source>LID_0818</source>
+			<translation>选择自动解锁条件</translation>
+		</message>
+		<message>
+			<source>LID_0819</source>
+			<translation>按两下钥匙上的解锁键
+来解开所有车门</translation>
+		</message>
+		<message>
+			<source>LID_0824</source>
+			<translation>选择轻碰转向灯控制杆时&#44;
+转向灯闪烁次数</translation>
+		</message>
+		<message>
+			<source>LID_0826</source>
+			<translation>选择氛围灯开启方式</translation>
+		</message>
+		<message>
+			<source>LID_0828</source>
+			<translation>熄火后，
+尾灯和大灯将在15秒后关闭</translation>
+		</message>
+		<message>
+			<source>LID_0829</source>
+			<translation>携带智能钥匙靠近车辆时，
+门把手灯将自动开启15秒钟</translation>
+		</message>
+		<message>
+			<source>LID_0830</source>
+			<translation>在驾驶座位置相反的
+国家驾车时，
+减少大灯照明范围，
+避免造成迎面车辆车灯耀眼</translation>
+		</message>
+		<message>
+			<source>LID_0831</source>
+			<translation>调节语音提示音量</translation>
+		</message>
+		<message>
+			<source>LID_0834</source>
+			<translation>仪表盘画面开启或关闭时
+发出声音</translation>
+		</message>
+		<message>
+			<source>LID_0837</source>
+			<translation>显示减速带、车速限制
+等道路信息</translation>
+		</message>
+		<message>
+			<source>LID_0838</source>
+			<translation>调整仪表盘上显示的
+车速表数字大小</translation>
+		</message>
+		<message>
+			<source>LID_0839</source>
+			<translation>选择上下车时&#44;
+座椅的移动幅度</translation>
+		</message>
+		<message>
+			<source>LID_0840</source>
+			<translation>方向盘自动移动，
+为上下车提供方便</translation>
+		</message>
+		<message>
+			<source>LID_0844</source>
+			<translation>到保养周期时提示</translation>
+		</message>
+		<message>
+			<source>LID_0845</source>
+			<translation>可在0 ~ 99900范围内设置</translation>
+		</message>
+		<message>
+			<source>LID_0846</source>
+			<translation>可在0 ~ 99范围内设置</translation>
+		</message>
+		<message>
+			<source>LID_0849</source>
+			<translation>选择油耗单位</translation>
+		</message>
+		<message>
+			<source>LID_0850</source>
+			<translation>选择温度单位</translation>
+		</message>
+		<message>
+			<source>LID_0851</source>
+			<translation>选择轮胎气压单位</translation>
+		</message>
+		<message>
+			<source>LID_0853</source>
+			<translation>操作雨刮器/车灯控制杆时，
+将显示运行模式</translation>
+		</message>
+		<message>
+			<source>LID_0854</source>
+			<translation>换挡时显示切换挡位</translation>
+		</message>
+		<message>
+			<source>LID_0856</source>
+			<translation>用声音提示锁定/解锁</translation>
+		</message>
+		<message>
+			<source>LID_0857</source>
+			<translation>如锁定车门后
+在4秒钟内再次锁定，
+将用声音提示</translation>
+		</message>
+		<message>
+			<source>LID_0859</source>
+			<translation>携带智能钥匙靠近行李箱时
+行李箱将自动开启</translation>
+		</message>
+		<message>
+			<source>LID_0860</source>
+			<translation>携带智能钥匙靠近尾门时
+尾门将自动开启</translation>
+		</message>
+		<message>
+			<source>LID_0861</source>
+			<translation>可使用尾门自动开启键
+自动开/关尾门</translation>
+		</message>
+		<message>
+			<source>LID_0862</source>
+			<translation>在已启用前窗雨刮器的
+情况下倒车时，
+后窗雨刮器将自动启动</translation>
+		</message>
+		<message>
+			<source>LID_0863</source>
+			<translation>选择车速表的单位</translation>
+		</message>
+		<message>
+			<source>LID_0864</source>
+			<translation>选择平均油耗自动复位条件</translation>
+		</message>
+		<message>
+			<source>LID_0865</source>
+			<translation>显示辅助车速表</translation>
+		</message>
+		<message>
+			<source>LID_0866</source>
+			<translation>锁定/解锁时或
+携带智能钥匙靠近车辆时
+后视镜将自动折叠或展开</translation>
+		</message>
+		<message>
+			<source>LID_0867</source>
+			<translation>用方向盘开关&#44;
+调节画面角度</translation>
+		</message>
+		<message>
+			<source>LID_0868</source>
+			<translation>为节省燃油，
+提示松开油门踏板的时间</translation>
+		</message>
+		<message>
+			<source>LID_0869</source>
+			<translation>支持无线充电手机
+可用无线方式充电</translation>
+		</message>
+		<message>
+			<source>LID_0870</source>
+			<translation>显示辅助车速表</translation>
+		</message>
+		<message>
+			<source>LID_0874</source>
+			<translation>选择氛围灯的颜色</translation>
+		</message>
+		<message>
+			<source>LID_0875</source>
+			<translation>调整氛围灯的亮度</translation>
+		</message>
+		<message>
+			<source>LID_0877</source>
+			<translation>重置保养提示里程
+和保养间隔</translation>
+		</message>
+		<message>
+			<source>LID_0878</source>
+			<translation>设置保养提示里程
+和保养间隔</translation>
+		</message>
+		<message>
+			<source>LID_0879</source>
+			<translation>为节省燃油，
+选择松开油门踏板
+开始滑行行驶的提示时间</translation>
+		</message>
+		<message>
+			<source>LID_0883</source>
+			<translation>请保存胎压</translation>
+		</message>
+		<message>
+			<source>LID_0885</source>
+			<translation>保存</translation>
+		</message>
+		<message>
+			<source>LID_0886</source>
+			<translation>取消</translation>
+		</message>
+		<message>
+			<source>LID_0887</source>
+			<translation>胎压已保存</translation>
+		</message>
+		<message>
+			<source>LID_0888</source>
+			<translation>胎压未保存</translation>
+		</message>
+		<message>
+			<source>LID_0891</source>
+			<translation>蓄电池充电保护</translation>
+		</message>
+		<message>
+			<source>LID_0892</source>
+			<translation>为防止蓄电池亏电
+用动力电池给蓄电池充电</translation>
+		</message>
+		<message>
+			<source>LID_0893</source>
+			<translation>熄火状态下已运行
+蓄电池充电保护</translation>
+		</message>
+		<message>
+			<source>LID_0894</source>
+			<translation>为润滑发动机
+切换至混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0895</source>
+			<translation>为保护发动机
+将保持混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0896</source>
+			<translation>已熄火！
+请切换至N挡
+再启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0897</source>
+			<translation>不符合换挡条件
+请减速后再换挡</translation>
+		</message>
+		<message>
+			<source>LID_0899</source>
+			<translation>请切换至P挡再设置</translation>
+		</message>
+		<message>
+			<source>LID_0900</source>
+			<translation>请开启驻车制动再设置</translation>
+		</message>
+		<message>
+			<source>LID_0902</source>
+			<translation>请检查限滑差速器</translation>
+		</message>
+		<message>
+			<source>LID_0904</source>
+			<translation>排放检测模式</translation>
+		</message>
+		<message>
+			<source>LID_0907</source>
+			<translation>当前环境无法自动解除
+电子驻车制动，
+请系好安全带，
+关闭车门/机舱盖/尾门</translation>
+		</message>
+		<message>
+			<source>LID_0908</source>
+			<translation>当前环境无法操作
+AUTO HOLD。
+请关闭车门/机舱盖/尾门</translation>
+		</message>
+		<message>
+			<source>LID_0909</source>
+			<translation>无法自动解除
+电子驻车制动系统
+请关闭车门/机舱盖/尾门</translation>
+		</message>
+		<message>
+			<source>LID_0910</source>
+			<translation>请稍候再按挡位键</translation>
+		</message>
+		<message>
+			<source>LID_0911</source>
+			<translation>请检查当前挡位</translation>
+		</message>
+		<message>
+			<source>LID_0913</source>
+			<translation>平均能耗单位</translation>
+		</message>
+		<message>
+			<source>LID_0915</source>
+			<translation>轮胎气压低！
+请检查全部轮胎后
+长按3秒胎压SET键</translation>
+		</message>
+		<message>
+			<source>LID_0922</source>
+			<translation>保养关闭</translation>
+		</message>
+		<message>
+			<source>LID_0923</source>
+			<translation>请切换至P挡再设置</translation>
+		</message>
+		<message>
+			<source>LID_0925</source>
+			<translation>注意道路结冰
+请小心驾驶</translation>
+		</message>
+		<message>
+			<source>LID_0926</source>
+			<translation>顺序点亮转向灯</translation>
+		</message>
+		<message>
+			<source>LID_0927</source>
+			<translation>转向灯从内到外
+按顺序点亮</translation>
+		</message>
+		<message>
+			<source>LID_0928</source>
+			<translation>外部设备用电
+会导致蓄电池亏电</translation>
+		</message>
+		<message>
+			<source>LID_0941</source>
+			<translation>请检查周围环境</translation>
+		</message>
+		<message>
+			<source>LID_0942</source>
+			<translation>请检查儿童安全锁</translation>
+		</message>
+		<message>
+			<source>LID_0945</source>
+			<translation>Refill urea in 000mi or
+vehicle will not start</translation>
+		</message>
+		<message>
+			<source>LID_0946</source>
+			<translation>Refill with correct urea
+in 000mi
+or vehicle will not start</translation>
+		</message>
+		<message>
+			<source>LID_0947</source>
+			<translation>Service Urea system
+in 000mi
+or vehicle will not start</translation>
+		</message>
+		<message>
+			<source>LID_0948</source>
+			<translation>需使用空调
+将切换至混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0949</source>
+			<translation>需使用空调
+将保持混动模式</translation>
+		</message>
+		<message>
+			<source>LID_0950</source>
+			<translation>请解除运动模式后再切换</translation>
+		</message>
+		<message>
+			<source>LID_0951</source>
+			<translation>迎宾后视镜</translation>
+		</message>
+		<message>
+			<source>LID_0952</source>
+			<translation>迎宾后视镜/灯</translation>
+		</message>
+		<message>
+			<source>LID_0953</source>
+			<translation>车门解锁时</translation>
+		</message>
+		<message>
+			<source>LID_0954</source>
+			<translation>驾驶员靠近时</translation>
+		</message>
+		<message>
+			<source>LID_0955</source>
+			<translation>选择后视镜自动展开条件</translation>
+		</message>
+		<message>
+			<source>LID_0956</source>
+			<translation>选择后视镜自动展开
+和门把手灯开启条件</translation>
+		</message>
+		<message>
+			<source>LID_0957</source>
+			<translation>紧急制动</translation>
+		</message>
+		<message>
+			<source>LID_0958</source>
+			<translation>请检查
+全部轮胎是否相同</translation>
+		</message>
+		<message>
+			<source>LID_0961</source>
+			<translation>请开启驻车制动
+并切换至空挡后再设置</translation>
+		</message>
+		<message>
+			<source>LID_0962</source>
+			<translation>开启驻车制动
+并切换至空挡后
+进行设置</translation>
+		</message>
+		<message>
+			<source>LID_0963</source>
+			<translation>油耗信息</translation>
+		</message>
+		<message>
+			<source>LID_0964</source>
+			<translation>请注意安全</translation>
+		</message>
+		<message>
+			<source>LID_0965</source>
+			<translation>仪表</translation>
+		</message>
+		<message>
+			<source>LID_0966</source>
+			<translation>油温</translation>
+		</message>
+		<message>
+			<source>LID_0967</source>
+			<translation>扭矩</translation>
+		</message>
+		<message>
+			<source>LID_0968</source>
+			<translation>涡轮</translation>
+		</message>
+		<message>
+			<source>LID_0969</source>
+			<translation>圈数计时器</translation>
+		</message>
+		<message>
+			<source>LID_0970</source>
+			<translation>G-Force</translation>
+		</message>
+		<message>
+			<source>LID_0972</source>
+			<translation>选择平均能耗自动复位条件</translation>
+		</message>
+		<message>
+			<source>LID_0974</source>
+			<translation>选择能耗单位</translation>
+		</message>
+		<message>
+			<source>LID_0975</source>
+			<translation>脚踏灯</translation>
+		</message>
+		<message>
+			<source>LID_0976</source>
+			<translation>P挡或车门开启时
+点亮脚踏灯</translation>
+		</message>
+		<message>
+			<source>LID_0977</source>
+			<translation>电动尾门速度</translation>
+		</message>
+		<message>
+			<source>LID_0978</source>
+			<translation>选择电动尾门
+开启和关闭的速度</translation>
+		</message>
+		<message>
+			<source>LID_0979</source>
+			<translation>请关闭尾门后再设置</translation>
+		</message>
+		<message>
+			<source>LID_0980</source>
+			<translation>定速巡航自动减速</translation>
+		</message>
+		<message>
+			<source>LID_0981</source>
+			<translation>手动恢复速度</translation>
+		</message>
+		<message>
+			<source>LID_0982</source>
+			<translation>自动恢复速度</translation>
+		</message>
+		<message>
+			<source>LID_0983</source>
+			<translation>操作开关
+恢复巡航速度</translation>
+		</message>
+		<message>
+			<source>LID_0984</source>
+			<translation>当使用定速巡航时
+与导航系统联动，
+在测速区间范围内
+车辆自动减速</translation>
+		</message>
+		<message>
+			<source>LID_0985</source>
+			<translation>道路结冰提示</translation>
+		</message>
+		<message>
+			<source>LID_0986</source>
+			<translation>当室外温度
+低于4℃&#40;39℉&#41;时，
+发出道路结冰提示</translation>
+		</message>
+		<message>
+			<source>LID_0988</source>
+			<translation>开始</translation>
+		</message>
+		<message>
+			<source>LID_0989</source>
+			<translation>结束</translation>
+		</message>
+		<message>
+			<source>LID_0990</source>
+			<translation>转速匹配</translation>
+		</message>
+		<message>
+			<source>LID_0991</source>
+			<translation>弹射起步</translation>
+		</message>
+		<message>
+			<source>LID_0992</source>
+			<translation>准备</translation>
+		</message>
+		<message>
+			<source>LID_0993</source>
+			<translation>启动</translation>
+		</message>
+		<message>
+			<source>LID_0994</source>
+			<translation>12V蓄电池进入断电模时，
+按下此按键后可以启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_0995</source>
+			<translation>经济滑行模式</translation>
+		</message>
+		<message>
+			<source>LID_0996</source>
+			<translation>为节省燃油
+变速器切换至N挡
+增加行驶距离，
+显示“滑行”画面</translation>
+		</message>
+		<message>
+			<source>LID_0997</source>
+			<translation>滑行</translation>
+		</message>
+		<message>
+			<source>LID_0998</source>
+			<translation>涡轮增压单位</translation>
+		</message>
+		<message>
+			<source>LID_0999</source>
+			<translation>选择涡轮增压的单位</translation>
+		</message>
+		<message>
+			<source>LID_1000</source>
+			<translation>怠速启停已解除
+请切换至P或N挡启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1001</source>
+			<translation>请切换至空挡
+启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1002</source>
+			<translation>请检查
+电动助力转向</translation>
+		</message>
+		<message>
+			<source>LID_1003</source>
+			<translation>仪表布局风格</translation>
+		</message>
+		<message>
+			<source>LID_1004</source>
+			<translation>简约</translation>
+		</message>
+		<message>
+			<source>LID_1005</source>
+			<translation>经典</translation>
+		</message>
+		<message>
+			<source>LID_1006</source>
+			<translation>细节</translation>
+		</message>
+		<message>
+			<source>LID_1007</source>
+			<translation>油门踏板经济提示</translation>
+		</message>
+		<message>
+			<source>LID_1008</source>
+			<translation>当前环境无法自动减速
+请踩刹车踏板</translation>
+		</message>
+		<message>
+			<source>LID_1009</source>
+			<translation>空气净化模式</translation>
+		</message>
+		<message>
+			<source>LID_1010</source>
+			<translation>能耗信息</translation>
+		</message>
+		<message>
+			<source>LID_1011</source>
+			<translation>请检查
+氢燃料电动系统</translation>
+		</message>
+		<message>
+			<source>LID_1012</source>
+			<translation>请加注结束后
+再启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1013</source>
+			<translation>请关闭燃料加注口
+再启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1015</source>
+			<translation>请立刻安全停车！</translation>
+		</message>
+		<message>
+			<source>LID_1016</source>
+			<translation>请检查燃料电池
+冷却液及滤清器</translation>
+		</message>
+		<message>
+			<source>LID_1017</source>
+			<translation>冷启动中</translation>
+		</message>
+		<message>
+			<source>LID_1018</source>
+			<translation>关闭中</translation>
+		</message>
+		<message>
+			<source>LID_1019</source>
+			<translation>燃料电池冷却液不足</translation>
+		</message>
+		<message>
+			<source>LID_1020</source>
+			<translation>请添加
+电子设备冷却液</translation>
+		</message>
+		<message>
+			<source>LID_1021</source>
+			<translation>驾驶员辅助</translation>
+		</message>
+		<message>
+			<source>LID_1022</source>
+			<translation>智能巡航控制反应</translation>
+		</message>
+		<message>
+			<source>LID_1023</source>
+			<translation>调节智能巡航控制
+对前车加速的反应</translation>
+		</message>
+		<message>
+			<source>LID_1024</source>
+			<translation>驾驶辅助</translation>
+		</message>
+		<message>
+			<source>LID_1025</source>
+			<translation>设置驾驶辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1026</source>
+			<translation>车道跟踪辅助</translation>
+		</message>
+		<message>
+			<source>LID_1027</source>
+			<translation>自动调节方向盘使车辆保持
+在车道中央行驶</translation>
+		</message>
+		<message>
+			<source>LID_1028</source>
+			<translation>高速公路变道辅助</translation>
+		</message>
+		<message>
+			<source>LID_1029</source>
+			<translation>在高速公路上
+操作转向灯时
+车辆控制方向盘
+进行变道辅助</translation>
+		</message>
+		<message>
+			<source>LID_1030</source>
+			<translation>高速公路限速区自动减速</translation>
+		</message>
+		<message>
+			<source>LID_1031</source>
+			<translation>在高速公路限速区内
+车辆自动减速</translation>
+		</message>
+		<message>
+			<source>LID_1032</source>
+			<translation>高速公路弯道自动减速</translation>
+		</message>
+		<message>
+			<source>LID_1033</source>
+			<translation>在高速公路进入弯道前
+自动减速</translation>
+		</message>
+		<message>
+			<source>LID_1034</source>
+			<translation>限速提示</translation>
+		</message>
+		<message>
+			<source>LID_1035</source>
+			<translation>显示当前道路的限制速度</translation>
+		</message>
+		<message>
+			<source>LID_1036</source>
+			<translation>驾驶员注意力提示</translation>
+		</message>
+		<message>
+			<source>LID_1037</source>
+			<translation>提示驾驶员注意力状态
+必要时建议休息</translation>
+		</message>
+		<message>
+			<source>LID_1038</source>
+			<translation>高灵敏度</translation>
+		</message>
+		<message>
+			<source>LID_1039</source>
+			<translation>普通灵敏度</translation>
+		</message>
+		<message>
+			<source>LID_1040</source>
+			<translation>低灵敏度</translation>
+		</message>
+		<message>
+			<source>LID_1041</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_1042</source>
+			<translation>警告时间</translation>
+		</message>
+		<message>
+			<source>LID_1044</source>
+			<translation>较快</translation>
+		</message>
+		<message>
+			<source>LID_1045</source>
+			<translation>较慢</translation>
+		</message>
+		<message>
+			<source>LID_1046</source>
+			<translation>警告音量</translation>
+		</message>
+		<message>
+			<source>LID_1048</source>
+			<translation>高</translation>
+		</message>
+		<message>
+			<source>LID_1049</source>
+			<translation>中</translation>
+		</message>
+		<message>
+			<source>LID_1050</source>
+			<translation>低</translation>
+		</message>
+		<message>
+			<source>LID_1051</source>
+			<translation>车道安全</translation>
+		</message>
+		<message>
+			<source>LID_1052</source>
+			<translation>设置车道安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1053</source>
+			<translation>车道保持辅助</translation>
+		</message>
+		<message>
+			<source>LID_1054</source>
+			<translation>车辆有偏离趋势时
+自动调节方向盘
+辅助车辆安全行驶</translation>
+		</message>
+		<message>
+			<source>LID_1055</source>
+			<translation>车道偏离警告</translation>
+		</message>
+		<message>
+			<source>LID_1056</source>
+			<translation>车辆偏离车道时发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1057</source>
+			<translation>前方安全</translation>
+		</message>
+		<message>
+			<source>LID_1058</source>
+			<translation>设置前方安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1059</source>
+			<translation>防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1060</source>
+			<translation>碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1061</source>
+			<translation>前方碰撞危险时发出警告
+并控制车辆进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1062</source>
+			<translation>前方碰撞危险时发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1063</source>
+			<translation>前方交叉交通安全</translation>
+		</message>
+		<message>
+			<source>LID_1065</source>
+			<translation>前方交叉交通
+存在碰撞危险时发出警告
+并控制车辆进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1066</source>
+			<translation>前方交叉交通
+存在碰撞危险时发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1067</source>
+			<translation>盲点安全</translation>
+		</message>
+		<message>
+			<source>LID_1068</source>
+			<translation>设置盲点安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1069</source>
+			<translation>警告音</translation>
+		</message>
+		<message>
+			<source>LID_1070</source>
+			<translation>探测到后侧方盲点车辆
+发出警告音</translation>
+		</message>
+		<message>
+			<source>LID_1071</source>
+			<translation>盲点影像</translation>
+		</message>
+		<message>
+			<source>LID_1072</source>
+			<translation>操作转向灯开关时
+后侧方盲点影像
+显示在仪表盘上</translation>
+		</message>
+		<message>
+			<source>LID_1073</source>
+			<translation>安全下车辅助</translation>
+		</message>
+		<message>
+			<source>LID_1074</source>
+			<translation>下车时探测到
+后侧方车辆
+通过发出警告
+辅助安全下车</translation>
+		</message>
+		<message>
+			<source>LID_1075</source>
+			<translation>后侧方盲点存在碰撞危险时
+发出警告并控制车辆
+进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1076</source>
+			<translation>后侧方盲点存在碰撞危险时
+发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1077</source>
+			<translation>后方交叉交通安全</translation>
+		</message>
+		<message>
+			<source>LID_1078</source>
+			<translation>设置后方交叉交通安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1079</source>
+			<translation>倒车中探测到后方交叉交通
+存在碰撞危险时
+发出警告并控制车辆
+进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1080</source>
+			<translation>倒车中探测到后方交叉交通
+存在碰撞危险时发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1081</source>
+			<translation>泊车安全</translation>
+		</message>
+		<message>
+			<source>LID_1082</source>
+			<translation>设置泊车安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1083</source>
+			<translation>泊车时探测到碰撞危险
+发出警告并控制车辆
+进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1085</source>
+			<translation>驾驶辅助信息</translation>
+		</message>
+		<message>
+			<source>LID_1086</source>
+			<translation>车道安全信息</translation>
+		</message>
+		<message>
+			<source>LID_1087</source>
+			<translation>盲点安全信息</translation>
+		</message>
+		<message>
+			<source>LID_1093</source>
+			<translation>请检查
+驾驶员注意力提示系统</translation>
+		</message>
+		<message>
+			<source>LID_1094</source>
+			<translation>驾驶员注意力提示</translation>
+		</message>
+		<message>
+			<source>LID_1095</source>
+			<translation>驾驶员注意力等级</translation>
+		</message>
+		<message>
+			<source>LID_1096</source>
+			<translation>请检查前方安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1101</source>
+			<translation>请检查远光灯辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1109</source>
+			<translation>车道偏离警告系统已解除</translation>
+		</message>
+		<message>
+			<source>LID_1110</source>
+			<translation>车道保持辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1112</source>
+			<translation>请检查车道保持辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1114</source>
+			<translation>由于未握紧方向盘
+车道保持辅助系统
+已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1116</source>
+			<translation>请检查车道跟踪辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1123</source>
+			<translation>请检查
+高速公路驾驶辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1125</source>
+			<translation>请检查泊车辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1126</source>
+			<translation>泊车辅助系统故障</translation>
+		</message>
+		<message>
+			<source>LID_1127</source>
+			<translation>泊车辅助系统已解除</translation>
+		</message>
+		<message>
+			<source>LID_1128</source>
+			<translation>泊车辅助系统
+关闭</translation>
+		</message>
+		<message>
+			<source>LID_1129</source>
+			<translation>泊车辅助系统已完成 </translation>
+		</message>
+		<message>
+			<source>LID_1130</source>
+			<translation>驶出辅助系统已完成</translation>
+		</message>
+		<message>
+			<source>LID_1131</source>
+			<translation>当前环境无法操作
+泊车辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1132</source>
+			<translation>外部环境导致
+雷达探测受限
+智能巡航控制系统
+已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1136</source>
+			<translation>前方防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1137</source>
+			<translation>前方碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1138</source>
+			<translation>后方交叉交通碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1139</source>
+			<translation>盲点碰撞警告音</translation>
+		</message>
+		<message>
+			<source>LID_1140</source>
+			<translation>高速公路驾驶辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1141</source>
+			<translation>盲点碰撞警告时间</translation>
+		</message>
+		<message>
+			<source>LID_1143</source>
+			<translation>车道中心保持</translation>
+		</message>
+		<message>
+			<source>LID_1144</source>
+			<translation>请开启盲点碰撞警告系统
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_1145</source>
+			<translation>盲点防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1146</source>
+			<translation>请开启前方防撞辅助系统
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_1147</source>
+			<translation>泊车距离警告音量</translation>
+		</message>
+		<message>
+			<source>LID_1148</source>
+			<translation>调节泊车距离
+警告系统的音量</translation>
+		</message>
+		<message>
+			<source>LID_1149</source>
+			<translation>行驶时探测后侧方盲点车辆
+发出警告音</translation>
+		</message>
+		<message>
+			<source>LID_1150</source>
+			<translation>选择
+与前方车辆有碰撞危险时
+发出警告的时间</translation>
+		</message>
+		<message>
+			<source>LID_1151</source>
+			<translation>高速公路上，
+通过车道保持，智能巡航和
+自动设置车速进行辅助驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1152</source>
+			<translation>选择车道变更有碰撞危险时
+发出警告的时间</translation>
+		</message>
+		<message>
+			<source>LID_1153</source>
+			<translation>前方车辆已出发</translation>
+		</message>
+		<message>
+			<source>LID_1154</source>
+			<translation>紧急转向</translation>
+		</message>
+		<message>
+			<source>LID_1155</source>
+			<translation>快速设置</translation>
+		</message>
+		<message>
+			<source>LID_1156</source>
+			<translation>ACCESSORY</translation>
+		</message>
+		<message>
+			<source>LID_1157</source>
+			<translation>变速器温度</translation>
+		</message>
+		<message>
+			<source>LID_1158</source>
+			<translation>动力电池电量不足
+将切换至手动模式</translation>
+		</message>
+		<message>
+			<source>LID_1159</source>
+			<translation>车辆诊断
+切换至混动模式</translation>
+		</message>
+		<message>
+			<source>LID_1160</source>
+			<translation>扭矩单位</translation>
+		</message>
+		<message>
+			<source>LID_1161</source>
+			<translation>请选择扭矩单位</translation>
+		</message>
+		<message>
+			<source>LID_1162</source>
+			<translation>方向盘震动警告</translation>
+		</message>
+		<message>
+			<source>LID_1163</source>
+			<translation>调节驾驶安全系统的
+方向盘震动警告强度</translation>
+		</message>
+		<message>
+			<source>LID_1164</source>
+			<translation>强</translation>
+		</message>
+		<message>
+			<source>LID_1165</source>
+			<translation>中</translation>
+		</message>
+		<message>
+			<source>LID_1166</source>
+			<translation>轻</translation>
+		</message>
+		<message>
+			<source>LID_1167</source>
+			<translation>前方车辆出发提示</translation>
+		</message>
+		<message>
+			<source>LID_1169</source>
+			<translation>请刹车&#33;</translation>
+		</message>
+		<message>
+			<source>LID_1171</source>
+			<translation>下坡辅助已暂停
+请控制车速</translation>
+		</message>
+		<message>
+			<source>LID_1172</source>
+			<translation>速度</translation>
+		</message>
+		<message>
+			<source>LID_1173</source>
+			<translation>切换至D挡后
+再使用DRIVE MODE</translation>
+		</message>
+		<message>
+			<source>LID_1174</source>
+			<translation>能耗</translation>
+		</message>
+		<message>
+			<source>LID_1175</source>
+			<translation>携带智能钥匙靠近车辆时，
+水坑灯或门把手灯自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1176</source>
+			<translation>携带智能钥匙靠近车辆时，
+后视镜自动展开</translation>
+		</message>
+		<message>
+			<source>LID_1177</source>
+			<translation>携带智能钥匙靠近车辆时，
+后视镜自动展开
+水坑灯或门把手灯自动开启
+</translation>
+		</message>
+		<message>
+			<source>LID_1178</source>
+			<translation>选择水坑灯或门把手灯
+自动开启条件</translation>
+		</message>
+		<message>
+			<source>LID_1179</source>
+			<translation>选择后视镜自动展开条件</translation>
+		</message>
+		<message>
+			<source>LID_1180</source>
+			<translation>选择后视镜自动展开
+和水坑灯或门把手灯
+自动开启条件</translation>
+		</message>
+		<message>
+			<source>LID_1181</source>
+			<translation>切换至P挡或车门开启时
+氛围灯自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1182</source>
+			<translation>电源未关闭
+按START键切换至P挡后
+再关闭电源</translation>
+		</message>
+		<message>
+			<source>LID_1185</source>
+			<translation>换挡提示灯</translation>
+		</message>
+		<message>
+			<source>LID_1186</source>
+			<translation>用LED颜色提示
+最佳换挡时间</translation>
+		</message>
+		<message>
+			<source>LID_1187</source>
+			<translation>Diesel Exhaust Fluid
+Range: 0000mi</translation>
+		</message>
+		<message>
+			<source>LID_1188</source>
+			<translation>Diesel Exhaust Fluid
+Range: 0000km</translation>
+		</message>
+		<message>
+			<source>LID_1189</source>
+			<translation>Refill DEF.
+Speed will be limited to
+45MPH in 000mi.</translation>
+		</message>
+		<message>
+			<source>LID_1190</source>
+			<translation>Refill DEF.
+Speed will be limited to
+72km/h in 000km.</translation>
+		</message>
+		<message>
+			<source>LID_1191</source>
+			<translation>Refill DEF now.
+Speed will be limited to
+5MPH in 000mi.</translation>
+		</message>
+		<message>
+			<source>LID_1192</source>
+			<translation>Refill DEF now.
+Speed will be limited to
+8km/h in 000km.</translation>
+		</message>
+		<message>
+			<source>LID_1193</source>
+			<translation>Refill DEF now&#33;
+Speed is limited to 5MPH</translation>
+		</message>
+		<message>
+			<source>LID_1194</source>
+			<translation>Refill DEF now&#33;
+Speed is limited
+to 8km/h</translation>
+		</message>
+		<message>
+			<source>LID_1195</source>
+			<translation>Poor quality DEF.
+Speed will be limited to
+45MPH in 000mi.</translation>
+		</message>
+		<message>
+			<source>LID_1196</source>
+			<translation>Poor quality DEF.
+Speed will be limited to
+72km/h in 000km.</translation>
+		</message>
+		<message>
+			<source>LID_1197</source>
+			<translation>Poor quality DEF.
+Speed will be limited to
+5MPH in 00mi.</translation>
+		</message>
+		<message>
+			<source>LID_1198</source>
+			<translation>Poor quality DEF.
+Speed will be limited to
+8km/h in 00km.</translation>
+		</message>
+		<message>
+			<source>LID_1199</source>
+			<translation>Poor quality DEF.
+Speed is limited
+to 5MPH.</translation>
+		</message>
+		<message>
+			<source>LID_1200</source>
+			<translation>Poor quality DEF.
+Speed is limited
+to 8km/h.</translation>
+		</message>
+		<message>
+			<source>LID_1201</source>
+			<translation>Service emissions
+system.
+Speed will be limited to
+45MPH in 000mi.</translation>
+		</message>
+		<message>
+			<source>LID_1202</source>
+			<translation>Service emissions
+system.
+Speed will be limited to
+72km/h in 000km.</translation>
+		</message>
+		<message>
+			<source>LID_1203</source>
+			<translation>Service emissions
+system.
+Speed will be limited to
+5MPH in 00mi.</translation>
+		</message>
+		<message>
+			<source>LID_1204</source>
+			<translation>Service emissions
+system.
+Speed will be limited to
+8km/h in 00km.</translation>
+		</message>
+		<message>
+			<source>LID_1205</source>
+			<translation>Service emissions
+system.
+Speed is limited to 5MPH.</translation>
+		</message>
+		<message>
+			<source>LID_1206</source>
+			<translation>Service emissions
+system.
+Speed is limited
+to 8km/h.</translation>
+		</message>
+		<message>
+			<source>LID_1210</source>
+			<translation>电池已充满
+回收制动无法使用</translation>
+		</message>
+		<message>
+			<source>LID_1211</source>
+			<translation>蓄电池电压低
+请安全停车</translation>
+		</message>
+		<message>
+			<source>LID_1212</source>
+			<translation>请检查蓄电池
+安全停车后开启驻车制动</translation>
+		</message>
+		<message>
+			<source>LID_1213</source>
+			<translation>运动模式座椅侧面支撑</translation>
+		</message>
+		<message>
+			<source>LID_1214</source>
+			<translation>选择运动模式时
+强化座椅侧面支撑
+有助于运动驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1221</source>
+			<translation>后座乘客提醒</translation>
+		</message>
+		<message>
+			<source>LID_1222</source>
+			<translation>车辆锁止后
+通过传感器探测后座动静
+发出警告音及危险警告灯</translation>
+		</message>
+		<message>
+			<source>LID_1223</source>
+			<translation>请确认后座
+</translation>
+		</message>
+		<message>
+			<source>LID_1224</source>
+			<translation>下次车辆启动前
+后座乘客提醒功能
+已解除</translation>
+		</message>
+		<message>
+			<source>LID_1225</source>
+			<translation>请轻轻松开离合</translation>
+		</message>
+		<message>
+			<source>LID_1226</source>
+			<translation>RPM 调节</translation>
+		</message>
+		<message>
+			<source>LID_1227</source>
+			<translation>松开油门踏板
+可解除弹射起步</translation>
+		</message>
+		<message>
+			<source>LID_1228</source>
+			<translation>高转速时切换挡位
+易造成发动机损伤</translation>
+		</message>
+		<message>
+			<source>LID_1229</source>
+			<translation>进入CUSTOM模式
+将关闭ESC功能
+如要继续进入
+请长按3秒以上旗帜键</translation>
+		</message>
+		<message>
+			<source>LID_1230</source>
+			<translation>N模式关闭紧急制动</translation>
+		</message>
+		<message>
+			<source>LID_1231</source>
+			<translation>驾驶模式设置为N模式时
+关闭紧急制动系统</translation>
+		</message>
+		<message>
+			<source>LID_1232</source>
+			<translation>高温导致
+限滑差速器暂停工作</translation>
+		</message>
+		<message>
+			<source>LID_1233</source>
+			<translation>提示驾驶员
+前方车辆已出发</translation>
+		</message>
+		<message>
+			<source>LID_1234</source>
+			<translation>车辆运输模式</translation>
+		</message>
+		<message>
+			<source>LID_1235</source>
+			<translation>解除</translation>
+		</message>
+		<message>
+			<source>LID_1236</source>
+			<translation>驾驶模式联动</translation>
+		</message>
+		<message>
+			<source>LID_1237</source>
+			<translation>智能能量回收系统</translation>
+		</message>
+		<message>
+			<source>LID_1238</source>
+			<translation>根据车辆状态及驾驶环境
+自动调节回收制动等级</translation>
+		</message>
+		<message>
+			<source>LID_1239</source>
+			<translation>请检查智能能量回收系统</translation>
+		</message>
+		<message>
+			<source>LID_1241</source>
+			<translation>CUSTOM模式
+无法使用REV按键</translation>
+		</message>
+		<message>
+			<source>LID_1242</source>
+			<translation>变速器高温！
+弹射起步功能受限</translation>
+		</message>
+		<message>
+			<source>LID_1243</source>
+			<translation>制动液不足</translation>
+		</message>
+		<message>
+			<source>LID_1244</source>
+			<translation>请检查ABS系统</translation>
+		</message>
+		<message>
+			<source>LID_1245</source>
+			<translation>请检查ESC系统</translation>
+		</message>
+		<message>
+			<source>LID_1246</source>
+			<translation>请检查真空泵</translation>
+		</message>
+		<message>
+			<source>LID_1247</source>
+			<translation>请检查48V系统</translation>
+		</message>
+		<message>
+			<source>LID_1248</source>
+			<translation>加氢站异常
+导致氢气燃料罐内氢气过多</translation>
+		</message>
+		<message>
+			<source>LID_1249</source>
+			<translation>少量氢燃料
+可能泄漏/
+氢燃料
+可能少量泄漏/
+可能泄漏
+少量氢燃料</translation>
+		</message>
+		<message>
+			<source>LID_1250</source>
+			<translation>氢燃料罐温度低
+动力受限</translation>
+		</message>
+		<message>
+			<source>LID_1251</source>
+			<translation>氢燃料罐温度异常
+请立刻安全停车！</translation>
+		</message>
+		<message>
+			<source>LID_1252</source>
+			<translation>探测到少量氢燃料泄漏</translation>
+		</message>
+		<message>
+			<source>LID_1253</source>
+			<translation>探测到氢燃料泄漏
+请立刻安全停车</translation>
+		</message>
+		<message>
+			<source>LID_1254</source>
+			<translation>请检查氢燃料泄漏
+探测传感器</translation>
+		</message>
+		<message>
+			<source>LID_1255</source>
+			<translation>正在补充燃料...</translation>
+		</message>
+		<message>
+			<source>LID_1256</source>
+			<translation>请检查燃料加注口传感器</translation>
+		</message>
+		<message>
+			<source>LID_1257</source>
+			<translation>请熄火后打开燃料加注口</translation>
+		</message>
+		<message>
+			<source>LID_1258</source>
+			<translation>超过最大加气次数
+请更换氢气燃料罐</translation>
+		</message>
+		<message>
+			<source>LID_1259</source>
+			<translation>燃料不足</translation>
+		</message>
+		<message>
+			<source>LID_1261</source>
+			<translation>冷却液过热
+动力受限</translation>
+		</message>
+		<message>
+			<source>LID_1262</source>
+			<translation>燃料电池系统异常
+导致动力受限</translation>
+		</message>
+		<message>
+			<source>LID_1263</source>
+			<translation>预约充电等待中</translation>
+		</message>
+		<message>
+			<source>LID_1264</source>
+			<translation>工厂模式</translation>
+		</message>
+		<message>
+			<source>LID_1265</source>
+			<translation>驻车制动已开启
+N挡泊车时
+请解除驻车制动</translation>
+		</message>
+		<message>
+			<source>LID_1266</source>
+			<translation>运动模式显示</translation>
+		</message>
+		<message>
+			<source>LID_1267</source>
+			<translation>SPORT 模式</translation>
+		</message>
+		<message>
+			<source>LID_1268</source>
+			<translation>Ds模式</translation>
+		</message>
+		<message>
+			<source>LID_1269</source>
+			<translation>选择运动模式显示时间</translation>
+		</message>
+		<message>
+			<source>LID_1270</source>
+			<translation>请确认超声波传感器
+是否被遮挡</translation>
+		</message>
+		<message>
+			<source>LID_1272</source>
+			<translation>刹车优先功能已解除</translation>
+		</message>
+		<message>
+			<source>LID_1273</source>
+			<translation>充电中断
+请确认慢速充电器</translation>
+		</message>
+		<message>
+			<source>LID_1274</source>
+			<translation>充电中断
+请确认快速充电器</translation>
+		</message>
+		<message>
+			<source>LID_1275</source>
+			<translation>充电中断
+请确认充电线连接状态</translation>
+		</message>
+		<message>
+			<source>LID_1276</source>
+			<translation>TV</translation>
+		</message>
+		<message>
+			<source>LID_1277</source>
+			<translation>MirrorLink</translation>
+		</message>
+		<message>
+			<source>LID_1278</source>
+			<translation>百度 CarLife</translation>
+		</message>
+		<message>
+			<source>LID_1279</source>
+			<translation>休闲模式</translation>
+		</message>
+		<message>
+			<source>LID_1280</source>
+			<translation>是否切换到休闲模式</translation>
+		</message>
+		<message>
+			<source>LID_1281</source>
+			<translation>无法启动休闲模式</translation>
+		</message>
+		<message>
+			<source>LID_1282</source>
+			<translation>将切换至休闲模式</translation>
+		</message>
+		<message>
+			<source>LID_1283</source>
+			<translation>按下启动键
+可解除休闲模式</translation>
+		</message>
+		<message>
+			<source>LID_1284</source>
+			<translation>确认</translation>
+		</message>
+		<message>
+			<source>LID_1285</source>
+			<translation>ECO 模式下
+无法使用转速匹配</translation>
+		</message>
+		<message>
+			<source>LID_1286</source>
+			<translation>模拟模式</translation>
+		</message>
+		<message>
+			<source>LID_1287</source>
+			<translation>数字模式</translation>
+		</message>
+		<message>
+			<source>LID_1288</source>
+			<translation>将切换到
+高速公路驾驶辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1291</source>
+			<translation>无法启动！
+请检查高电压系统</translation>
+		</message>
+		<message>
+			<source>LID_1292</source>
+			<translation>无法启动！
+请添加氢燃料</translation>
+		</message>
+		<message>
+			<source>LID_1293</source>
+			<translation>请安全停车后
+检查氢燃料电动系统</translation>
+		</message>
+		<message>
+			<source>LID_1294</source>
+			<translation>立即安全停车！
+请检查燃料电池</translation>
+		</message>
+		<message>
+			<source>LID_1295</source>
+			<translation>立即安全停车！
+请检查燃料电池
+续航里程不足2km</translation>
+		</message>
+		<message>
+			<source>LID_1296</source>
+			<translation>立即安全停车！
+请检查燃料电池
+续航里程不足3km</translation>
+		</message>
+		<message>
+			<source>LID_1297</source>
+			<translation>立即安全停车！
+请检查燃料电池
+续航里程不足1mi</translation>
+		</message>
+		<message>
+			<source>LID_1298</source>
+			<translation>立即安全停车！
+请检查燃料电池
+续航里程不足2mi</translation>
+		</message>
+		<message>
+			<source>LID_1299</source>
+			<translation>用户选择</translation>
+		</message>
+		<message>
+			<source>LID_1300</source>
+			<translation>驾驶员1</translation>
+		</message>
+		<message>
+			<source>LID_1301</source>
+			<translation>车辆设置为驾驶员1模式</translation>
+		</message>
+		<message>
+			<source>LID_1302</source>
+			<translation>驾驶员2</translation>
+		</message>
+		<message>
+			<source>LID_1303</source>
+			<translation>车辆设置为驾驶员2模式</translation>
+		</message>
+		<message>
+			<source>LID_1304</source>
+			<translation>临时用户</translation>
+		</message>
+		<message>
+			<source>LID_1305</source>
+			<translation>车辆设置为
+临时用户模式</translation>
+		</message>
+		<message>
+			<source>LID_1306</source>
+			<translation>指纹</translation>
+		</message>
+		<message>
+			<source>LID_1307</source>
+			<translation>指纹认证</translation>
+		</message>
+		<message>
+			<source>LID_1308</source>
+			<translation>通过指纹
+车门落锁/解锁
+或启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1311</source>
+			<translation>驾驶员1指纹管理</translation>
+		</message>
+		<message>
+			<source>LID_1312</source>
+			<translation>登录或删除
+驾驶员1的指纹</translation>
+		</message>
+		<message>
+			<source>LID_1313</source>
+			<translation>驾驶员2指纹管理 </translation>
+		</message>
+		<message>
+			<source>LID_1314</source>
+			<translation>登录或删除
+驾驶员2的指纹</translation>
+		</message>
+		<message>
+			<source>LID_1315</source>
+			<translation>指纹1</translation>
+		</message>
+		<message>
+			<source>LID_1316</source>
+			<translation>指纹2</translation>
+		</message>
+		<message>
+			<source>LID_1317</source>
+			<translation>指纹3</translation>
+		</message>
+		<message>
+			<source>LID_1318</source>
+			<translation>该指纹已登录
+请登录其他指纹</translation>
+		</message>
+		<message>
+			<source>LID_1319</source>
+			<translation>请认证指纹</translation>
+		</message>
+		<message>
+			<source>LID_1320</source>
+			<translation>重置驾驶员1指纹</translation>
+		</message>
+		<message>
+			<source>LID_1321</source>
+			<translation>重置驾驶员2指纹</translation>
+		</message>
+		<message>
+			<source>LID_1322</source>
+			<translation>请使用已登录指纹按启动键</translation>
+		</message>
+		<message>
+			<source>LID_1323</source>
+			<translation>指纹启动已暂停
+请携带智能钥匙
+或XX分后再试</translation>
+		</message>
+		<message>
+			<source>LID_1324</source>
+			<translation>指纹认证已暂停
+请XX分钟后重试</translation>
+		</message>
+		<message>
+			<source>LID_1325</source>
+			<translation>请携带智能钥匙后
+再进行设置</translation>
+		</message>
+		<message>
+			<source>LID_1326</source>
+			<translation>认证失败</translation>
+		</message>
+		<message>
+			<source>LID_1327</source>
+			<translation>指纹认证中
+无法使用启动键</translation>
+		</message>
+		<message>
+			<source>LID_1328</source>
+			<translation>指纹登录中
+无法启动</translation>
+		</message>
+		<message>
+			<source>LID_1329</source>
+			<translation>请将手指放在
+启动键传感器上</translation>
+		</message>
+		<message>
+			<source>LID_1330</source>
+			<translation>请调整手指位置
+以全面录取指纹</translation>
+		</message>
+		<message>
+			<source>LID_1331</source>
+			<translation>请移开手指</translation>
+		</message>
+		<message>
+			<source>LID_1332</source>
+			<translation>正在登录指纹</translation>
+		</message>
+		<message>
+			<source>LID_1333</source>
+			<translation>指纹已登录</translation>
+		</message>
+		<message>
+			<source>LID_1334</source>
+			<translation>登录失败
+请重试</translation>
+		</message>
+		<message>
+			<source>LID_1335</source>
+			<translation>正在删除指纹</translation>
+		</message>
+		<message>
+			<source>LID_1336</source>
+			<translation>指纹已删除</translation>
+		</message>
+		<message>
+			<source>LID_1337</source>
+			<translation>删除失败
+请重试</translation>
+		</message>
+		<message>
+			<source>LID_1338</source>
+			<translation>请输入已登录指纹
+认证中无法使用启动键</translation>
+		</message>
+		<message>
+			<source>LID_1339</source>
+			<translation>是否删除驾驶员1
+全部指纹？</translation>
+		</message>
+		<message>
+			<source>LID_1340</source>
+			<translation>是否删除
+驾驶员2全部指纹？</translation>
+		</message>
+		<message>
+			<source>LID_1341</source>
+			<translation>进入隧道前自动控制</translation>
+		</message>
+		<message>
+			<source>LID_1342</source>
+			<translation>进入隧道时，
+与导航联动并
+自动控制车窗、
+温度和车灯系统</translation>
+		</message>
+		<message>
+			<source>LID_1343</source>
+			<translation>是否删除指纹？</translation>
+		</message>
+		<message>
+			<source>LID_1344</source>
+			<translation>动力电池温度低
+动力受限
+请立即充电</translation>
+		</message>
+		<message>
+			<source>LID_1346</source>
+			<translation>请检查换挡旋钮</translation>
+		</message>
+		<message>
+			<source>LID_1347</source>
+			<translation>请勿按P挡键
+同时转动旋钮</translation>
+		</message>
+		<message>
+			<source>LID_1348</source>
+			<translation>换挡旋钮无法回位</translation>
+		</message>
+		<message>
+			<source>LID_1349</source>
+			<translation>请踩刹车踏板
+并调整换挡旋钮</translation>
+		</message>
+		<message>
+			<source>LID_1350</source>
+			<translation>解除提示音</translation>
+		</message>
+		<message>
+			<source>LID_1352</source>
+			<translation>车辆有偏离趋势时
+自动调节方向盘
+主动辅助
+车辆安全行驶</translation>
+		</message>
+		<message>
+			<source>LID_1353</source>
+			<translation>泊车距离警告自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1354</source>
+			<translation>低速行驶时
+泊车距离警告
+自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1355</source>
+			<translation>请检查制动助力系统 </translation>
+		</message>
+		<message>
+			<source>LID_1356</source>
+			<translation>远程前进/倒车模式</translation>
+		</message>
+		<message>
+			<source>LID_1357</source>
+			<translation>下车后请使用
+智能钥匙操控
+前进或倒车键</translation>
+		</message>
+		<message>
+			<source>LID_1358</source>
+			<translation>远程前进/倒车控制中</translation>
+		</message>
+		<message>
+			<source>LID_1359</source>
+			<translation>远程控制结束</translation>
+		</message>
+		<message>
+			<source>LID_1360</source>
+			<translation>远程前进/倒车暂停</translation>
+		</message>
+		<message>
+			<source>LID_1361</source>
+			<translation>请按前进或倒车键</translation>
+		</message>
+		<message>
+			<source>LID_1362</source>
+			<translation>请重按
+前进或倒车键</translation>
+		</message>
+		<message>
+			<source>LID_1363</source>
+			<translation>请在车辆附近操作</translation>
+		</message>
+		<message>
+			<source>LID_1364</source>
+			<translation>车辆滑行
+远程控制系统
+已解除</translation>
+		</message>
+		<message>
+			<source>LID_1365</source>
+			<translation>远程前进/倒车解除</translation>
+		</message>
+		<message>
+			<source>LID_1366</source>
+			<translation>请参照
+用户使用手册</translation>
+		</message>
+		<message>
+			<source>LID_1367</source>
+			<translation>仪表盘主题选择</translation>
+		</message>
+		<message>
+			<source>LID_1368</source>
+			<translation>自动主题</translation>
+		</message>
+		<message>
+			<source>LID_1369</source>
+			<translation>主题A</translation>
+		</message>
+		<message>
+			<source>LID_1370</source>
+			<translation>主题B</translation>
+		</message>
+		<message>
+			<source>LID_1371</source>
+			<translation>主题C</translation>
+		</message>
+		<message>
+			<source>LID_1372</source>
+			<translation>主题D</translation>
+		</message>
+		<message>
+			<source>LID_1373</source>
+			<translation>显示选择的主题</translation>
+		</message>
+		<message>
+			<source>LID_1374</source>
+			<translation>根据驾驶模式
+主题自动变更</translation>
+		</message>
+		<message>
+			<source>LID_1376</source>
+			<translation>注意碰撞</translation>
+		</message>
+		<message>
+			<source>LID_1377</source>
+			<translation>白色</translation>
+		</message>
+		<message>
+			<source>LID_1378</source>
+			<translation>请完全熄火后
+打开燃料加注口</translation>
+		</message>
+		<message>
+			<source>LID_1379</source>
+			<translation>请踩刹车踏板后
+长按N键</translation>
+		</message>
+		<message>
+			<source>LID_1380</source>
+			<translation>音乐</translation>
+		</message>
+		<message>
+			<source>LID_1381</source>
+			<translation>外部设备用电
+会导致蓄电池馈电</translation>
+		</message>
+		<message>
+			<source>LID_1384</source>
+			<translation>AWD 锁止</translation>
+		</message>
+		<message>
+			<source>LID_1385</source>
+			<translation>离车时锁止</translation>
+		</message>
+		<message>
+			<source>LID_1386</source>
+			<translation>智能钥匙不在附近时，
+所有的门都会锁上</translation>
+		</message>
+		<message>
+			<source>LID_1387</source>
+			<translation>行驶就绪</translation>
+		</message>
+		<message>
+			<source>LID_1388</source>
+			<translation>请切换至D挡
+以保护发动机</translation>
+		</message>
+		<message>
+			<source>LID_1389</source>
+			<translation>动力电池温度低
+动力受限
+请立即充电</translation>
+		</message>
+		<message>
+			<source>LID_1390</source>
+			<translation>收音机/媒体信息</translation>
+		</message>
+		<message>
+			<source>LID_1391</source>
+			<translation>请检查后座乘客提醒系统</translation>
+		</message>
+		<message>
+			<source>LID_1392</source>
+			<translation>当前环境无法操作换挡拨片</translation>
+		</message>
+		<message>
+			<source>LID_1393</source>
+			<translation>未检测到智能钥匙或指纹</translation>
+		</message>
+		<message>
+			<source>LID_1395</source>
+			<translation>熄火后将保持N挡</translation>
+		</message>
+		<message>
+			<source>LID_1396</source>
+			<translation>保持N挡模式已解除</translation>
+		</message>
+		<message>
+			<source>LID_1397</source>
+			<translation>主驾车门开启
+将自动切换至P挡</translation>
+		</message>
+		<message>
+			<source>LID_1398</source>
+			<translation>动力电池温度低
+限制充电</translation>
+		</message>
+		<message>
+			<source>LID_1399</source>
+			<translation>已达到设置充电量
+停止充电</translation>
+		</message>
+		<message>
+			<source>LID_1400</source>
+			<translation>灰色</translation>
+		</message>
+		<message>
+			<source>LID_1401</source>
+			<translation>薄荷绿</translation>
+		</message>
+		<message>
+			<source>LID_1402</source>
+			<translation>橙黄金</translation>
+		</message>
+		<message>
+			<source>LID_1403</source>
+			<translation>座椅迎宾功能前后移动</translation>
+		</message>
+		<message>
+			<source>LID_1404</source>
+			<translation>座椅迎宾功能上下移动</translation>
+		</message>
+		<message>
+			<source>LID_1405</source>
+			<translation>选择上下车时，
+座椅前后移动幅度</translation>
+		</message>
+		<message>
+			<source>LID_1406</source>
+			<translation>上下车时座椅可上下移动</translation>
+		</message>
+		<message>
+			<source>LID_1407</source>
+			<translation>请将指纹中心位置
+放到传感器上</translation>
+		</message>
+		<message>
+			<source>LID_1408</source>
+			<translation>请将指纹左侧位置
+放到传感器上</translation>
+		</message>
+		<message>
+			<source>LID_1409</source>
+			<translation>请将指纹上方位置
+放到传感器上</translation>
+		</message>
+		<message>
+			<source>LID_1410</source>
+			<translation>请将指纹右侧位置
+放到传感器上</translation>
+		</message>
+		<message>
+			<source>LID_1411</source>
+			<translation>请将指纹下方位置
+放到传感器上</translation>
+		</message>
+		<message>
+			<source>LID_1412</source>
+			<translation>剩余：x次</translation>
+		</message>
+		<message>
+			<source>LID_1413</source>
+			<translation>无法变速
+请检查电子换挡系统</translation>
+		</message>
+		<message>
+			<source>LID_1415</source>
+			<translation>松开刹车踏板
+车辆将自动启动</translation>
+		</message>
+		<message>
+			<source>LID_1416</source>
+			<translation>0级</translation>
+		</message>
+		<message>
+			<source>LID_1417</source>
+			<translation>请除去空气滤清器中的异物
+详情参照用户使用手册</translation>
+		</message>
+		<message>
+			<source>LID_1418</source>
+			<translation>QQ音乐</translation>
+		</message>
+		<message>
+			<source>LID_1419</source>
+			<translation>请检查刹车系统</translation>
+		</message>
+		<message>
+			<source>LID_1420</source>
+			<translation>请安全停车
+检查刹车系统</translation>
+		</message>
+		<message>
+			<source>LID_1421</source>
+			<translation>Green Zone EV Drive</translation>
+		</message>
+		<message>
+			<source>LID_1422</source>
+			<translation>Maximizes EV driving
+to protect
+the environment.</translation>
+		</message>
+		<message>
+			<source>LID_1423</source>
+			<translation>在车辆内或附近休息时
+为了安全使用空调和便利
+装置将关闭驱动装置。
+车辆将无法换挡，
+驻车制动自动开启
+</translation>
+		</message>
+		<message>
+			<source>LID_1424</source>
+			<translation>尿素液</translation>
+		</message>
+		<message>
+			<source>LID_1425</source>
+			<translation>尿素液系统故障</translation>
+		</message>
+		<message>
+			<source>LID_1426</source>
+			<translation>远光灯辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1427</source>
+			<translation>自动减少对对面车辆
+司机造成的灯光炫目</translation>
+		</message>
+		<message>
+			<source>LID_1428</source>
+			<translation>请确认摄像头是否被遮挡</translation>
+		</message>
+		<message>
+			<source>LID_1429</source>
+			<translation>请检查泊车安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1430</source>
+			<translation>根据车辆状态及驾驶环境
+自动调节回收制动等级
+行驶中可长按右侧换挡拨片
+开启/关闭此功能</translation>
+		</message>
+		<message>
+			<source>LID_1432</source>
+			<translation>数字密钥（智能手机）</translation>
+		</message>
+		<message>
+			<source>LID_1433</source>
+			<translation>用户设置与数字密钥联动
+进行自动设置</translation>
+		</message>
+		<message>
+			<source>LID_1434</source>
+			<translation>使用数字密钥</translation>
+		</message>
+		<message>
+			<source>LID_1435</source>
+			<translation>激活数字密钥</translation>
+		</message>
+		<message>
+			<source>LID_1436</source>
+			<translation>通过数字密钥
+车门落锁/解锁
+或启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1437</source>
+			<translation>智能手机钥匙
+</translation>
+		</message>
+		<message>
+			<source>LID_1438</source>
+			<translation>登录或删除
+智能手机钥匙</translation>
+		</message>
+		<message>
+			<source>LID_1439</source>
+			<translation>卡片钥匙</translation>
+		</message>
+		<message>
+			<source>LID_1440</source>
+			<translation>登录或删除
+卡片钥匙</translation>
+		</message>
+		<message>
+			<source>LID_1441</source>
+			<translation>登录</translation>
+		</message>
+		<message>
+			<source>LID_1442</source>
+			<translation>删除</translation>
+		</message>
+		<message>
+			<source>LID_1443</source>
+			<translation>序列号</translation>
+		</message>
+		<message>
+			<source>LID_1444</source>
+			<translation>显示数字密钥序列号</translation>
+		</message>
+		<message>
+			<source>LID_1445</source>
+			<translation>请将要登录的设备
+放在无线充电器上</translation>
+		</message>
+		<message>
+			<source>LID_1446</source>
+			<translation>正在登录数字密钥</translation>
+		</message>
+		<message>
+			<source>LID_1447</source>
+			<translation>智能手机钥匙已登录</translation>
+		</message>
+		<message>
+			<source>LID_1448</source>
+			<translation>智能手机钥匙已删除</translation>
+		</message>
+		<message>
+			<source>LID_1450</source>
+			<translation>卡片钥匙已登录</translation>
+		</message>
+		<message>
+			<source>LID_1451</source>
+			<translation>卡片钥匙已删除</translation>
+		</message>
+		<message>
+			<source>LID_1452</source>
+			<translation>是否删除
+智能手机钥匙？</translation>
+		</message>
+		<message>
+			<source>LID_1453</source>
+			<translation>是否删除卡片钥匙？</translation>
+		</message>
+		<message>
+			<source>LID_1454</source>
+			<translation>请在需要登录的智能手机上
+按下确认键</translation>
+		</message>
+		<message>
+			<source>LID_1455</source>
+			<translation>请启动车辆再试</translation>
+		</message>
+		<message>
+			<source>LID_1456</source>
+			<translation>无法使用此设备</translation>
+		</message>
+		<message>
+			<source>LID_1457</source>
+			<translation>登录失败
+请确认手机信息</translation>
+		</message>
+		<message>
+			<source>LID_1458</source>
+			<translation>卡片无效</translation>
+		</message>
+		<message>
+			<source>LID_1459</source>
+			<translation>请激活数字密钥
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_1460</source>
+			<translation>无登录数字密钥
+请登录后再使用</translation>
+		</message>
+		<message>
+			<source>LID_1461</source>
+			<translation>是否解除个人信息联动？</translation>
+		</message>
+		<message>
+			<source>LID_1462</source>
+			<translation>个人信息联动已解除</translation>
+		</message>
+		<message>
+			<source>LID_1464</source>
+			<translation>数字密钥</translation>
+		</message>
+		<message>
+			<source>LID_1465</source>
+			<translation>指纹认证成功</translation>
+		</message>
+		<message>
+			<source>LID_1466</source>
+			<translation>高速公路驾驶辅助系统
+已解除</translation>
+		</message>
+		<message>
+			<source>LID_1467</source>
+			<translation>驾驶便利系统已解除</translation>
+		</message>
+		<message>
+			<source>LID_1468</source>
+			<translation>请注视前方安全驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1469</source>
+			<translation>请补充冷却液</translation>
+		</message>
+		<message>
+			<source>LID_1471</source>
+			<translation>电池已充满
+回收制动无法使用</translation>
+		</message>
+		<message>
+			<source>LID_1472</source>
+			<translation>当前环境无法使用
+换挡拨片回收制动</translation>
+		</message>
+		<message>
+			<source>LID_1473</source>
+			<translation>调节仪表板照明</translation>
+		</message>
+		<message>
+			<source>LID_1474</source>
+			<translation>地形模式受限</translation>
+		</message>
+		<message>
+			<source>LID_1475</source>
+			<translation>进入隧道时与导航联动
+自动切断空调外循环</translation>
+		</message>
+		<message>
+			<source>LID_1476</source>
+			<translation>斜坡上不支持
+远程前进/倒车功能</translation>
+		</message>
+		<message>
+			<source>LID_1478</source>
+			<translation>设置驾驶员注意力
+提示系统</translation>
+		</message>
+		<message>
+			<source>LID_1479</source>
+			<translation>外部环境导致
+摄像头视野受限
+智能前照灯系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1480</source>
+			<translation>斜坡导致系统已解除</translation>
+		</message>
+		<message>
+			<source>LID_1481</source>
+			<translation>Modern</translation>
+		</message>
+		<message>
+			<source>LID_1482</source>
+			<translation>Space</translation>
+		</message>
+		<message>
+			<source>LID_1483</source>
+			<translation>Edge</translation>
+		</message>
+		<message>
+			<source>LID_1484</source>
+			<translation>3D效果</translation>
+		</message>
+		<message>
+			<source>LID_1485</source>
+			<translation>3D仪表盘</translation>
+		</message>
+		<message>
+			<source>LID_1486</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_1487</source>
+			<translation>普通3D效果</translation>
+		</message>
+		<message>
+			<source>LID_1488</source>
+			<translation>强化3D效果</translation>
+		</message>
+		<message>
+			<source>LID_1489</source>
+			<translation>驾驶员疲劳状态警告</translation>
+		</message>
+		<message>
+			<source>LID_1490</source>
+			<translation>判断驾驶员疲劳度
+及是否疲劳驾驶发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1491</source>
+			<translation>未检测到
+智能钥匙或数字密钥</translation>
+		</message>
+		<message>
+			<source>LID_1492</source>
+			<translation>请将已登录的数字密钥
+放在无线充电器上
+按启动键</translation>
+		</message>
+		<message>
+			<source>LID_1493</source>
+			<translation>车辆已使用指纹启动</translation>
+		</message>
+		<message>
+			<source>LID_1494</source>
+			<translation>车辆已使用数字密钥启动</translation>
+		</message>
+		<message>
+			<source>LID_1495</source>
+			<translation>充电连接器锁止模式</translation>
+		</message>
+		<message>
+			<source>LID_1496</source>
+			<translation>选择充电连接器锁止模式</translation>
+		</message>
+		<message>
+			<source>LID_1497</source>
+			<translation>充电中锁止</translation>
+		</message>
+		<message>
+			<source>LID_1498</source>
+			<translation>始终锁止</translation>
+		</message>
+		<message>
+			<source>LID_1499</source>
+			<translation>不使用</translation>
+		</message>
+		<message>
+			<source>LID_1502</source>
+			<translation>自动调节高速驾驶速度</translation>
+		</message>
+		<message>
+			<source>LID_1504</source>
+			<translation>换挡旋钮照明颜色</translation>
+		</message>
+		<message>
+			<source>LID_1505</source>
+			<translation>换挡旋钮照明亮度</translation>
+		</message>
+		<message>
+			<source>LID_1506</source>
+			<translation>变速器温度高动力受限</translation>
+		</message>
+		<message>
+			<source>LID_1507</source>
+			<translation>无法换至N挡！
+请启动后重试</translation>
+		</message>
+		<message>
+			<source>LID_1509</source>
+			<translation>无设置路线</translation>
+		</message>
+		<message>
+			<source>LID_1510</source>
+			<translation>自动模式</translation>
+		</message>
+		<message>
+			<source>LID_1511</source>
+			<translation>注意驾驶警告</translation>
+		</message>
+		<message>
+			<source>LID_1513</source>
+			<translation>注视前方次数减少时警告</translation>
+		</message>
+		<message>
+			<source>LID_1514</source>
+			<translation>在高速公路限速区间/
+弯道/出入口自动减速，
+根据限速自动调节行驶速度</translation>
+		</message>
+		<message>
+			<source>LID_1515</source>
+			<translation>盲点碰撞警告系统已关闭</translation>
+		</message>
+		<message>
+			<source>LID_1516</source>
+			<translation>请启动后换挡</translation>
+		</message>
+		<message>
+			<source>LID_1517</source>
+			<translation>智能巡航控制与驾驶风格联动</translation>
+		</message>
+		<message>
+			<source>LID_1518</source>
+			<translation>智能巡航控制</translation>
+		</message>
+		<message>
+			<source>LID_1519</source>
+			<translation>设置智能巡航控制系统</translation>
+		</message>
+		<message>
+			<source>LID_1520</source>
+			<translation>驾驶风格联动</translation>
+		</message>
+		<message>
+			<source>LID_1521</source>
+			<translation>与驾驶风格联动
+调节智能巡航控制
+系统的反应速度，
+加速度及车间距离</translation>
+		</message>
+		<message>
+			<source>LID_1524</source>
+			<translation>加油后信息</translation>
+		</message>
+		<message>
+			<source>LID_1525</source>
+			<translation>编辑显示项目</translation>
+		</message>
+		<message>
+			<source>LID_1527</source>
+			<translation>进入</translation>
+		</message>
+		<message>
+			<source>LID_1528</source>
+			<translation>当前环境无法操作变道功能</translation>
+		</message>
+		<message>
+			<source>LID_1529</source>
+			<translation>车间距离</translation>
+		</message>
+		<message>
+			<source>LID_1530</source>
+			<translation>1阶段</translation>
+		</message>
+		<message>
+			<source>LID_1531</source>
+			<translation>2阶段</translation>
+		</message>
+		<message>
+			<source>LID_1532</source>
+			<translation>3阶段</translation>
+		</message>
+		<message>
+			<source>LID_1533</source>
+			<translation>4阶段</translation>
+		</message>
+		<message>
+			<source>LID_1535</source>
+			<translation>显示瞬时油耗表</translation>
+		</message>
+		<message>
+			<source>LID_1536</source>
+			<translation>显示瞬时油耗表</translation>
+		</message>
+		<message>
+			<source>LID_1537</source>
+			<translation>选择驾驶员注意力提示及
+前方安全系统等的警告时间</translation>
+		</message>
+		<message>
+			<source>LID_1538</source>
+			<translation>选择警告时间</translation>
+		</message>
+		<message>
+			<source>LID_1539</source>
+			<translation>调节驾驶员注意力提示及
+前方安全系统等的警告音量</translation>
+		</message>
+		<message>
+			<source>LID_1540</source>
+			<translation>调节警告音量</translation>
+		</message>
+		<message>
+			<source>LID_1541</source>
+			<translation>关闭警告音</translation>
+		</message>
+		<message>
+			<source>LID_1542</source>
+			<translation>调节
+前方安全系统等的
+方向盘震动警告
+强度</translation>
+		</message>
+		<message>
+			<source>LID_1543</source>
+			<translation>调节方向盘震动警告强度</translation>
+		</message>
+		<message>
+			<source>LID_1544</source>
+			<translation>关闭方向盘震动警告</translation>
+		</message>
+		<message>
+			<source>LID_1555</source>
+			<translation>稍后车辆将熄火
+请将数字密钥
+放在无线充电器上</translation>
+		</message>
+		<message>
+			<source>LID_1556</source>
+			<translation>请检查数字密钥系统</translation>
+		</message>
+		<message>
+			<source>LID_1557</source>
+			<translation>请检查影像记录系统</translation>
+		</message>
+		<message>
+			<source>LID_1558</source>
+			<translation>雪地模式启动受限</translation>
+		</message>
+		<message>
+			<source>LID_1559</source>
+			<translation>选择换挡旋钮照明颜色</translation>
+		</message>
+		<message>
+			<source>LID_1560</source>
+			<translation>调节换挡旋钮亮度</translation>
+		</message>
+		<message>
+			<source>LID_1563</source>
+			<translation>电动侧滑门</translation>
+		</message>
+		<message>
+			<source>LID_1564</source>
+			<translation>电动侧滑门
+可自动打开或关闭</translation>
+		</message>
+		<message>
+			<source>LID_1565</source>
+			<translation>换挡杆无法回位</translation>
+		</message>
+		<message>
+			<source>LID_1567</source>
+			<translation>请踩刹车踏板
+并调整换挡杆</translation>
+		</message>
+		<message>
+			<source>LID_1569</source>
+			<translation>前方交通碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1570</source>
+			<translation>大灯未打开</translation>
+		</message>
+		<message>
+			<source>LID_1571</source>
+			<translation>请停车后操作</translation>
+		</message>
+		<message>
+			<source>LID_1572</source>
+			<translation>限滑差速器已暂停
+请检查全部轮胎是否相同</translation>
+		</message>
+		<message>
+			<source>LID_1573</source>
+			<translation>当前环境无法登录卡片钥匙
+请参照用户使用手册</translation>
+		</message>
+		<message>
+			<source>LID_1574</source>
+			<translation>已取消登录</translation>
+		</message>
+		<message>
+			<source>LID_1575</source>
+			<translation>数字密钥已登录</translation>
+		</message>
+		<message>
+			<source>LID_1576</source>
+			<translation>指纹已登录</translation>
+		</message>
+		<message>
+			<source>LID_1577</source>
+			<translation>盲点碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1578</source>
+			<translation>请检查指纹认证系统</translation>
+		</message>
+		<message>
+			<source>LID_1579</source>
+			<translation>请检查挂车制动灯</translation>
+		</message>
+		<message>
+			<source>LID_1580</source>
+			<translation>请检查挂车
+左侧方向指示灯</translation>
+		</message>
+		<message>
+			<source>LID_1581</source>
+			<translation>请检查挂车
+右侧方向指示灯</translation>
+		</message>
+		<message>
+			<source>LID_1582</source>
+			<translation>请检查挂车左侧尾灯</translation>
+		</message>
+		<message>
+			<source>LID_1583</source>
+			<translation>请检查挂车右侧尾灯</translation>
+		</message>
+		<message>
+			<source>LID_1584</source>
+			<translation>开始排水</translation>
+		</message>
+		<message>
+			<source>LID_1585</source>
+			<translation>排水已完成</translation>
+		</message>
+		<message>
+			<source>LID_1586</source>
+			<translation>排水已中断</translation>
+		</message>
+		<message>
+			<source>LID_1587</source>
+			<translation>当前环境无法
+启动排水功能</translation>
+		</message>
+		<message>
+			<source>LID_1588</source>
+			<translation>高转速时切换挡位
+易造成发动机与变速器损伤</translation>
+		</message>
+		<message>
+			<source>LID_1591</source>
+			<translation>请检查后视镜警告灯</translation>
+		</message>
+		<message>
+			<source>LID_1592</source>
+			<translation>盲点安全系统已关闭</translation>
+		</message>
+		<message>
+			<source>LID_1593</source>
+			<translation>盲点安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1594</source>
+			<translation>请检查智能前照灯系统</translation>
+		</message>
+		<message>
+			<source>LID_1595</source>
+			<translation>牵引模式受限</translation>
+		</message>
+		<message>
+			<source>LID_1596</source>
+			<translation>云听</translation>
+		</message>
+		<message>
+			<source>LID_1597</source>
+			<translation>变更至设定2</translation>
+		</message>
+		<message>
+			<source>LID_1598</source>
+			<translation>已保存设定2</translation>
+		</message>
+		<message>
+			<source>LID_1599</source>
+			<translation>环绕检测器自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1600</source>
+			<translation>当启用泊车距离警告时，
+将自动启用环绕检测器</translation>
+		</message>
+		<message>
+			<source>LID_1601</source>
+			<translation>To find Service Interval
+information&#44; go to:
+Genesis Connected
+Services &#62; Maintenance</translation>
+		</message>
+		<message>
+			<source>LID_1602</source>
+			<translation>To find Service Interval
+information&#44; go to:
+Blue Link &#62; Maintenance</translation>
+		</message>
+		<message>
+			<source>LID_1603</source>
+			<translation>To find Service Interval
+information&#44; go to:
+UVO &#62; Maintenance</translation>
+		</message>
+		<message>
+			<source>LID_1604</source>
+			<translation>行李箱开启高度 </translation>
+		</message>
+		<message>
+			<source>LID_1605</source>
+			<translation>行李箱开启速度 </translation>
+		</message>
+		<message>
+			<source>LID_1606</source>
+			<translation>电动尾门开启速度 </translation>
+		</message>
+		<message>
+			<source>LID_1607</source>
+			<translation>电动尾门开启高度</translation>
+		</message>
+		<message>
+			<source>LID_1608</source>
+			<translation>选择行李箱自动
+移动的高度</translation>
+		</message>
+		<message>
+			<source>LID_1609</source>
+			<translation>选择行李箱自动
+移动的速度</translation>
+		</message>
+		<message>
+			<source>LID_1610</source>
+			<translation>新能源</translation>
+		</message>
+		<message>
+			<source>LID_1611</source>
+			<translation>Polar White</translation>
+		</message>
+		<message>
+			<source>LID_1612</source>
+			<translation>Moon White</translation>
+		</message>
+		<message>
+			<source>LID_1613</source>
+			<translation>Ice Blue</translation>
+		</message>
+		<message>
+			<source>LID_1614</source>
+			<translation>Ocean Blue</translation>
+		</message>
+		<message>
+			<source>LID_1615</source>
+			<translation>Jade Green</translation>
+		</message>
+		<message>
+			<source>LID_1616</source>
+			<translation>Orchid Green</translation>
+		</message>
+		<message>
+			<source>LID_1617</source>
+			<translation>Freesia Yellow</translation>
+		</message>
+		<message>
+			<source>LID_1618</source>
+			<translation>Sunrise Red</translation>
+		</message>
+		<message>
+			<source>LID_1619</source>
+			<translation>Aurora Purple</translation>
+		</message>
+		<message>
+			<source>LID_1620</source>
+			<translation>Lightning Violet</translation>
+		</message>
+		<message>
+			<source>LID_1621</source>
+			<translation>Blue Flight</translation>
+		</message>
+		<message>
+			<source>LID_1622</source>
+			<translation>Peaceful Forest</translation>
+		</message>
+		<message>
+			<source>LID_1623</source>
+			<translation>Dreamy Purple</translation>
+		</message>
+		<message>
+			<source>LID_1624</source>
+			<translation>Aurora Violet</translation>
+		</message>
+		<message>
+			<source>LID_1625</source>
+			<translation>Orange Delight</translation>
+		</message>
+		<message>
+			<source>LID_1626</source>
+			<translation>Golden Insight</translation>
+		</message>
+		<message>
+			<source>LID_1627</source>
+			<translation>Refreshing Sea</translation>
+		</message>
+		<message>
+			<source>LID_1628</source>
+			<translation>车道保持辅助系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1629</source>
+			<translation>由于未握紧方向盘
+车道跟踪辅助系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1630</source>
+			<translation>请检查智能钥匙系统</translation>
+		</message>
+		<message>
+			<source>LID_1631</source>
+			<translation>请检查车门系统</translation>
+		</message>
+		<message>
+			<source>LID_1632</source>
+			<translation>请检查行李箱/尾门系统</translation>
+		</message>
+		<message>
+			<source>LID_1633</source>
+			<translation>请踩刹车踏板
+解除驻车制动</translation>
+		</message>
+		<message>
+			<source>LID_1634</source>
+			<translation>请检查太阳能充电系统</translation>
+		</message>
+		<message>
+			<source>LID_1635</source>
+			<translation>驾驶模式联动</translation>
+		</message>
+		<message>
+			<source>LID_1637</source>
+			<translation>驾驶风格联动</translation>
+		</message>
+		<message>
+			<source>LID_1640</source>
+			<translation>展示驾驶风格分析结果</translation>
+		</message>
+		<message>
+			<source>LID_1641</source>
+			<translation>车间距离</translation>
+		</message>
+		<message>
+			<source>LID_1642</source>
+			<translation>可手动修改
+根据驾驶风格
+模拟的车间距离
+</translation>
+		</message>
+		<message>
+			<source>LID_1643</source>
+			<translation>近</translation>
+		</message>
+		<message>
+			<source>LID_1644</source>
+			<translation>远</translation>
+		</message>
+		<message>
+			<source>LID_1645</source>
+			<translation>加速强度</translation>
+		</message>
+		<message>
+			<source>LID_1646</source>
+			<translation>可手动修改
+根据驾驶风格
+模拟的加速强度</translation>
+		</message>
+		<message>
+			<source>LID_1649</source>
+			<translation>反应速度</translation>
+		</message>
+		<message>
+			<source>LID_1650</source>
+			<translation>可手动修改
+根据驾驶风格
+模拟的反应速度</translation>
+		</message>
+		<message>
+			<source>LID_1651</source>
+			<translation>慢</translation>
+		</message>
+		<message>
+			<source>LID_1652</source>
+			<translation>快</translation>
+		</message>
+		<message>
+			<source>LID_1653</source>
+			<translation>重置</translation>
+		</message>
+		<message>
+			<source>LID_1654</source>
+			<translation>重置驾驶风格分析结果</translation>
+		</message>
+		<message>
+			<source>LID_1655</source>
+			<translation>
+为保证安全驾驶
+关闭警告音时
+方向盘震动警告
+功能将自动激活</translation>
+		</message>
+		<message>
+			<source>LID_1656</source>
+			<translation>为保证安全驾驶
+关闭方向盘震动警告时
+警告音功能将自动激活</translation>
+		</message>
+		<message>
+			<source>LID_1657</source>
+			<translation>请检查周围环境</translation>
+		</message>
+		<message>
+			<source>LID_1658</source>
+			<translation>当前环境无法变道</translation>
+		</message>
+		<message>
+			<source>LID_1659</source>
+			<translation>未检测到车道</translation>
+		</message>
+		<message>
+			<source>LID_1660</source>
+			<translation>急转弯路段</translation>
+		</message>
+		<message>
+			<source>LID_1661</source>
+			<translation>车道过窄</translation>
+		</message>
+		<message>
+			<source>LID_1662</source>
+			<translation>当前路段无法工作</translation>
+		</message>
+		<message>
+			<source>LID_1663</source>
+			<translation>危险警告灯已开启</translation>
+		</message>
+		<message>
+			<source>LID_1664</source>
+			<translation>车速过慢</translation>
+		</message>
+		<message>
+			<source>LID_1665</source>
+			<translation>车道跟踪辅助系统已解除</translation>
+		</message>
+		<message>
+			<source>LID_1666</source>
+			<translation>请握紧方向盘</translation>
+		</message>
+		<message>
+			<source>LID_1667</source>
+			<translation>不可变道</translation>
+		</message>
+		<message>
+			<source>LID_1668</source>
+			<translation>请小心驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1669</source>
+			<translation>请检查变道辅助功能</translation>
+		</message>
+		<message>
+			<source>LID_1670</source>
+			<translation>车内摄像头被遮挡
+注视前方警告系统
+受限</translation>
+		</message>
+		<message>
+			<source>LID_1672</source>
+			<translation>限速</translation>
+		</message>
+		<message>
+			<source>LID_1673</source>
+			<translation>设置限速系统</translation>
+		</message>
+		<message>
+			<source>LID_1674</source>
+			<translation>限速范围设置</translation>
+		</message>
+		<message>
+			<source>LID_1675</source>
+			<translation>调整限速范围</translation>
+		</message>
+		<message>
+			<source>LID_1676</source>
+			<translation>自动调节车速</translation>
+		</message>
+		<message>
+			<source>LID_1677</source>
+			<translation>根据当前限速
+自动调节车速</translation>
+		</message>
+		<message>
+			<source>LID_1678</source>
+			<translation>限速辅助</translation>
+		</message>
+		<message>
+			<source>LID_1679</source>
+			<translation>限速系统</translation>
+		</message>
+		<message>
+			<source>LID_1680</source>
+			<translation>请检查限速系统</translation>
+		</message>
+		<message>
+			<source>LID_1681</source>
+			<translation>外部环境导致
+摄像头视野受限
+限速系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1682</source>
+			<translation>前方交通碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1683</source>
+			<translation>请检查盲点安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1684</source>
+			<translation>外部环境导致
+雷达探测受限
+盲点安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1685</source>
+			<translation>请检查
+后方交叉交通安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1686</source>
+			<translation>外部环境导致雷达探测受限
+后方交叉交通安全系统
+已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1687</source>
+			<translation>注视前方警告</translation>
+		</message>
+		<message>
+			<source>LID_1688</source>
+			<translation>限速已变更</translation>
+		</message>
+		<message>
+			<source>LID_1689</source>
+			<translation>设置速度已变更</translation>
+		</message>
+		<message>
+			<source>LID_1690</source>
+			<translation>限速自动变更
+可操作+/-开关取消</translation>
+		</message>
+		<message>
+			<source>LID_1691</source>
+			<translation>设置速度自动变更
+可操作+/-开关取消</translation>
+		</message>
+		<message>
+			<source>LID_1692</source>
+			<translation>外部环境导致
+摄像头视野受限
+限速显示已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1693</source>
+			<translation>请检查限速显示辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_1694</source>
+			<translation>限速显示系统关闭</translation>
+		</message>
+		<message>
+			<source>LID_1695</source>
+			<translation>确保高速道路上安全驾驶
+利用导航信息自动调节车速
+</translation>
+		</message>
+		<message>
+			<source>LID_1701</source>
+			<translation>外部环境导致雷达探测受限
+前方安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1702</source>
+			<translation>外部环境导致
+摄像头视野受限
+前方安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1703</source>
+			<translation>根据当前行驶路段
+限速情况调节车速</translation>
+		</message>
+		<message>
+			<source>LID_1704</source>
+			<translation>限速功能关闭</translation>
+		</message>
+		<message>
+			<source>LID_1705</source>
+			<translation>外部环境导致
+摄像头视野受限
+前方安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1706</source>
+			<translation>由于未握紧方向盘
+自动行驶速度受限</translation>
+		</message>
+		<message>
+			<source>LID_1707</source>
+			<translation>外部环境导致雷达探测受限
+盲点安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1708</source>
+			<translation>设置前方安全系统的
+方向盘震动警告</translation>
+		</message>
+		<message>
+			<source>LID_1709</source>
+			<translation>请检查注视前方警告系统</translation>
+		</message>
+		<message>
+			<source>LID_1710</source>
+			<translation>仪表盘显示具有3D效果</translation>
+		</message>
+		<message>
+			<source>LID_1711</source>
+			<translation>Vehicle Auto-Shut Off</translation>
+		</message>
+		<message>
+			<source>LID_1712</source>
+			<translation>Selects the time to delay
+automatic shut off
+when the vehicle is
+parked with its
+engine on.</translation>
+		</message>
+		<message>
+			<source>LID_1713</source>
+			<translation>60 min.</translation>
+		</message>
+		<message>
+			<source>LID_1714</source>
+			<translation>30 min.</translation>
+		</message>
+		<message>
+			<source>LID_1715</source>
+			<translation>适用于 VESS 的声音控制功能和自动模式</translation>
+		</message>
+		<message>
+			<source>LID_1716</source>
+			<translation>可以选择虚拟发动机
+声音系统的音量级别</translation>
+		</message>
+		<message>
+			<source>LID_1717</source>
+			<translation>车辆将自动熄火</translation>
+		</message>
+		<message>
+			<source>LID_1718</source>
+			<translation>防止疲劳辅助功能已结束</translation>
+		</message>
+		<message>
+			<source>LID_1719</source>
+			<translation>防止疲劳辅助功能已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1720</source>
+			<translation>开启坐姿辅助功能</translation>
+		</message>
+		<message>
+			<source>LID_1721</source>
+			<translation>请踩刹车踏板
+切换至N挡保持1秒以上</translation>
+		</message>
+		<message>
+			<source>LID_1722</source>
+			<translation>请关闭行李箱后再设置</translation>
+		</message>
+		<message>
+			<source>LID_1723</source>
+			<translation>电池信息</translation>
+		</message>
+		<message>
+			<source>LID_1724</source>
+			<translation>慢充</translation>
+		</message>
+		<message>
+			<source>LID_1725</source>
+			<translation>快充</translation>
+		</message>
+		<message>
+			<source>LID_1726</source>
+			<translation>当前环境无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1727</source>
+			<translation>电池充电中
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1728</source>
+			<translation>斜坡道路无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1729</source>
+			<translation>工作温度范围外
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1730</source>
+			<translation>当前驾驶模式
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1731</source>
+			<translation>机舱盖未关
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1732</source>
+			<translation>车门未关
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1733</source>
+			<translation>安全带未系
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1734</source>
+			<translation>方向盘未归正
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1735</source>
+			<translation>车速过低无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1736</source>
+			<translation>非D或N挡
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1737</source>
+			<translation>非空挡无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1738</source>
+			<translation>当前环境无法进入怠速启停
+请用力踩刹车</translation>
+		</message>
+		<message>
+			<source>LID_1739</source>
+			<translation>前方车辆已出发
+自动启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1740</source>
+			<translation>Auto Stop paused.
+STOP sign detected.</translation>
+		</message>
+		<message>
+			<source>LID_1741</source>
+			<translation>Auto Stop paused.
+YIELD sign detected.</translation>
+		</message>
+		<message>
+			<source>LID_1742</source>
+			<translation>Auto Stop paused.
+Roundabout sign 
+detected.</translation>
+		</message>
+		<message>
+			<source>LID_1744</source>
+			<translation>请切换至低挡位行驶</translation>
+		</message>
+		<message>
+			<source>LID_1745</source>
+			<translation>请切换至N挡启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1746</source>
+			<translation>提醒驾驶员
+后座乘客未下车</translation>
+		</message>
+		<message>
+			<source>LID_1748</source>
+			<translation>设置为N模式时
+前方安全功能将自动关闭</translation>
+		</message>
+		<message>
+			<source>LID_1749</source>
+			<translation>变速器过热</translation>
+		</message>
+		<message>
+			<source>LID_1750</source>
+			<translation>外部环境导致
+雷达探测受限
+前方安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_1751</source>
+			<translation>DRIVE</translation>
+		</message>
+		<message>
+			<source>LID_1752</source>
+			<translation>TERRAIN</translation>
+		</message>
+		<message>
+			<source>LID_1753</source>
+			<translation>主题A</translation>
+		</message>
+		<message>
+			<source>LID_1754</source>
+			<translation>主题B</translation>
+		</message>
+		<message>
+			<source>LID_1755</source>
+			<translation>主题C</translation>
+		</message>
+		<message>
+			<source>LID_1756</source>
+			<translation>主题D</translation>
+		</message>
+		<message>
+			<source>LID_1757</source>
+			<translation>开启</translation>
+		</message>
+		<message>
+			<source>LID_1758</source>
+			<translation>喜马拉雅FM</translation>
+		</message>
+		<message>
+			<source>LID_1759</source>
+			<translation>请安全停车后熄火
+检查电机驱动系统</translation>
+		</message>
+		<message>
+			<source>LID_1760</source>
+			<translation>显示平均油耗</translation>
+		</message>
+		<message>
+			<source>LID_1761</source>
+			<translation>启动后油耗</translation>
+		</message>
+		<message>
+			<source>LID_1762</source>
+			<translation>加油后油耗</translation>
+		</message>
+		<message>
+			<source>LID_1763</source>
+			<translation>累计油耗</translation>
+		</message>
+		<message>
+			<source>LID_1764</source>
+			<translation>不显示</translation>
+		</message>
+		<message>
+			<source>LID_1765</source>
+			<translation>显示平均油耗</translation>
+		</message>
+		<message>
+			<source>LID_1766</source>
+			<translation>请检查后轮转向系统</translation>
+		</message>
+		<message>
+			<source>LID_1778</source>
+			<translation>请确认车内温度与换气状态</translation>
+		</message>
+		<message>
+			<source>LID_1779</source>
+			<translation>安全下车警告</translation>
+		</message>
+		<message>
+			<source>LID_1780</source>
+			<translation>下车时与后侧方车辆
+有碰撞危险时发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1781</source>
+			<translation>下车时与后侧方
+车辆有碰撞危险时
+警告并锁止车门</translation>
+		</message>
+		<message>
+			<source>LID_1782</source>
+			<translation>高速公路变道辅助</translation>
+		</message>
+		<message>
+			<source>LID_1783</source>
+			<translation>防盗系统</translation>
+		</message>
+		<message>
+			<source>LID_1785</source>
+			<translation>自然之声</translation>
+		</message>
+		<message>
+			<source>LID_1786</source>
+			<translation>智能坐姿</translation>
+		</message>
+		<message>
+			<source>LID_1787</source>
+			<translation>车辆锁止后
+探测到车内动静
+将发出警告音</translation>
+		</message>
+		<message>
+			<source>LID_1788</source>
+			<translation>Melon</translation>
+		</message>
+		<message>
+			<source>LID_1789</source>
+			<translation>genie music</translation>
+		</message>
+		<message>
+			<source>LID_1790</source>
+			<translation>滑行</translation>
+		</message>
+		<message>
+			<source>LID_1791</source>
+			<translation>制动</translation>
+		</message>
+		<message>
+			<source>LID_1792</source>
+			<translation>选择刹车踏板的反应速度</translation>
+		</message>
+		<message>
+			<source>LID_1793</source>
+			<translation>全开</translation>
+		</message>
+		<message>
+			<source>LID_1794</source>
+			<translation>半开</translation>
+		</message>
+		<message>
+			<source>LID_1795</source>
+			<translation>用户高度设置</translation>
+		</message>
+		<message>
+			<source>LID_1796</source>
+			<translation>选择电动行李箱
+自动移动时的高度</translation>
+		</message>
+		<message>
+			<source>LID_1797</source>
+			<translation>仪表盘</translation>
+		</message>
+		<message>
+			<source>LID_1798</source>
+			<translation>单位</translation>
+		</message>
+		<message>
+			<source>LID_1799</source>
+			<translation>智能侧滑门</translation>
+		</message>
+		<message>
+			<source>LID_1800</source>
+			<translation>携带智能钥匙靠近侧滑门时
+侧滑门将自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1801</source>
+			<translation>尾门自动关闭</translation>
+		</message>
+		<message>
+			<source>LID_1802</source>
+			<translation>携带智能钥匙
+远离车辆后方时
+尾门将自动关闭</translation>
+		</message>
+		<message>
+			<source>LID_1803</source>
+			<translation>N挡泊车时
+请启动后解除
+AUTO HOLD及驻车制动</translation>
+		</message>
+		<message>
+			<source>LID_1804</source>
+			<translation>N模式驾驶安全自动关闭</translation>
+		</message>
+		<message>
+			<source>LID_1805</source>
+			<translation>选择N模式时
+将自动关闭驾驶安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1806</source>
+			<translation>请按OK键
+关闭前方安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1807</source>
+			<translation>请按OK键
+关闭车道安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1808</source>
+			<translation>请按OK键开启
+高速公路驾驶辅助</translation>
+		</message>
+		<message>
+			<source>LID_1809</source>
+			<translation>请按OK键开启变道辅助</translation>
+		</message>
+		<message>
+			<source>LID_1810</source>
+			<translation>限速</translation>
+		</message>
+		<message>
+			<source>LID_1811</source>
+			<translation>请检查主动降噪系统</translation>
+		</message>
+		<message>
+			<source>LID_1812</source>
+			<translation>为保证安全驾驶
+关闭警告音时
+方向盘震动警告
+功能将自动激活</translation>
+		</message>
+		<message>
+			<source>LID_1813</source>
+			<translation>为保证安全驾驶
+关闭方向盘震动警告时
+警告音功能将自动激活</translation>
+		</message>
+		<message>
+			<source>LID_1814</source>
+			<translation>室内通风提示</translation>
+		</message>
+		<message>
+			<source>LID_1815</source>
+			<translation>前座靠背向后倾斜休息时，
+大约1小时后提示室内通风</translation>
+		</message>
+		<message>
+			<source>LID_1816</source>
+			<translation>紧急制动即将解除
+请踩刹车踏板</translation>
+		</message>
+		<message>
+			<source>LID_1817</source>
+			<translation>选择电动尾门开启高度</translation>
+		</message>
+		<message>
+			<source>LID_1818</source>
+			<translation>请踩刹车及离合
+踏板启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1819</source>
+			<translation>更换机油提示</translation>
+		</message>
+		<message>
+			<source>LID_1820</source>
+			<translation>显示机油寿命
+更换机油后请务必重置</translation>
+		</message>
+		<message>
+			<source>LID_1821</source>
+			<translation>机油寿命</translation>
+		</message>
+		<message>
+			<source>LID_1822</source>
+			<translation>车辆需要更换机油
+更换后请重置</translation>
+		</message>
+		<message>
+			<source>LID_1823</source>
+			<translation>请立即更换机油
+更换后请重置</translation>
+		</message>
+		<message>
+			<source>LID_1824</source>
+			<translation>根据驾驶模式
+调节智能巡航控制
+系统的加速强度及反应速度</translation>
+		</message>
+		<message>
+			<source>LID_1825</source>
+			<translation>根据个人驾驶风格
+自动调节智能巡航控制系统
+的车间距离、加速强度及
+反应速度</translation>
+		</message>
+		<message>
+			<source>LID_1826</source>
+			<translation>显示根据驾驶风格
+分析出的结果
+并可手动调整</translation>
+		</message>
+		<message>
+			<source>LID_1827</source>
+			<translation>展示根据驾驶风格
+模拟的车间距离</translation>
+		</message>
+		<message>
+			<source>LID_1828</source>
+			<translation>展示根据驾驶风格
+模拟的加速强度</translation>
+		</message>
+		<message>
+			<source>LID_1829</source>
+			<translation>展示根据驾驶风格
+模拟的反应速度</translation>
+		</message>
+		<message>
+			<source>LID_1830</source>
+			<translation>驾驶便利信息</translation>
+		</message>
+		<message>
+			<source>LID_1831</source>
+			<translation>驾驶便利</translation>
+		</message>
+		<message>
+			<source>LID_1832</source>
+			<translation>设置驾驶便利系统</translation>
+		</message>
+		<message>
+			<source>LID_1833</source>
+			<translation>摄像头设置</translation>
+		</message>
+		<message>
+			<source>LID_1834</source>
+			<translation>设置摄像头</translation>
+		</message>
+		<message>
+			<source>LID_1835</source>
+			<translation>前方/侧方安全</translation>
+		</message>
+		<message>
+			<source>LID_1836</source>
+			<translation>前方或侧方有碰撞危险时
+通过警告并控制车辆
+辅助防撞进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1837</source>
+			<translation>后方防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1838</source>
+			<translation>倒车中有碰撞危险时
+通过警告并控制车辆
+进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1839</source>
+			<translation>后方碰撞警告</translation>
+		</message>
+		<message>
+			<source>LID_1840</source>
+			<translation>倒车中
+有碰撞危险时发出警告</translation>
+		</message>
+		<message>
+			<source>LID_1841</source>
+			<translation>是否重置机油寿命？</translation>
+		</message>
+		<message>
+			<source>LID_1842</source>
+			<translation>机油寿命已重置</translation>
+		</message>
+		<message>
+			<source>LID_1843</source>
+			<translation>未重置机油寿命</translation>
+		</message>
+		<message>
+			<source>LID_1844</source>
+			<translation>请将智能钥匙
+放入紧急启动槽内
+并按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_1846</source>
+			<translation>当前环境无法进入
+N Grin Shift</translation>
+		</message>
+		<message>
+			<source>LID_1847</source>
+			<translation>健康管理</translation>
+		</message>
+		<message>
+			<source>LID_1848</source>
+			<translation>BPM</translation>
+		</message>
+		<message>
+			<source>LID_1849</source>
+			<translation>正在检测</translation>
+		</message>
+		<message>
+			<source>LID_1850</source>
+			<translation>双手握住方向盘
+将开始检测</translation>
+		</message>
+		<message>
+			<source>LID_1851</source>
+			<translation>疲劳等级</translation>
+		</message>
+		<message>
+			<source>LID_1852</source>
+			<translation>请检查亚健康检测系统</translation>
+		</message>
+		<message>
+			<source>LID_1855</source>
+			<translation>保持N挡模式
+请长按方向盘OK键</translation>
+		</message>
+		<message>
+			<source>LID_1856</source>
+			<translation>左前轮胎气压低！
+请检查全部轮胎后
+长按3秒胎压SET键</translation>
+		</message>
+		<message>
+			<source>LID_1857</source>
+			<translation>右前轮胎气压低！
+请检查全部轮胎后
+长按3秒胎压SET键</translation>
+		</message>
+		<message>
+			<source>LID_1858</source>
+			<translation>左后轮胎气压低！
+请检查全部轮胎后
+长按3秒胎压SET键</translation>
+		</message>
+		<message>
+			<source>LID_1859</source>
+			<translation>右后轮胎气压低！
+请检查全部轮胎后
+长按3秒胎压SET键</translation>
+		</message>
+		<message>
+			<source>LID_1860</source>
+			<translation>怠速模式</translation>
+		</message>
+		<message>
+			<source>LID_1861</source>
+			<translation>混合动力行驶</translation>
+		</message>
+		<message>
+			<source>LID_1862</source>
+			<translation>发动机行驶</translation>
+		</message>
+		<message>
+			<source>LID_1863</source>
+			<translation>发动机制动</translation>
+		</message>
+		<message>
+			<source>LID_1864</source>
+			<translation>电动机行驶</translation>
+		</message>
+		<message>
+			<source>LID_1865</source>
+			<translation>正在充电</translation>
+		</message>
+		<message>
+			<source>LID_1867</source>
+			<translation>变更至设定3</translation>
+		</message>
+		<message>
+			<source>LID_1868</source>
+			<translation>已保存设定3</translation>
+		</message>
+		<message>
+			<source>LID_1870</source>
+			<translation>请检查充电接口</translation>
+		</message>
+		<message>
+			<source>LID_1871</source>
+			<translation>挂车模式已开启
+动力受限或手动换挡受限</translation>
+		</message>
+		<message>
+			<source>LID_1872</source>
+			<translation>柴油滤清器
+需要再生详情参照
+用户使用手册</translation>
+		</message>
+		<message>
+			<source>LID_1873</source>
+			<translation>当前环境无法再生
+详情参照用户使用手册
+</translation>
+		</message>
+		<message>
+			<source>LID_1874</source>
+			<translation>再生已中断</translation>
+		</message>
+		<message>
+			<source>LID_1875</source>
+			<translation>正在再生</translation>
+		</message>
+		<message>
+			<source>LID_1876</source>
+			<translation>再生已完成请重新启动</translation>
+		</message>
+		<message>
+			<source>LID_1877</source>
+			<translation>触控模式</translation>
+		</message>
+		<message>
+			<source>LID_1878</source>
+			<translation>请稍候油箱盖正在解锁</translation>
+		</message>
+		<message>
+			<source>LID_1879</source>
+			<translation>油箱盖已解锁</translation>
+		</message>
+		<message>
+			<source>LID_1880</source>
+			<translation>无法开启限速系统</translation>
+		</message>
+		<message>
+			<source>LID_1881</source>
+			<translation>限速系统已解除</translation>
+		</message>
+		<message>
+			<source>LID_1882</source>
+			<translation>检测到方向盘操作</translation>
+		</message>
+		<message>
+			<source>LID_1883</source>
+			<translation>泊车安全系统开启</translation>
+		</message>
+		<message>
+			<source>LID_1884</source>
+			<translation>泊车安全系统关闭</translation>
+		</message>
+		<message>
+			<source>LID_1885</source>
+			<translation>驾驶员上车前
+后门开启并关闭后
+下车时提示确认
+后座乘客与物品</translation>
+		</message>
+		<message>
+			<source>LID_1886</source>
+			<translation>充电后能耗</translation>
+		</message>
+		<message>
+			<source>LID_1887</source>
+			<translation>为保护蓄电池
+车辆将关闭电源</translation>
+		</message>
+		<message>
+			<source>LID_1888</source>
+			<translation>探测到前方道路不平
+请小心驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1889</source>
+			<translation>探测到前方道路湿滑
+请小心驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1890</source>
+			<translation>背景画面选择</translation>
+		</message>
+		<message>
+			<source>LID_1891</source>
+			<translation>显示选择的背景画面</translation>
+		</message>
+		<message>
+			<source>LID_1892</source>
+			<translation>背景画面A</translation>
+		</message>
+		<message>
+			<source>LID_1893</source>
+			<translation>背景画面B</translation>
+		</message>
+		<message>
+			<source>LID_1894</source>
+			<translation>背景画面C</translation>
+		</message>
+		<message>
+			<source>LID_1895</source>
+			<translation>请检查门锁装置</translation>
+		</message>
+		<message>
+			<source>LID_1896</source>
+			<translation>请用紧急操纵杆打开车门</translation>
+		</message>
+		<message>
+			<source>LID_1897</source>
+			<translation>再拉动紧急操纵杆门将开启</translation>
+		</message>
+		<message>
+			<source>LID_1898</source>
+			<translation>靠近车辆时门开启</translation>
+		</message>
+		<message>
+			<source>LID_1899</source>
+			<translation>携带智能钥匙
+靠近车辆时
+主驾车门将自动开启</translation>
+		</message>
+		<message>
+			<source>LID_1900</source>
+			<translation>遥控开启电动门及尾门</translation>
+		</message>
+		<message>
+			<source>LID_1901</source>
+			<translation>长按3秒智能钥匙解锁键
+同时开启电动门及尾门
+</translation>
+		</message>
+		<message>
+			<source>LID_1902</source>
+			<translation>开启尾门及两侧滑动门
+</translation>
+		</message>
+		<message>
+			<source>LID_1903</source>
+			<translation>长按3秒智能钥匙解锁键
+同时开启尾门及两侧滑动门
+</translation>
+		</message>
+		<message>
+			<source>LID_1904</source>
+			<translation>开启两侧滑动门</translation>
+		</message>
+		<message>
+			<source>LID_1905</source>
+			<translation>长按3秒智能钥匙解锁键
+同时开启两侧滑动门
+</translation>
+		</message>
+		<message>
+			<source>LID_1906</source>
+			<translation>不使用遥控开门功能</translation>
+		</message>
+		<message>
+			<source>LID_1907</source>
+			<translation>显示转速表</translation>
+		</message>
+		<message>
+			<source>LID_1908</source>
+			<translation>选择驾驶模式时
+显示发动机转速表</translation>
+		</message>
+		<message>
+			<source>LID_1909</source>
+			<translation>单踏板</translation>
+		</message>
+		<message>
+			<source>LID_1910</source>
+			<translation>只通过单踏板模式
+操控车辆
+加速/减速/停车</translation>
+		</message>
+		<message>
+			<source>LID_1911</source>
+			<translation>Classic A</translation>
+		</message>
+		<message>
+			<source>LID_1912</source>
+			<translation>Classic B</translation>
+		</message>
+		<message>
+			<source>LID_1913</source>
+			<translation>Classic C</translation>
+		</message>
+		<message>
+			<source>LID_1914</source>
+			<translation>Cube</translation>
+		</message>
+		<message>
+			<source>LID_1915</source>
+			<translation>Dynamic</translation>
+		</message>
+		<message>
+			<source>LID_1916</source>
+			<translation>充电后信息</translation>
+		</message>
+		<message>
+			<source>LID_1917</source>
+			<translation>请检查数字后视镜</translation>
+		</message>
+		<message>
+			<source>LID_1918</source>
+			<translation>请认证指纹保持启动状态</translation>
+		</message>
+		<message>
+			<source>LID_1919</source>
+			<translation>请将数字密钥放在
+无线充电器上或
+进行指纹认证</translation>
+		</message>
+		<message>
+			<source>LID_1920</source>
+			<translation>认证指纹后按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_1921</source>
+			<translation>认证数字密钥或
+指纹后按下启动键</translation>
+		</message>
+		<message>
+			<source>LID_1922</source>
+			<translation>X秒内
+按下启动键启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1923</source>
+			<translation>未检测到钥匙</translation>
+		</message>
+		<message>
+			<source>LID_1924</source>
+			<translation>请检查仪表盘</translation>
+		</message>
+		<message>
+			<source>LID_1925</source>
+			<translation>请检查刹车片
+再启动高性能模式
+</translation>
+		</message>
+		<message>
+			<source>LID_1926</source>
+			<translation>挂车已连接</translation>
+		</message>
+		<message>
+			<source>LID_1927</source>
+			<translation>泊车防止碰撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_1928</source>
+			<translation>请检查车道安全系统</translation>
+		</message>
+		<message>
+			<source>LID_1929</source>
+			<translation>禁止进入！
+请确认单行道行驶方向</translation>
+		</message>
+		<message>
+			<source>LID_1930</source>
+			<translation>未满足启动控件条件</translation>
+		</message>
+		<message>
+			<source>LID_1931</source>
+			<translation>变速系统控制中
+无法进入怠速启停</translation>
+		</message>
+		<message>
+			<source>LID_1932</source>
+			<translation>请检查所有胎压后
+保存初始值</translation>
+		</message>
+		<message>
+			<source>LID_1933</source>
+			<translation>请停车后设置</translation>
+		</message>
+		<message>
+			<source>LID_1934</source>
+			<translation>认证受限
+请XX分后重试</translation>
+		</message>
+		<message>
+			<source>LID_1935</source>
+			<translation>预测路况自动变速</translation>
+		</message>
+		<message>
+			<source>LID_1936</source>
+			<translation>进入弯道</translation>
+		</message>
+		<message>
+			<source>LID_1937</source>
+			<translation>注意合流</translation>
+		</message>
+		<message>
+			<source>LID_1938</source>
+			<translation>跟车随行</translation>
+		</message>
+		<message>
+			<source>LID_1939</source>
+			<translation>进入下坡</translation>
+		</message>
+		<message>
+			<source>LID_1940</source>
+			<translation>超速摄像头</translation>
+		</message>
+		<message>
+			<source>LID_1941</source>
+			<translation>停车让行</translation>
+		</message>
+		<message>
+			<source>LID_1942</source>
+			<translation>环岛行驶</translation>
+		</message>
+		<message>
+			<source>LID_1943</source>
+			<translation>其他</translation>
+		</message>
+		<message>
+			<source>LID_1944</source>
+			<translation>仅限于智能驾驶模式</translation>
+		</message>
+		<message>
+			<source>LID_1945</source>
+			<translation>电动+模式</translation>
+		</message>
+		<message>
+			<source>LID_1946</source>
+			<translation>为使用空调
+将转换为电动模式</translation>
+		</message>
+		<message>
+			<source>LID_1947</source>
+			<translation>系统温度低
+将转换为电动模式</translation>
+		</message>
+		<message>
+			<source>LID_1948</source>
+			<translation>系统温度高
+将转换为电动模式</translation>
+		</message>
+		<message>
+			<source>LID_1949</source>
+			<translation>无法使用电动+模式</translation>
+		</message>
+		<message>
+			<source>LID_1950</source>
+			<translation>请检查变速锁止系统</translation>
+		</message>
+		<message>
+			<source>LID_1951</source>
+			<translation>怠速启停已解除
+请踩刹车及
+离合踏板启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1952</source>
+			<translation>怠速启停已解除
+请切换至N挡启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1953</source>
+			<translation>前方为反向弯路
+自动转换为N模式
+</translation>
+		</message>
+		<message>
+			<source>LID_1954</source>
+			<translation>激活副驾驶安全气囊</translation>
+		</message>
+		<message>
+			<source>LID_1955</source>
+			<translation>关闭副驾驶安全气囊</translation>
+		</message>
+		<message>
+			<source>LID_1956</source>
+			<translation>请检查安全带系统</translation>
+		</message>
+		<message>
+			<source>LID_1957</source>
+			<translation>结束</translation>
+		</message>
+		<message>
+			<source>LID_1958</source>
+			<translation>进入CUSTOM 1
+ESC已关闭
+长按确认进入</translation>
+		</message>
+		<message>
+			<source>LID_1959</source>
+			<translation>进入CUSTOM 2
+ESC已关闭
+长按确认进入</translation>
+		</message>
+		<message>
+			<source>LID_1960</source>
+			<translation>请检查用户认证系统</translation>
+		</message>
+		<message>
+			<source>LID_1961</source>
+			<translation>生物识别信息已登录</translation>
+		</message>
+		<message>
+			<source>LID_1962</source>
+			<translation>数字密钥与
+生物识别信息已登录</translation>
+		</message>
+		<message>
+			<source>LID_1963</source>
+			<translation>已认证
+可启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1964</source>
+			<translation>车辆已启动
+（使用指纹认证）</translation>
+		</message>
+		<message>
+			<source>LID_1965</source>
+			<translation>车辆已启动
+（未使用智能钥匙）</translation>
+		</message>
+		<message>
+			<source>LID_1966</source>
+			<translation>照明亮度已调节</translation>
+		</message>
+		<message>
+			<source>LID_1967</source>
+			<translation>亮度最小</translation>
+		</message>
+		<message>
+			<source>LID_1968</source>
+			<translation>亮度最大</translation>
+		</message>
+		<message>
+			<source>LID_1969</source>
+			<translation>指纹不一致
+请重试</translation>
+		</message>
+		<message>
+			<source>LID_1970</source>
+			<translation>指纹不一致
+请在导航页面进行认证</translation>
+		</message>
+		<message>
+			<source>LID_1971</source>
+			<translation>认证成功
+可正常驾驶</translation>
+		</message>
+		<message>
+			<source>LID_1972</source>
+			<translation>请检查后侧方</translation>
+		</message>
+		<message>
+			<source>LID_1973</source>
+			<translation>自动调节速度限制</translation>
+		</message>
+		<message>
+			<source>LID_1974</source>
+			<translation>对外放电运行中</translation>
+		</message>
+		<message>
+			<source>LID_1975</source>
+			<translation>电池达到设定限度
+对外放电功能结束</translation>
+		</message>
+		<message>
+			<source>LID_1976</source>
+			<translation>当前条件无法运行
+对外放电功能</translation>
+		</message>
+		<message>
+			<source>LID_1977</source>
+			<translation>超过使用功率
+对外放电功能暂停</translation>
+		</message>
+		<message>
+			<source>LID_1978</source>
+			<translation>等待充电中</translation>
+		</message>
+		<message>
+			<source>LID_1979</source>
+			<translation>预约充电时间</translation>
+		</message>
+		<message>
+			<source>LID_1980</source>
+			<translation>星期一</translation>
+		</message>
+		<message>
+			<source>LID_1981</source>
+			<translation>星期二</translation>
+		</message>
+		<message>
+			<source>LID_1982</source>
+			<translation>星期三</translation>
+		</message>
+		<message>
+			<source>LID_1983</source>
+			<translation>星期四</translation>
+		</message>
+		<message>
+			<source>LID_1984</source>
+			<translation>星期五</translation>
+		</message>
+		<message>
+			<source>LID_1985</source>
+			<translation>星期六</translation>
+		</message>
+		<message>
+			<source>LID_1986</source>
+			<translation>星期日</translation>
+		</message>
+		<message>
+			<source>LID_1987</source>
+			<translation>有声读物</translation>
+		</message>
+		<message>
+			<source>LID_1988</source>
+			<translation>新闻资讯</translation>
+		</message>
+		<message>
+			<source>LID_1989</source>
+			<translation>请将要登录的设备
+放在无线充电器上再次尝试</translation>
+		</message>
+		<message>
+			<source>LID_1990</source>
+			<translation>远程控制车窗</translation>
+		</message>
+		<message>
+			<source>LID_1991</source>
+			<translation>可设置/解除
+远程控制车窗功能</translation>
+		</message>
+		<message>
+			<source>LID_1992</source>
+			<translation>显示平均能耗</translation>
+		</message>
+		<message>
+			<source>LID_1993</source>
+			<translation>选择仪表盘
+平均能耗显示方式</translation>
+		</message>
+		<message>
+			<source>LID_1994</source>
+			<translation>请踩刹车踏板后重试</translation>
+		</message>
+		<message>
+			<source>LID_1995</source>
+			<translation>已熄火！
+请切换至P或N挡
+再启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_1996</source>
+			<translation>移动硬设备内有更新文件
+是否现在更新？</translation>
+		</message>
+		<message>
+			<source>LID_1997</source>
+			<translation>预计所需时间：XX分</translation>
+		</message>
+		<message>
+			<source>LID_1998</source>
+			<translation>开始更新
+请不要移除移动设备</translation>
+		</message>
+		<message>
+			<source>LID_1999</source>
+			<translation>熄火后将继续更新</translation>
+		</message>
+		<message>
+			<source>LID_2000</source>
+			<translation>仪表盘软件信息</translation>
+		</message>
+		<message>
+			<source>LID_2001</source>
+			<translation>当前版本</translation>
+		</message>
+		<message>
+			<source>LID_2002</source>
+			<translation>最新版本</translation>
+		</message>
+		<message>
+			<source>LID_2003</source>
+			<translation>移动硬设备内有更新文件
+熄火后将进行更新</translation>
+		</message>
+		<message>
+			<source>LID_2004</source>
+			<translation>仪表盘内有更新文件
+更新过程中将无法启动车辆
+是否现在更新？</translation>
+		</message>
+		<message>
+			<source>LID_2005</source>
+			<translation>XX秒后开始更新
+更新过程中将无法启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_2006</source>
+			<translation>立即更新</translation>
+		</message>
+		<message>
+			<source>LID_2007</source>
+			<translation>取消</translation>
+		</message>
+		<message>
+			<source>LID_2008</source>
+			<translation>12V电池充电量不足
+请充电后再次更新</translation>
+		</message>
+		<message>
+			<source>LID_2009</source>
+			<translation>更新中...</translation>
+		</message>
+		<message>
+			<source>LID_2010</source>
+			<translation>稍后将重启仪表盘
+约XX分后
+仪表盘将再次启动
+请不要移除移动设备</translation>
+		</message>
+		<message>
+			<source>LID_2011</source>
+			<translation>更新完成</translation>
+		</message>
+		<message>
+			<source>LID_2012</source>
+			<translation>移动硬盘被移除
+已取消更新</translation>
+		</message>
+		<message>
+			<source>LID_2013</source>
+			<translation>更新错误
+正在恢复为原有版本</translation>
+		</message>
+		<message>
+			<source>LID_2014</source>
+			<translation>已恢复为原有版本</translation>
+		</message>
+		<message>
+			<source>LID_2015</source>
+			<translation>更新错误
+请咨询售后中心</translation>
+		</message>
+		<message>
+			<source>LID_2016</source>
+			<translation>取消更新</translation>
+		</message>
+		<message>
+			<source>LID_2017</source>
+			<translation>开始更新</translation>
+		</message>
+		<message>
+			<source>LID_2018</source>
+			<translation>更新中
+请不要移除移动设备</translation>
+		</message>
+		<message>
+			<source>LID_2020</source>
+			<translation>Engine</translation>
+		</message>
+		<message>
+			<source>LID_2021</source>
+			<translation>Steering</translation>
+		</message>
+		<message>
+			<source>LID_2022</source>
+			<translation>Suspension</translation>
+		</message>
+		<message>
+			<source>LID_2023</source>
+			<translation>前方为反向弯路
+按下OK键转换为N模式</translation>
+		</message>
+		<message>
+			<source>LID_2024</source>
+			<translation>前方为反向弯路</translation>
+		</message>
+		<message>
+			<source>LID_2025</source>
+			<translation>进入N模式</translation>
+		</message>
+		<message>
+			<source>LID_2026</source>
+			<translation>有声读物</translation>
+		</message>
+		<message>
+			<source>LID_2027</source>
+			<translation>新闻资讯</translation>
+		</message>
+		<message>
+			<source>LID_2031</source>
+			<translation>启动</translation>
+		</message>
+		<message>
+			<source>LID_2032</source>
+			<translation>空闲模式</translation>
+		</message>
+		<message>
+			<source>LID_2033</source>
+			<translation>空闲充电模式</translation>
+		</message>
+		<message>
+			<source>LID_2034</source>
+			<translation>正常（辅助）模式</translation>
+		</message>
+		<message>
+			<source>LID_2035</source>
+			<translation>正常（充电）模式</translation>
+		</message>
+		<message>
+			<source>LID_2036</source>
+			<translation>电池模式</translation>
+		</message>
+		<message>
+			<source>LID_2037</source>
+			<translation>再生制动模式</translation>
+		</message>
+		<message>
+			<source>LID_2038</source>
+			<translation>燃料电池模式</translation>
+		</message>
+		<message>
+			<source>LID_2039</source>
+			<translation>系统关闭</translation>
+		</message>
+		<message>
+			<source>LID_2040</source>
+			<translation>电池过热危险！
+请立即停车并远离车辆</translation>
+		</message>
+		<message>
+			<source>LID_2041</source>
+			<translation>请补充驱动电机冷却液</translation>
+		</message>
+		<message>
+			<source>LID_2042</source>
+			<translation>请补充电池冷却液</translation>
+		</message>
+		<message>
+			<source>LID_2043</source>
+			<translation>漂移模式已激活</translation>
+		</message>
+		<message>
+			<source>LID_2044</source>
+			<translation>漂移模式已解除</translation>
+		</message>
+		<message>
+			<source>LID_2045</source>
+			<translation>当前环境无法进入漂移模式</translation>
+		</message>
+		<message>
+			<source>LID_2046</source>
+			<translation>请确认后座乘客或随身物品</translation>
+		</message>
+		<message>
+			<source>LID_2047</source>
+			<translation>探测后座乘客解除</translation>
+		</message>
+		<message>
+			<source>LID_2048</source>
+			<translation>挂车模式已开启</translation>
+		</message>
+		<message>
+			<source>LID_2049</source>
+			<translation>变速系统异常！
+请立即检查变速器</translation>
+		</message>
+		<message>
+			<source>LID_2050</source>
+			<translation>请检查AWD/4WD系统</translation>
+		</message>
+		<message>
+			<source>LID_2051</source>
+			<translation>动力电池温度低
+启动电池温度优化功能</translation>
+		</message>
+		<message>
+			<source>LID_2052</source>
+			<translation>将快速充电
+已启动电池温度优化功能</translation>
+		</message>
+		<message>
+			<source>LID_2053</source>
+			<translation>电池温度已优化</translation>
+		</message>
+		<message>
+			<source>LID_2054</source>
+			<translation>电池调节模式</translation>
+		</message>
+		<message>
+			<source>LID_2055</source>
+			<translation>外部气温低时将电池温度
+调节至最优化确保行驶性能
+或者当设定快充充电站为
+目的地时&#44;为到达充电站时
+可立即充电&#44;提前将
+电池温度调节至最优化</translation>
+		</message>
+		<message>
+			<source>LID_2056</source>
+			<translation>滑行模式</translation>
+		</message>
+		<message>
+			<source>LID_2057</source>
+			<translation>摄像头视野受限
+前方/侧方安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2058</source>
+			<translation>雷达探测受限
+前方/侧方安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2059</source>
+			<translation>请检查前方/侧方安全系统</translation>
+		</message>
+		<message>
+			<source>LID_2060</source>
+			<translation>摄像头视野受限
+车道安全系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2061</source>
+			<translation>请检查注意驾驶警告系统</translation>
+		</message>
+		<message>
+			<source>LID_2062</source>
+			<translation>摄像头视野受限
+注意驾驶警告系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2063</source>
+			<translation>注意驾驶警告</translation>
+		</message>
+		<message>
+			<source>LID_2064</source>
+			<translation>挂车已连接
+无法启动驾驶员辅助系统</translation>
+		</message>
+		<message>
+			<source>LID_2065</source>
+			<translation>行驶安全</translation>
+		</message>
+		<message>
+			<source>LID_2066</source>
+			<translation>设置行驶安全系统</translation>
+		</message>
+		<message>
+			<source>LID_2067</source>
+			<translation>前方安全警告时间</translation>
+		</message>
+		<message>
+			<source>LID_2068</source>
+			<translation>设置前方安全系统警告时间</translation>
+		</message>
+		<message>
+			<source>LID_2069</source>
+			<translation>前方或侧方有碰撞危险时
+通过警告并控制车辆
+辅助防撞进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_2070</source>
+			<translation>后侧方存在
+碰撞危险时警告，
+出发时控制车辆
+进行防撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_2073</source>
+			<translation>安全下车</translation>
+		</message>
+		<message>
+			<source>LID_2074</source>
+			<translation>轮胎规格</translation>
+		</message>
+		<message>
+			<source>LID_2075</source>
+			<translation>设置车辆安装的轮胎规格
+使胎压监测系统正常工作</translation>
+		</message>
+		<message>
+			<source>LID_2076</source>
+			<translation>标准轮胎</translation>
+		</message>
+		<message>
+			<source>LID_2077</source>
+			<translation>车辆安装标准
+规格的轮胎时选择</translation>
+		</message>
+		<message>
+			<source>LID_2078</source>
+			<translation>可安装防滑链的轮胎</translation>
+		</message>
+		<message>
+			<source>LID_2079</source>
+			<translation>车辆安装防滑链轮胎
+代替标准轮胎时选择</translation>
+		</message>
+		<message>
+			<source>LID_2080</source>
+			<translation>持续保持高速公路
+自动驾驶功能
+将脱离原导航路径</translation>
+		</message>
+		<message>
+			<source>LID_2081</source>
+			<translation>请松开油门踏板</translation>
+		</message>
+		<message>
+			<source>LID_2082</source>
+			<translation>请松开刹车踏板</translation>
+		</message>
+		<message>
+			<source>LID_2083</source>
+			<translation>高速公路自动驾驶
+工作中无法使用</translation>
+		</message>
+		<message>
+			<source>LID_2084</source>
+			<translation>设置速度已变更</translation>
+		</message>
+		<message>
+			<source>LID_2085</source>
+			<translation>长按开始按键
+进入高速公路自动驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2086</source>
+			<translation>可使用
+高速公路自动驾驶功能</translation>
+		</message>
+		<message>
+			<source>LID_2087</source>
+			<translation>紧急停车后
+需再次启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_2088</source>
+			<translation>需要开通智能互联服务</translation>
+		</message>
+		<message>
+			<source>LID_2089</source>
+			<translation>请更新车辆后再使用</translation>
+		</message>
+		<message>
+			<source>LID_2090</source>
+			<translation>当前路段无法工作</translation>
+		</message>
+		<message>
+			<source>LID_2091</source>
+			<translation>请将车辆驾驶至
+高速公路主路</translation>
+		</message>
+		<message>
+			<source>LID_2092</source>
+			<translation>传感器自我诊断中</translation>
+		</message>
+		<message>
+			<source>LID_2093</source>
+			<translation>请切换至D挡</translation>
+		</message>
+		<message>
+			<source>LID_2094</source>
+			<translation>怠速启停中
+请启动车辆</translation>
+		</message>
+		<message>
+			<source>LID_2095</source>
+			<translation>请保持车距</translation>
+		</message>
+		<message>
+			<source>LID_2096</source>
+			<translation>车速过快</translation>
+		</message>
+		<message>
+			<source>LID_2097</source>
+			<translation>请保持车辆在车道中央</translation>
+		</message>
+		<message>
+			<source>LID_2098</source>
+			<translation>远程智能停车辅助功能
+已启动</translation>
+		</message>
+		<message>
+			<source>LID_2099</source>
+			<translation>请激活车辆稳定控制功能</translation>
+		</message>
+		<message>
+			<source>LID_2100</source>
+			<translation>检测到紧急刹车或转向
+无法使用高速公路
+自动驾驶功能</translation>
+		</message>
+		<message>
+			<source>LID_2101</source>
+			<translation>握住方向盘可解除
+高速公路自动驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2102</source>
+			<translation>检测到碰撞</translation>
+		</message>
+		<message>
+			<source>LID_2103</source>
+			<translation>检测到踩油门踏板</translation>
+		</message>
+		<message>
+			<source>LID_2104</source>
+			<translation>检测到操作变速器</translation>
+		</message>
+		<message>
+			<source>LID_2105</source>
+			<translation>检测到踩刹车踏板</translation>
+		</message>
+		<message>
+			<source>LID_2106</source>
+			<translation>检测到操作启动键</translation>
+		</message>
+		<message>
+			<source>LID_2107</source>
+			<translation>停车时间过久
+高速公路自动驾驶已停止</translation>
+		</message>
+		<message>
+			<source>LID_2108</source>
+			<translation>前方无支持路段</translation>
+		</message>
+		<message>
+			<source>LID_2109</source>
+			<translation>探测到偏离车道</translation>
+		</message>
+		<message>
+			<source>LID_2110</source>
+			<translation>已超过最高车速</translation>
+		</message>
+		<message>
+			<source>LID_2111</source>
+			<translation>请检查
+高速公路自动驾驶系统</translation>
+		</message>
+		<message>
+			<source>LID_2112</source>
+			<translation>已启动安全功能</translation>
+		</message>
+		<message>
+			<source>LID_2113</source>
+			<translation>摄像头视野受限</translation>
+		</message>
+		<message>
+			<source>LID_2114</source>
+			<translation>雷达探测受限</translation>
+		</message>
+		<message>
+			<source>LID_2115</source>
+			<translation>激光探测受限</translation>
+		</message>
+		<message>
+			<source>LID_2116</source>
+			<translation>当前位置不适合安全驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2117</source>
+			<translation>前方有倒车或逆行车辆</translation>
+		</message>
+		<message>
+			<source>LID_2118</source>
+			<translation>后方有应急车辆</translation>
+		</message>
+		<message>
+			<source>LID_2119</source>
+			<translation>前方有非车辆物体</translation>
+		</message>
+		<message>
+			<source>LID_2120</source>
+			<translation>探测到下雨/雪</translation>
+		</message>
+		<message>
+			<source>LID_2121</source>
+			<translation>路面湿滑</translation>
+		</message>
+		<message>
+			<source>LID_2122</source>
+			<translation>未检测到道路信息</translation>
+		</message>
+		<message>
+			<source>LID_2123</source>
+			<translation>未检测到车道</translation>
+		</message>
+		<message>
+			<source>LID_2124</source>
+			<translation>未检测到驾驶员</translation>
+		</message>
+		<message>
+			<source>LID_2125</source>
+			<translation>请集中注意力驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2126</source>
+			<translation>燃料不足</translation>
+		</message>
+		<message>
+			<source>LID_2127</source>
+			<translation>电量不足</translation>
+		</message>
+		<message>
+			<source>LID_2128</source>
+			<translation>轮胎气压低</translation>
+		</message>
+		<message>
+			<source>LID_2129</source>
+			<translation>检测到车门开启</translation>
+		</message>
+		<message>
+			<source>LID_2130</source>
+			<translation>检测到行李箱开启</translation>
+		</message>
+		<message>
+			<source>LID_2131</source>
+			<translation>检测到机舱盖开启</translation>
+		</message>
+		<message>
+			<source>LID_2132</source>
+			<translation>未系安全带</translation>
+		</message>
+		<message>
+			<source>LID_2133</source>
+			<translation>驻车制动已开启</translation>
+		</message>
+		<message>
+			<source>LID_2134</source>
+			<translation>高速公路自动驾驶
+已开启</translation>
+		</message>
+		<message>
+			<source>LID_2135</source>
+			<translation>请接管并操控车辆</translation>
+		</message>
+		<message>
+			<source>LID_2136</source>
+			<translation>已紧急停车
+请接管并操控车辆</translation>
+		</message>
+		<message>
+			<source>LID_2137</source>
+			<translation>有碰撞危险
+紧急控制车辆</translation>
+		</message>
+		<message>
+			<source>LID_2138</source>
+			<translation>已解除高速公路自动驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2139</source>
+			<translation>当前环境无法启动
+高速公路自动驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2140</source>
+			<translation>请停车后再试一次</translation>
+		</message>
+		<message>
+			<source>LID_2141</source>
+			<translation>当前环境无法自动
+解除电子驻车制动
+请系好安全带
+关闭车门/机舱盖/
+行李箱或尾门</translation>
+		</message>
+		<message>
+			<source>LID_2142</source>
+			<translation>当前环境无法操作
+AUTO HOLD
+请关闭车门/机舱盖/
+行李箱或尾门</translation>
+		</message>
+		<message>
+			<source>LID_2143</source>
+			<translation>无法自动解除
+电子驻车制动系统
+请关闭车门/机舱盖/
+行李箱或尾门</translation>
+		</message>
+		<message>
+			<source>LID_2144</source>
+			<translation>超声波传感器
+探测受限
+泊车距离警告系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2145</source>
+			<translation>超声波传感器
+探测受限
+泊车防止碰撞辅助已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2146</source>
+			<translation>摄像头视野受限
+泊车防止碰撞辅助已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2147</source>
+			<translation>请检查泊车防止碰撞辅助</translation>
+		</message>
+		<message>
+			<source>LID_2148</source>
+			<translation>请检查泊车距离警告系统</translation>
+		</message>
+		<message>
+			<source>LID_2149</source>
+			<translation>ECO 行驶信息</translation>
+		</message>
+		<message>
+			<source>LID_2150</source>
+			<translation>前方为反向弯路</translation>
+		</message>
+		<message>
+			<source>LID_2151</source>
+			<translation>当前环境无法进入
+AUTO CLUTCH
+请参考用户手册</translation>
+		</message>
+		<message>
+			<source>LID_2152</source>
+			<translation>当前环境无法解除
+AUTO CLUTCH
+请参考用户手册</translation>
+		</message>
+		<message>
+			<source>LID_2153</source>
+			<translation>AUTO CLUTCH模式
+请勿踩离合踏板</translation>
+		</message>
+		<message>
+			<source>LID_2154</source>
+			<translation>AR显示为基本模式</translation>
+		</message>
+		<message>
+			<source>LID_2156</source>
+			<translation>选定驾驶员后显示</translation>
+		</message>
+		<message>
+			<source>LID_2157</source>
+			<translation>请手动旋转
+换挡旋钮</translation>
+		</message>
+		<message>
+			<source>LID_2158</source>
+			<translation>请清理
+变速装置周围障碍物</translation>
+		</message>
+		<message>
+			<source>LID_2159</source>
+			<translation>当前环境
+无法使用助力加速</translation>
+		</message>
+		<message>
+			<source>LID_2160</source>
+			<translation>电池电量不足
+无法使用助力加速</translation>
+		</message>
+		<message>
+			<source>LID_2161</source>
+			<translation>助力加速</translation>
+		</message>
+		<message>
+			<source>LID_2162</source>
+			<translation>快速按下“确定”按钮
+3 次，以重置当前选定
+的小组件</translation>
+		</message>
+		<message>
+			<source>LID_2163</source>
+			<translation>已断开导航</translation>
+		</message>
+		<message>
+			<source>LID_2164</source>
+			<translation>导航系统更新中</translation>
+		</message>
+		<message>
+			<source>LID_2165</source>
+			<translation>前方1km拥堵</translation>
+		</message>
+		<message>
+			<source>LID_2166</source>
+			<translation>按OK键搜索
+或显示已关闭小组件</translation>
+		</message>
+		<message>
+			<source>LID_2167</source>
+			<translation>按住“确定”按钮以隐藏
+仪表板小组件</translation>
+		</message>
+		<message>
+			<source>LID_2168</source>
+			<translation>不搜索小组件时
+左右滑动可变更歌曲/频道</translation>
+		</message>
+		<message>
+			<source>LID_2169</source>
+			<translation>继续</translation>
+		</message>
+		<message>
+			<source>LID_2170</source>
+			<translation>不再提示</translation>
+		</message>
+		<message>
+			<source>LID_2171</source>
+			<translation>弱</translation>
+		</message>
+		<message>
+			<source>LID_2172</source>
+			<translation>强</translation>
+		</message>
+		<message>
+			<source>LID_2173</source>
+			<translation>请踩刹车踏板后
+按P→N PARK键</translation>
+		</message>
+		<message>
+			<source>LID_2174</source>
+			<translation>请检查P→N PARK键</translation>
+		</message>
+		<message>
+			<source>LID_2175</source>
+			<translation>对外放电运行中</translation>
+		</message>
+		<message>
+			<source>LID_2176</source>
+			<translation>地图准备中
+请稍后</translation>
+		</message>
+		<message>
+			<source>LID_2177</source>
+			<translation>模式变更</translation>
+		</message>
+		<message>
+			<source>LID_2178</source>
+			<translation>移动</translation>
+		</message>
+		<message>
+			<source>LID_2179</source>
+			<translation>关闭</translation>
+		</message>
+		<message>
+			<source>LID_2180</source>
+			<translation>请检查车身控制系统</translation>
+		</message>
+		<message>
+			<source>LID_2181</source>
+			<translation>车辆稳定控制功能受限</translation>
+		</message>
+		<message>
+			<source>LID_2182</source>
+			<translation>充电中断
+请确认充电器</translation>
+		</message>
+		<message>
+			<source>LID_2183</source>
+			<translation>请携带智能钥匙
+保持车辆启动状态</translation>
+		</message>
+		<message>
+			<source>LID_2184</source>
+			<translation>清洁制动盘</translation>
+		</message>
+		<message>
+			<source>LID_2185</source>
+			<translation>儿童锁</translation>
+		</message>
+		<message>
+			<source>LID_2186</source>
+			<translation>TOW模式</translation>
+		</message>
+		<message>
+			<source>LID_2187</source>
+			<translation>摄像头视野受限
+变道辅助功能已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2188</source>
+			<translation>雷达探测受限
+变道辅助功能已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2189</source>
+			<translation>超速时警告</translation>
+		</message>
+		<message>
+			<source>LID_2190</source>
+			<translation>后门开启并关闭后
+下车时提示确认
+后座乘客与物品</translation>
+		</message>
+		<message>
+			<source>LID_2191</source>
+			<translation>拖车模式</translation>
+		</message>
+		<message>
+			<source>LID_2192</source>
+			<translation>轻量级</translation>
+		</message>
+		<message>
+			<source>LID_2193</source>
+			<translation>中量级</translation>
+		</message>
+		<message>
+			<source>LID_2194</source>
+			<translation>重量级</translation>
+		</message>
+		<message>
+			<source>LID_2195</source>
+			<translation>当牵引拖车时此功能
+可保证驾驶性能，
+并估计可行驶里程</translation>
+		</message>
+		<message>
+			<source>LID_2196</source>
+			<translation>禁用拖车模式</translation>
+		</message>
+		<message>
+			<source>LID_2197</source>
+			<translation>自动设置拖车重量</translation>
+		</message>
+		<message>
+			<source>LID_2198</source>
+			<translation>设置拖车重量</translation>
+		</message>
+		<message>
+			<source>LID_2199</source>
+			<translation>自动</translation>
+		</message>
+		<message>
+			<source>LID_2200</source>
+			<translation>普通</translation>
+		</message>
+		<message>
+			<source>LID_2201</source>
+			<translation>充电语音提示</translation>
+		</message>
+		<message>
+			<source>LID_2202</source>
+			<translation>当车辆开始充电时，
+提供语音通知</translation>
+		</message>
+		<message>
+			<source>LID_2203</source>
+			<translation>高</translation>
+		</message>
+		<message>
+			<source>LID_2204</source>
+			<translation>中</translation>
+		</message>
+		<message>
+			<source>LID_2205</source>
+			<translation>低</translation>
+		</message>
+		<message>
+			<source>LID_2206</source>
+			<translation>电动尾门</translation>
+		</message>
+		<message>
+			<source>LID_2207</source>
+			<translation>智能尾门</translation>
+		</message>
+		<message>
+			<source>LID_2208</source>
+			<translation>请选择尾门自动开启
+再设置</translation>
+		</message>
+		<message>
+			<source>LID_2209</source>
+			<translation>携带智能钥匙靠近尾门时
+尾门将自动开启</translation>
+		</message>
+		<message>
+			<source>LID_2210</source>
+			<translation>可使用尾门自动开启键
+自动开/关尾门</translation>
+		</message>
+		<message>
+			<source>LID_2211</source>
+			<translation>当前环境无法自动解除
+电子驻车制动，
+请系好安全带，
+关闭车门/机舱盖/尾门</translation>
+		</message>
+		<message>
+			<source>LID_2212</source>
+			<translation>当前环境无法操作
+AUTO HOLD。
+请关闭车门/机舱盖/尾门</translation>
+		</message>
+		<message>
+			<source>LID_2213</source>
+			<translation>无法自动解除
+电子驻车制动系统
+请关闭车门/机舱盖/尾门</translation>
+		</message>
+		<message>
+			<source>LID_2214</source>
+			<translation>电动尾门速度</translation>
+		</message>
+		<message>
+			<source>LID_2215</source>
+			<translation>选择电动尾门
+开启和关闭的速度</translation>
+		</message>
+		<message>
+			<source>LID_2216</source>
+			<translation>请关闭尾门后再设置</translation>
+		</message>
+		<message>
+			<source>LID_2217</source>
+			<translation>电动尾门开启速度 </translation>
+		</message>
+		<message>
+			<source>LID_2218</source>
+			<translation>电动尾门开启高度</translation>
+		</message>
+		<message>
+			<source>LID_2219</source>
+			<translation>请检查行李箱/尾门系统</translation>
+		</message>
+		<message>
+			<source>LID_2220</source>
+			<translation>选择电动尾门开启高度</translation>
+		</message>
+		<message>
+			<source>LID_2221</source>
+			<translation>遥控开启电动门及尾门</translation>
+		</message>
+		<message>
+			<source>LID_2222</source>
+			<translation>长按3秒智能钥匙解锁键
+同时开启电动门及尾门
+</translation>
+		</message>
+		<message>
+			<source>LID_2223</source>
+			<translation>开启尾门及两侧滑动门
+</translation>
+		</message>
+		<message>
+			<source>LID_2224</source>
+			<translation>长按3秒智能钥匙解锁键
+同时开启尾门及两侧滑动门
+</translation>
+		</message>
+		<message>
+			<source>LID_2225</source>
+			<translation>不使用遥控开门功能</translation>
+		</message>
+		<message>
+			<source>LID_2226</source>
+			<translation>当前环境无法自动
+解除电子驻车制动
+请系好安全带
+关闭车门/机舱盖/
+行李箱或尾门</translation>
+		</message>
+		<message>
+			<source>LID_2227</source>
+			<translation>当前环境无法操作
+AUTO HOLD
+请关闭车门/机舱盖/
+行李箱或尾门</translation>
+		</message>
+		<message>
+			<source>LID_2228</source>
+			<translation>无法自动解除
+电子驻车制动系统
+请关闭车门/机舱盖/
+行李箱或尾门</translation>
+		</message>
+		<message>
+			<source>LID_2229</source>
+			<translation>选择电动行李箱
+自动移动时的高度</translation>
+		</message>
+		<message>
+			<source>LID_2230</source>
+			<translation>轮胎气压高
+请调整到标准胎压</translation>
+		</message>
+		<message>
+			<source>LID_2231</source>
+			<translation>颗粒捕捉器再生
+请继续行驶</translation>
+		</message>
+		<message>
+			<source>LID_2232</source>
+			<translation>雷达探测受限
+安全下车系统已暂停</translation>
+		</message>
+		<message>
+			<source>LID_2233</source>
+			<translation>请检查安全下车系统</translation>
+		</message>
+		<message>
+			<source>LID_2234</source>
+			<translation>设置方向盘震动警告</translation>
+		</message>
+		<message>
+			<source>LID_2235</source>
+			<translation>保养信息</translation>
+		</message>
+		<message>
+			<source>LID_2236</source>
+			<translation>请按[OK]键查看</translation>
+		</message>
+		<message>
+			<source>LID_2237</source>
+			<translation>尾门自动关闭</translation>
+		</message>
+		<message>
+			<source>LID_2238</source>
+			<translation>携带智能钥匙
+远离车辆后方时
+尾门将自动关闭</translation>
+		</message>
+		<message>
+			<source>LID_2239</source>
+			<translation>启动后能耗</translation>
+		</message>
+		<message>
+			<source>LID_2240</source>
+			<translation>累计能耗</translation>
+		</message>
+		<message>
+			<source>LID_2241</source>
+			<translation>轮胎气压低！
+请检查全部轮胎后
+保存轮胎气压</translation>
+		</message>
+		<message>
+			<source>LID_2242</source>
+			<translation>尿素含量低
+可用范围：0000 公里</translation>
+		</message>
+		<message>
+			<source>LID_2243</source>
+			<translation>尿素含量低
+可用范围：0000 英里</translation>
+		</message>
+		<message>
+			<source>LID_2244</source>
+			<translation>请补充尿素
+可用范围：0000 公里</translation>
+		</message>
+		<message>
+			<source>LID_2245</source>
+			<translation>请补充尿素
+可用范围：0000 英里</translation>
+		</message>
+		<message>
+			<source>LID_2246</source>
+			<translation>请安全停车
+检查48V系统</translation>
+		</message>
+		<message>
+			<source>LID_2247</source>
+			<translation>发动机温度过高请缓慢驾驶</translation>
+		</message>
+		<message>
+			<source>LID_2248</source>
+			<translation>打开/关闭副驾驶安全气囊</translation>
+		</message>
+		<message>
+			<source>LID_2255</source>
+			<translation>左前轮胎气压低！
+请检查全部轮胎后
+保存轮胎气压</translation>
+		</message>
+		<message>
+			<source>LID_2256</source>
+			<translation>右前轮胎气压低！
+请检查全部轮胎后
+保存轮胎气压</translation>
+		</message>
+		<message>
+			<source>LID_2257</source>
+			<translation>左后轮胎气压低！
+请检查全部轮胎后
+保存轮胎气压</translation>
+		</message>
+		<message>
+			<source>LID_2258</source>
+			<translation>右后轮胎气压低！
+请检查全部轮胎后
+保存轮胎气压</translation>
+		</message>
+		<message>
+			<source>LID_2260</source>
+			<translation>选择国家/地区</translation>
+		</message>
+		<message>
+			<source>LID_2261</source>
+			<translation>其他国家/地区</translation>
+		</message>
+		<message>
+			<source>LID_2262</source>
+			<translation>更改为 %s</translation>
+		</message>
+		<message>
+			<source>LID_2263</source>
+			<translation>当前</translation>
+		</message>
+		<message>
+			<source>LID_2264</source>
+			<translation>仅显示数字信号</translation>
+		</message>
+		<message>
+			<source>LID_2265</source>
+			<translation>阿尔巴尼亚</translation>
+		</message>
+		<message>
+			<source>LID_2266</source>
+			<translation>安道尔</translation>
+		</message>
+		<message>
+			<source>LID_2267</source>
+			<translation>奥地利</translation>
+		</message>
+		<message>
+			<source>LID_2268</source>
+			<translation>比利时</translation>
+		</message>
+		<message>
+			<source>LID_2269</source>
+			<translation>保加利亚</translation>
+		</message>
+		<message>
+			<source>LID_2270</source>
+			<translation>波斯尼亚和黑塞哥维那</translation>
+		</message>
+		<message>
+			<source>LID_2271</source>
+			<translation>加那利群岛</translation>
+		</message>
+		<message>
+			<source>LID_2272</source>
+			<translation>休达</translation>
+		</message>
+		<message>
+			<source>LID_2273</source>
+			<translation>克罗地亚</translation>
+		</message>
+		<message>
+			<source>LID_2274</source>
+			<translation>塞浦路斯</translation>
+		</message>
+		<message>
+			<source>LID_2275</source>
+			<translation>捷克共和国</translation>
+		</message>
+		<message>
+			<source>LID_2276</source>
+			<translation>丹麦</translation>
+		</message>
+		<message>
+			<source>LID_2277</source>
+			<translation>爱沙尼亚</translation>
+		</message>
+		<message>
+			<source>LID_2278</source>
+			<translation>芬兰</translation>
+		</message>
+		<message>
+			<source>LID_2279</source>
+			<translation>法国</translation>
+		</message>
+		<message>
+			<source>LID_2280</source>
+			<translation>法属圭亚那</translation>
+		</message>
+		<message>
+			<source>LID_2281</source>
+			<translation>德国</translation>
+		</message>
+		<message>
+			<source>LID_2282</source>
+			<translation>希腊</translation>
+		</message>
+		<message>
+			<source>LID_2283</source>
+			<translation>瓜德罗普岛</translation>
+		</message>
+		<message>
+			<source>LID_2284</source>
+			<translation>匈牙利</translation>
+		</message>
+		<message>
+			<source>LID_2285</source>
+			<translation>伊朗</translation>
+		</message>
+		<message>
+			<source>LID_2286</source>
+			<translation>冰岛</translation>
+		</message>
+		<message>
+			<source>LID_2287</source>
+			<translation>爱尔兰</translation>
+		</message>
+		<message>
+			<source>LID_2288</source>
+			<translation>以色列</translation>
+		</message>
+		<message>
+			<source>LID_2289</source>
+			<translation>意大利</translation>
+		</message>
+		<message>
+			<source>LID_2290</source>
+			<translation>拉脱维亚</translation>
+		</message>
+		<message>
+			<source>LID_2291</source>
+			<translation>列支敦士登</translation>
+		</message>
+		<message>
+			<source>LID_2292</source>
+			<translation>立陶宛</translation>
+		</message>
+		<message>
+			<source>LID_2293</source>
+			<translation>卢森堡</translation>
+		</message>
+		<message>
+			<source>LID_2294</source>
+			<translation>马耳他</translation>
+		</message>
+		<message>
+			<source>LID_2295</source>
+			<translation>马提尼克</translation>
+		</message>
+		<message>
+			<source>LID_2296</source>
+			<translation>马约特</translation>
+		</message>
+		<message>
+			<source>LID_2297</source>
+			<translation>梅利利亚</translation>
+		</message>
+		<message>
+			<source>LID_2298</source>
+			<translation>摩纳哥</translation>
+		</message>
+		<message>
+			<source>LID_2299</source>
+			<translation>黑山</translation>
+		</message>
+		<message>
+			<source>LID_2300</source>
+			<translation>荷兰</translation>
+		</message>
+		<message>
+			<source>LID_2301</source>
+			<translation>新喀里多尼</translation>
+		</message>
+		<message>
+			<source>LID_2302</source>
+			<translation>北马其顿</translation>
+		</message>
+		<message>
+			<source>LID_2303</source>
+			<translation>挪威</translation>
+		</message>
+		<message>
+			<source>LID_2304</source>
+			<translation>巴勒斯坦</translation>
+		</message>
+		<message>
+			<source>LID_2305</source>
+			<translation>波兰</translation>
+		</message>
+		<message>
+			<source>LID_2306</source>
+			<translation>葡萄牙</translation>
+		</message>
+		<message>
+			<source>LID_2307</source>
+			<translation>留尼汪</translation>
+		</message>
+		<message>
+			<source>LID_2308</source>
+			<translation>罗马尼亚</translation>
+		</message>
+		<message>
+			<source>LID_2309</source>
+			<translation>圣马力诺</translation>
+		</message>
+		<message>
+			<source>LID_2310</source>
+			<translation>塞尔维亚</translation>
+		</message>
+		<message>
+			<source>LID_2311</source>
+			<translation>斯洛伐克</translation>
+		</message>
+		<message>
+			<source>LID_2312</source>
+			<translation>斯洛文尼亚</translation>
+		</message>
+		<message>
+			<source>LID_2313</source>
+			<translation>西班牙</translation>
+		</message>
+		<message>
+			<source>LID_2314</source>
+			<translation>瑞典</translation>
+		</message>
+		<message>
+			<source>LID_2315</source>
+			<translation>瑞士</translation>
+		</message>
+		<message>
+			<source>LID_2316</source>
+			<translation>土耳其</translation>
+		</message>
+		<message>
+			<source>LID_2317</source>
+			<translation>英国</translation>
+		</message>
+		<message>
+			<source>LID_2318</source>
+			<translation>梵蒂冈城</translation>
+		</message>
+		<message>
+			<source>LID_2319</source>
+			<translation>选择限速系统对应的
+国家/地区</translation>
+		</message>
+	</context>
+</TS>
